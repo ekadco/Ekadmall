@@ -1,0 +1,198 @@
+{
+  "brand": "هانا",
+  "brand_url": "https://ekadmall.com/brand/hana",
+  "extracted_on": "2026-11-11",
+  "version": 1,
+  "product_count": 16,
+  "data_policy": "Product titles, assigned product categories and tags are preserved exactly as displayed on Ekadmall. Manufacturer sub-brand names in titles are not split into separate brand records. Variable price and stock fields should be refreshed from the live store.",
+  "products": [
+    {
+      "title": "کود ارگانیک پودری ویژه پسته هانا (Pistachio)",
+      "url": "https://ekadmall.com/product/%DA%A9%D9%88%D8%AF-%D8%A7%D8%B1%DA%AF%D8%A7%D9%86%DB%8C%DA%A9-%D9%BE%D9%88%D8%AF%D8%B1%DB%8C-%D9%88%DB%8C%DA%98%D9%87-%D9%BE%D8%B3%D8%AA%D9%87-%D9%87%D8%A7%D9%86%D8%A7-pistachio/",
+      "category": "کودهای تخصصی",
+      "tags": [
+        "کود ارگانیک",
+        "کود پر کننده مغز",
+        "کود پودری",
+        "کود تقویت رشد گیاه",
+        "کود مخصوص باغ و ویلا"
+      ]
+    },
+    {
+      "title": "کود ارگانیک پودری ویژه زعفران هانا (Saffron)",
+      "url": "https://ekadmall.com/product/%DA%A9%D9%88%D8%AF-%D8%A7%D8%B1%DA%AF%D8%A7%D9%86%DB%8C%DA%A9-%D9%BE%D9%88%D8%AF%D8%B1%DB%8C-%D9%88%DB%8C%DA%98%D9%87-%D8%B2%D8%B9%D9%81%D8%B1%D8%A7%D9%86-%D9%87%D8%A7%D9%86%D8%A7-saffron/",
+      "category": "کودهای تخصصی",
+      "tags": [
+        "کود ارگانیک",
+        "کود افزایش باردهی",
+        "کود پودری",
+        "کود تقویت رشد گیاه",
+        "کود ثبت شده",
+        "کود دارای آنالیز"
+      ]
+    },
+    {
+      "title": "کود ارگانیک پودری ویژه چغندر قند هانا (Suger Beet)",
+      "url": "https://ekadmall.com/product/%DA%A9%D9%88%D8%AF-%D8%A7%D8%B1%DA%AF%D8%A7%D9%86%DB%8C%DA%A9-%D9%BE%D9%88%D8%AF%D8%B1%DB%8C-%D9%88%DB%8C%DA%98%D9%87-%DA%86%D8%BA%D9%86%D8%AF%D8%B1-%D9%82%D9%86%D8%AF-%D9%87%D8%A7%D9%86%D8%A7-suger/",
+      "category": "کودهای تخصصی",
+      "tags": [
+        "کود ارگانیک",
+        "کود افزایش باردهی",
+        "کود افزایش قند و شیرینی",
+        "کود پودری",
+        "کود ثبت شده",
+        "کود دارای آنالیز"
+      ]
+    },
+    {
+      "title": "کود کامل ارگانیک پودری هانا (بایوما گلد)",
+      "url": "https://ekadmall.com/product/%DA%A9%D9%88%D8%AF-%DA%A9%D8%A7%D9%85%D9%84-%D8%A7%D8%B1%DA%AF%D8%A7%D9%86%DB%8C%DA%A9-%D9%BE%D9%88%D8%AF%D8%B1%DB%8C-%D9%87%D8%A7%D9%86%D8%A7-%D8%A8%D8%A7%DB%8C%D9%88%D9%85%D8%A7-%DA%AF%D9%84%D8%AF/",
+      "category": "کودهای کامل و کمپلکس",
+      "tags": [
+        "خرید کود کشاورزی ایرانی",
+        "کود ارگانیک",
+        "کود افزایش باردهی",
+        "کود پودری",
+        "کود تقویت ریشه",
+        "کود ثبت شده",
+        "کود دارای آنالیز"
+      ]
+    },
+    {
+      "title": "کود کامل ارگانیک پودری هانا (بایوما)",
+      "url": "https://ekadmall.com/product/%DA%A9%D9%88%D8%AF-%DA%A9%D8%A7%D9%85%D9%84-%D8%A7%D8%B1%DA%AF%D8%A7%D9%86%DB%8C%DA%A9-%D9%BE%D9%88%D8%AF%D8%B1%DB%8C-%D9%87%D8%A7%D9%86%D8%A7-%D8%A8%D8%A7%DB%8C%D9%88%D9%85%D8%A7/",
+      "category": "کودهای کامل و کمپلکس",
+      "tags": [
+        "کود ارگانیک",
+        "کود افزایش باردهی",
+        "کود پودری",
+        "کود ثبت شده",
+        "کود دارای آنالیز"
+      ]
+    },
+    {
+      "title": "کود اسید فولویک 70% هانا (فولویکس)",
+      "url": "https://ekadmall.com/product/%DA%A9%D9%88%D8%AF-%D8%A7%D8%B3%DB%8C%D8%AF-%D9%81%D9%88%D9%84%D9%88%DB%8C%DA%A9-70-%D9%87%D8%A7%D9%86%D8%A7-%D9%81%D9%88%D9%84%D9%88%DB%8C%DA%A9%D8%B3/",
+      "category": "فولویک اسید",
+      "tags": [
+        "کود اصلاح کننده خاک",
+        "کود تقویت ریشه",
+        "کود دارای آنالیز",
+        "کود مایع",
+        "کود محرک رشد"
+      ]
+    },
+    {
+      "title": "کود ماهی هانا (دیپسی)",
+      "url": "https://ekadmall.com/product/%DA%A9%D9%88%D8%AF-%D9%85%D8%A7%D9%87%DB%8C-%D9%87%D8%A7%D9%86%D8%A7-%D8%AF%DB%8C%D9%BE%D8%B3%DB%8C/",
+      "category": "کودهای ماهی",
+      "tags": [
+        "کود ارگانیک",
+        "کود تقویت رشد گیاه",
+        "کود مایع",
+        "کود محرک رشد"
+      ]
+    },
+    {
+      "title": "کود آمینو اسید 80% هانا (بایولوکس)",
+      "url": "https://ekadmall.com/product/%DA%A9%D9%88%D8%AF-%D8%A2%D9%85%DB%8C%D9%86%D9%88-%D8%A7%D8%B3%DB%8C%D8%AF-80-%D9%87%D8%A7%D9%86%D8%A7-%D8%A8%D8%A7%DB%8C%D9%88%D9%84%D9%88%DA%A9%D8%B3/",
+      "category": "آمینه اسید",
+      "tags": [
+        "کود تقویت رشد گیاه",
+        "کود دارای آنالیز",
+        "کود ضد تنش",
+        "کود مایع",
+        "کود محرک رشد"
+      ]
+    },
+    {
+      "title": "کود گرانول نیتروژن همراه با هیومیک اسید بایوگرانو (نیتروژینا)",
+      "url": "https://ekadmall.com/product/%DA%A9%D9%88%D8%AF-%DA%AF%D8%B1%D8%A7%D9%86%D9%88%D9%84-%D9%86%DB%8C%D8%AA%D8%B1%D9%88%DA%98%D9%86-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D8%A8%D8%A7-%D9%87%DB%8C%D9%88%D9%85%DB%8C%DA%A9-%D8%A7%D8%B3%DB%8C%D8%AF/",
+      "category": "کودهای نیتروژنه (ازته)",
+      "tags": [
+        "کود اصلاح کننده خاک",
+        "کود دارای آنالیز",
+        "کود سرک",
+        "کود گرانول",
+        "کود نیتروژن بالا"
+      ]
+    },
+    {
+      "title": "کود سولفات پتاسیم پودری اسکایلا (SOP)",
+      "url": "https://ekadmall.com/product/%DA%A9%D9%88%D8%AF-%D8%B3%D9%88%D9%84%D9%81%D8%A7%D8%AA-%D9%BE%D8%AA%D8%A7%D8%B3%DB%8C%D9%85-%D9%BE%D9%88%D8%AF%D8%B1%DB%8C-%D8%A7%D8%B3%DA%A9%D8%A7%DB%8C%D9%84%D8%A7-sop/",
+      "category": "کودهای سولفات پتاسیم",
+      "tags": [
+        "کود پتاس بالا",
+        "کود پودری",
+        "کود محلول در آب"
+      ]
+    },
+    {
+      "title": "کود هیومیک اسید گرانول 45% بایوگرانو",
+      "url": "https://ekadmall.com/product/%DA%A9%D9%88%D8%AF-%D9%87%DB%8C%D9%88%D9%85%DB%8C%DA%A9-%D8%A7%D8%B3%DB%8C%D8%AF-%DA%AF%D8%B1%D8%A7%D9%86%D9%88%D9%84-45-%D8%A8%D8%A7%DB%8C%D9%88%DA%AF%D8%B1%D8%A7%D9%86%D9%88/",
+      "category": "هیومیک اسید",
+      "tags": [
+        "کود اصلاح کننده خاک",
+        "کود تقویت ریشه",
+        "کود دارای آنالیز",
+        "کود گرانول"
+      ]
+    },
+    {
+      "title": "کود جلبک دریایی غنی شده هانا (ماریسول)",
+      "url": "https://ekadmall.com/product/%DA%A9%D9%88%D8%AF-%D8%AC%D9%84%D8%A8%DA%A9-%D8%AF%D8%B1%DB%8C%D8%A7%DB%8C%DB%8C-%D8%BA%D9%86%DB%8C-%D8%B4%D8%AF%D9%87-%D9%87%D8%A7%D9%86%D8%A7-%D9%85%D8%A7%D8%B1%DB%8C%D8%B3%D9%88%D9%84/",
+      "category": "کودهای جلبک دریایی",
+      "tags": [
+        "کود تقویت رشد گیاه",
+        "کود ضد تنش",
+        "کود مایع",
+        "کود محرک رشد"
+      ]
+    },
+    {
+      "title": "کود مرغی غنی شده هانا (چیکانا)",
+      "url": "https://ekadmall.com/product/%DA%A9%D9%88%D8%AF-%D9%85%D8%B1%D8%BA%DB%8C-%D8%BA%D9%86%DB%8C-%D8%B4%D8%AF%D9%87-%D9%87%D8%A7%D9%86%D8%A7-%DA%86%DB%8C%DA%A9%D8%A7%D9%86%D8%A7/",
+      "category": "کودهای مرغی",
+      "tags": [
+        "کود ارگانیک",
+        "کود تقویت رشد گیاه",
+        "کود مایع"
+      ]
+    },
+    {
+      "title": "کود پودری هیومیک اسید همراه با پتاسیم هانا (بایوهیوم)",
+      "url": "https://ekadmall.com/product/%DA%A9%D9%88%D8%AF-%D9%BE%D9%88%D8%AF%D8%B1%DB%8C-%D9%87%DB%8C%D9%88%D9%85%DB%8C%DA%A9-%D8%A7%D8%B3%DB%8C%D8%AF-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D8%A8%D8%A7-%D9%BE%D8%AA%D8%A7%D8%B3%DB%8C%D9%85/",
+      "category": "هیومیک اسید",
+      "tags": [
+        "کود اصلاح کننده خاک",
+        "کود پتاس بالا",
+        "کود پودری",
+        "کود تقویت ریشه"
+      ]
+    },
+    {
+      "title": "کود مایع هیومیک اسید همراه با پتاسیم هانا (بایوهیوم)",
+      "url": "https://ekadmall.com/product/%DA%A9%D9%88%D8%AF-%D9%85%D8%A7%DB%8C%D8%B9-%D9%87%DB%8C%D9%88%D9%85%DB%8C%DA%A9-%D8%A7%D8%B3%DB%8C%D8%AF-%D9%87%D9%85%D8%B1%D8%A7%D9%87-%D8%A8%D8%A7-%D9%BE%D8%AA%D8%A7%D8%B3%DB%8C%D9%85/",
+      "category": "هیومیک اسید",
+      "tags": [
+        "کود اصلاح کننده خاک",
+        "کود پتاس بالا",
+        "کود تقویت ریشه",
+        "کود مایع"
+      ]
+    },
+    {
+      "title": "کود نیتروژن اسید آمینه و مواد آلی هانا (دکزو)",
+      "url": "https://ekadmall.com/product/%DA%A9%D9%88%D8%AF-%D9%86%DB%8C%D8%AA%D8%B1%D9%88%DA%98%D9%86-%D8%A7%D8%B3%DB%8C%D8%AF-%D8%A2%D9%85%DB%8C%D9%86%D9%87-%D9%88-%D9%85%D9%88%D8%A7%D8%AF-%D8%A2%D9%84%DB%8C-%D9%87%D8%A7%D9%86%D8%A7/",
+      "category": "آمینه اسید",
+      "tags": [
+        "کود ارگانیک",
+        "کود تقویت رشد گیاه",
+        "کود دارای آنالیز",
+        "کود سرک",
+        "کود محرک رشد",
+        "کود نیتروژن بالا"
+      ]
+    }
+  ]
+}
