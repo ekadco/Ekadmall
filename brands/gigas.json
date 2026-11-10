@@ -1,0 +1,22 @@
+{
+  "brand": "ژیگاس",
+  "slug": "gigas",
+  "source_url": "https://ekadmall.com/brand/gigas",
+  "source_type": "صفحه برند و صفحات رسمی محصولات ایکادمال",
+  "extracted_on": "2026-11-11",
+  "version": 1,
+  "product_count": 29,
+  "data_policy": {
+    "specifications": "مشخصات و آنالیز مطابق اطلاعات منتشرشده در صفحات محصولات و اطلاعات اعلام‌شده کارخانه ثبت شده‌اند؛ هیچ اصلاح یا تکمیل حدسی انجام نشده است.",
+    "inconsistencies": "در صورت مشاهده مغایرت، داده منتشرشده حفظ می‌شود و برای بررسی در به‌روزرسانی بعدی علامت‌گذاری می‌شود.",
+    "volatile_fields": "قیمت و موجودی ممکن است تغییر کنند و باید از صفحه زنده محصول به‌روزرسانی شوند."
+  },
+  "product_data_files": [
+    "data/products/gigas-01.json",
+    "data/products/gigas-02.json",
+    "data/products/gigas-03.json",
+    "data/products/gigas-04.json",
+    "data/products/gigas-05.json",
+    "data/products/gigas-06.json"
+  ]
+}
