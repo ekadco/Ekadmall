@@ -1,0 +1,158 @@
+{
+  "brand": "دامون",
+  "brand_url": "https://ekadmall.com/brand/damoon/",
+  "extracted_on": "2026-11-11",
+  "version": 1,
+  "product_count": 11,
+  "expected_product_count": 11,
+  "products": [
+    {
+      "title": "کود مایع روی دامون (زینک)",
+      "url": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%d9%85%d8%a7%db%8c%d8%b9-%d8%b1%d9%88%db%8c-%d8%af%d8%a7%d9%85%d9%88%d9%86-%d8%b2%db%8c%d9%86%da%a9/#",
+      "categories_exact": [
+        "کودهای روی"
+      ],
+      "product_tags_exact": [
+        "کود تقویت رشد گیاه",
+        "کود دارای آنالیز",
+        "کود مایع"
+      ]
+    },
+    {
+      "title": "کود سیلیکات پتاسیم دامون (سیلیکامین)",
+      "url": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%d8%b3%db%8c%d9%84%db%8c%da%a9%d8%a7%d8%aa-%d9%be%d8%aa%d8%a7%d8%b3%db%8c%d9%85-%d8%af%d8%a7%d9%85%d9%88%d9%86-%d8%b3%db%8c%d9%84%db%8c%da%a9%d8%a7%d9%85%db%8c%d9%86/#",
+      "categories_exact": [
+        "کودهای سیلیکات پتاسیم"
+      ],
+      "product_tags_exact": [
+        "کود پتاس بالا",
+        "کود دارای آنالیز",
+        "کود سفت کننده میوه",
+        "کود ضد تنش",
+        "کود مایع"
+      ]
+    },
+    {
+      "title": "کود اسکوربیک اسید دامون ضد تنش اسکامین",
+      "url": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%d8%a7%d8%b3%da%a9%d9%88%d8%b1%d8%a8%db%8c%da%a9-%d8%a7%d8%b3%db%8c%d8%af-%d8%af%d8%a7%d9%85%d9%88%d9%86-%d8%b6%d8%af-%d8%aa%d9%86%d8%b4-%d8%a7%d8%b3%da%a9%d8%a7%d9%85%db%8c%d9%86/#",
+      "categories_exact": [
+        "اسکوربیک اسید"
+      ],
+      "product_tags_exact": [
+        "کود ضد استرس و تنش",
+        "کود ضد تنش",
+        "کود مایع"
+      ]
+    },
+    {
+      "title": "کود سالیسیلیک اسید دامون ضد تنش سالیکس",
+      "url": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%d8%b3%d8%a7%d9%84%db%8c%d8%b3%db%8c%d9%84%db%8c%da%a9-%d8%a7%d8%b3%db%8c%d8%af-%d8%af%d8%a7%d9%85%d9%88%d9%86-%d8%b6%d8%af-%d8%aa%d9%86%d8%b4-%d8%b3%d8%a7%d9%84%db%8c%da%a9%d8%b3/#",
+      "categories_exact": [
+        "سالیسیلیک اسید"
+      ],
+      "product_tags_exact": [
+        "کود ضد استرس و تنش",
+        "کود ضد تنش",
+        "کود مایع"
+      ]
+    },
+    {
+      "title": "کود مایع آهن، منگنز و روی دامون FMZ فرومازین",
+      "url": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%d9%85%d8%a7%db%8c%d8%b9-%d8%a2%d9%87%d9%86%d8%8c-%d9%85%d9%86%da%af%d9%86%d8%b2-%d9%88-%d8%b1%d9%88%db%8c-%d8%af%d8%a7%d9%85%d9%88%d9%86-fmz-%d9%81%d8%b1%d9%88%d9%85%d8%a7%d8%b2/#",
+      "categories_exact": [
+        "کودهای FMZ"
+      ],
+      "product_tags_exact": [
+        "کود تقویت رشد گیاه",
+        "کود دارای آنالیز",
+        "کود رفع زردی برگ",
+        "کود رفع کمبود آهن",
+        "کود مایع"
+      ]
+    },
+    {
+      "title": "کود مایع آهن 6 درصد دامون آیرن",
+      "url": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%d9%85%d8%a7%db%8c%d8%b9-%d8%a2%d9%87%d9%86-6-%d8%af%d8%b1%d8%b5%d8%af-%d8%af%d8%a7%d9%85%d9%88%d9%86-%d8%a2%db%8c%d8%b1%d9%86/#",
+      "categories_exact": [
+        "کودهای آهن"
+      ],
+      "product_tags_exact": [
+        "کود دارای آنالیز",
+        "کود رفع زردی برگ",
+        "کود رفع کمبود آهن",
+        "کود مایع"
+      ]
+    },
+    {
+      "title": "کود مایع منیزیم دامون MG",
+      "url": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%d9%85%d8%a7%db%8c%d8%b9-%d9%85%d9%86%db%8c%d8%b2%db%8c%d9%85-%d8%af%d8%a7%d9%85%d9%88%d9%86-mg/#",
+      "categories_exact": [
+        "کودهای منیزیمی"
+      ],
+      "product_tags_exact": [
+        "کود تقویت رشد گیاه",
+        "کود دارای آنالیز",
+        "کود رفع زردی برگ",
+        "کود مایع"
+      ]
+    },
+    {
+      "title": "کود مایع مس دامون کاپر",
+      "url": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%d9%85%d8%a7%db%8c%d8%b9-%d9%85%d8%b3-%d8%af%d8%a7%d9%85%d9%88%d9%86-%da%a9%d8%a7%d9%be%d8%b1/#",
+      "categories_exact": [
+        "کودهای مس"
+      ],
+      "product_tags_exact": [
+        "کود تقویت رشد گیاه",
+        "کود دارای آنالیز",
+        "کود مایع"
+      ]
+    },
+    {
+      "title": "کود مایع کلسیم بور دامون بورکامین",
+      "url": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%d9%85%d8%a7%db%8c%d8%b9-%da%a9%d9%84%d8%b3%db%8c%d9%85-%d8%a8%d9%88%d8%b1-%d8%af%d8%a7%d9%85%d9%88%d9%86-%d8%a8%d9%88%d8%b1%da%a9%d8%a7%d9%85%db%8c%d9%86/#",
+      "categories_exact": [
+        "کودهای کلسیمی"
+      ],
+      "product_tags_exact": [
+        "کود افزایش باردهی",
+        "کود افزایش گلدهی",
+        "کود جلوگیری از ریزش میوه",
+        "کود دارای آنالیز",
+        "کود درشت کننده میوه",
+        "کود سفت کننده میوه",
+        "کود مایع"
+      ]
+    },
+    {
+      "title": "کود مایع پتاسیم فسفات دامون کیفوکامین پی",
+      "url": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%d9%85%d8%a7%db%8c%d8%b9-%d9%be%d8%aa%d8%a7%d8%b3%db%8c%d9%85-%d9%81%d8%b3%d9%81%d8%a7%d8%aa-%d8%af%d8%a7%d9%85%d9%88%d9%86-%da%a9%db%8c%d9%81%d9%88%da%a9%d8%a7%d9%85%db%8c%d9%86/#",
+      "categories_exact": [
+        "کودهای ماکرو ترکیب"
+      ],
+      "product_tags_exact": [
+        "کود پتاس بالا",
+        "کود دارای آنالیز",
+        "کود فسفر بالا",
+        "کود مایع",
+        "کود محلول در آب"
+      ]
+    },
+    {
+      "title": "کود مایع پتاسیم دامون K40 پوکامین",
+      "url": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%d9%85%d8%a7%db%8c%d8%b9-%d9%be%d8%aa%d8%a7%d8%b3%db%8c%d9%85-%d8%af%d8%a7%d9%85%d9%88%d9%86-k40-%d9%be%d9%88%da%a9%d8%a7%d9%85%db%8c%d9%86/#",
+      "categories_exact": [
+        "کودهای پتاسیم"
+      ],
+      "product_tags_exact": [
+        "کود پتاس بالا",
+        "کود دارای آنالیز",
+        "کود درشت کننده میوه",
+        "کود رنگ آوری",
+        "کود مایع"
+      ]
+    }
+  ],
+  "extraction_issues": [],
+  "data_policy": "Exact product titles, brand, categories and tags are copied from Ekadmall product pages. Technical details and inconsistencies are preserved as published. Price and stock are variable."
+}
