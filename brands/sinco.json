@@ -1,0 +1,21 @@
+{
+  "brand": "سینکو",
+  "brand_latin": "Sinco",
+  "brand_url": "https://ekadmall.com/brand/sinco/",
+  "extracted_on": "2026-11-11",
+  "version": 1,
+  "product_count": 1,
+  "products": [
+    {
+      "title": "ضد یخ گیاهی پستافرت",
+      "url": "https://ekadmall.com/product/%d8%b6%d8%af-%db%8c%d8%ae-%da%af%db%8c%d8%a7%d9%87%db%8c-%d9%be%d8%b3%d8%aa%d8%a7%d9%81%d8%b1%d8%aa/",
+      "categories_exact": [
+        "ضد یخ گیاهی"
+      ],
+      "product_tags_exact": [
+        "کود ضد سرمازدگی"
+      ]
+    }
+  ],
+  "data_policy": "Product title, assigned product category and tag are copied verbatim from Ekadmall. Technical information and claims are preserved as published; inconsistencies are flagged. Price and stock are variable."
+}
