@@ -1,0 +1,143 @@
+{
+  "captured_at": "2026-11-11T09:55:26.000Z",
+  "source": "https://ekadmall.com/wp-json/wp/v2/",
+  "item": {
+    "id": 833,
+    "date": "2025-12-17T18:24:43",
+    "date_gmt": "2025-12-17T14:54:43",
+    "guid": {
+      "rendered": "https://ekadmall.com/?post_type=product&#038;p=833"
+    },
+    "modified": "2026-11-07T12:09:26",
+    "modified_gmt": "2026-11-07T08:39:26",
+    "slug": "%da%a9%d9%88%d8%af-%d8%a8%d9%88%d8%b1-%d9%85%d8%a7%db%8c%d8%b9-13-boron-%da%98%db%8c%da%af%d8%a7%d8%b3",
+    "status": "publish",
+    "type": "product",
+    "link": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%d8%a8%d9%88%d8%b1-%d9%85%d8%a7%db%8c%d8%b9-13-boron-%da%98%db%8c%da%af%d8%a7%d8%b3/",
+    "title": {
+      "rendered": "کود بور مایع 13 (Boron) ژیگاس"
+    },
+    "content": {
+      "rendered": "<p>این کود مایع برای تغذیه و تقویت رشد عمومی گیاهان طراحی شده و با ترکیب نیتروژن 7 درصد، بور 13 درصد و 15 درصد ماده آلی، تصویری از یک مکمل غذایی متعادل برای جبران نیازهای تغذیه‌ای در مراحل رشد ارائه می‌دهد. کود ژیگاس مدل Boron 13% در بطری 1 لیتری عرضه می‌شود و برای بسیاری از گیاهان قابل استفاده است. روش مصرف آن نیز به‌صورت محلول‌پاشی با 2 تا 3 لیتر در 1000 لیتر آب، یا همراه آب آبیاری با 5 تا 10 لیتر در هکتار انجام می‌شود؛ بنابراین می‌توان آن را هم برای جذب برگی و هم برای مصرف از طریق آبیاری به کار برد.</p>\n<p dir=\"rtl\" lang=\"fa\"><strong>خرید مطمئن از ایکادمال:</strong></p>\n<p dir=\"rtl\" lang=\"fa\"><strong>کود بور مایع ۱۳ ژیگاس</strong> را با اصالت صددرصدی کالا و بالاترین درجه خلوص شیمیایی از <strong>فروشگاه کشاورزی ایکادمال</strong> سفارش دهید. کارشناسان کشاورزی ایکادمال آماده‌اند تا متناسب با نوع محصول، آنالیز آب و خاک و مرحله رشدی باغ، بهترین برنامه مصرف بور را به شما ارائه دهند.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<ul>\n<li>دارای 13% بور کلاته و حلالیت بالا در آب</li>\n<li>کمک به جذب کلسیم و تقویت دیواره سلولی</li>\n<li>کمک به تشکیل لوله گرده و رشد جوانه انتهایی</li>\n<li>افزایش بازارپسندی و طعم میوه</li>\n<li>مقاومت به انواع تنش های فیزیولوژیکی مانند تو خالی شدن ساقه، ریختن برگها و رشد ضعیف میوه</li>\n<li>فاقد سدیم، کلر و فلزات سنگین (محلولپاشی بدون برگ سوزی)</li>\n<li>افزایش رشد و توسعه مریستم گیاه</li>\n<li>افزایش تبدیل گل به میوه</li>\n<li>افزایش متابولیسم کربوهیدرات‌ها</li>\n<li>افزایش سنتز اسید نوکلئیک</li>\n<li>تنظیم و بهینه‌سازی مقدار آب مصرفی در سلول‌ها</li>\n</ul>\n",
+      "protected": false
+    },
+    "author": 3,
+    "featured_media": 992,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_daextam_enable_autolinks": "1"
+    },
+    "product_brand": [
+      81
+    ],
+    "product_cat": [
+      71
+    ],
+    "product_tag": [
+      194,
+      198,
+      1694,
+      201,
+      202,
+      216
+    ],
+    "class_list": [
+      "post-833",
+      "product",
+      "type-product",
+      "status-publish",
+      "has-post-thumbnail",
+      "product_brand-gigas",
+      "product_cat-boron-fertilizers",
+      "product_tag-194",
+      "product_tag-198",
+      "product_tag-1694",
+      "product_tag-201",
+      "product_tag-202",
+      "product_tag-216",
+      "",
+      "instock",
+      "shipping-taxable",
+      "purchasable",
+      "product-type-variable",
+      "has-default-attributes"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product/833",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/types/product"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/users/3"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/comments?post=833"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/media/992"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/media?parent=833"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "product_brand",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_brand?post=833"
+        },
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_cat?post=833"
+        },
+        {
+          "taxonomy": "product_tag",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_tag?post=833"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+}

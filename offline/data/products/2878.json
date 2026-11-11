@@ -1,0 +1,136 @@
+{
+  "captured_at": "2026-11-11T09:55:26.000Z",
+  "source": "https://ekadmall.com/wp-json/wp/v2/",
+  "item": {
+    "id": 2878,
+    "date": "2026-08-25T15:15:05",
+    "date_gmt": "2026-08-25T11:45:05",
+    "guid": {
+      "rendered": "https://ekadmall.com/?post_type=product&#038;p=2878"
+    },
+    "modified": "2026-10-29T13:43:06",
+    "modified_gmt": "2026-10-29T10:13:06",
+    "slug": "%da%a9%d9%88%d8%af-%d9%be%d9%88%d8%af%d8%b1%db%8c-%d9%87%db%8c%d9%88%d9%85%db%8c%da%a9-%d8%a7%d8%b3%db%8c%d8%af-%d9%be%d8%b1%da%a9-%d9%84%d8%a7%da%af%d9%88%d9%86-humicfulvic",
+    "status": "publish",
+    "type": "product",
+    "link": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%d9%be%d9%88%d8%af%d8%b1%db%8c-%d9%87%db%8c%d9%88%d9%85%db%8c%da%a9-%d8%a7%d8%b3%db%8c%d8%af-%d9%be%d8%b1%da%a9-%d9%84%d8%a7%da%af%d9%88%d9%86-humicfulvic/",
+    "title": {
+      "rendered": "کود پودری هیومیک اسید پرک لاگون (Humic&#038;Fulvic)"
+    },
+    "content": {
+      "rendered": "<p>در بسیاری از مناطق کشاورزی ایران، کمبود مواد آلی و ساختار نامناسب خاک، از چالش‌های اصلی پیش روی کشاورزان است. این مشکلات به سفتی خاک، کاهش ظرفیت نگهداری آب و مهم‌تر از آن، محدودیت در جذب عناصر غذایی توسط گیاهان منجر می‌شود. <strong>کود هیومیک اسید پرک</strong>، با بهره‌گیری از غنای اسید هیومیک استخراج‌شده از لئوناردیت، راه‌حلی قدرتمند و اقتصادی برای غلبه بر این محدودیت‌ها و افزایش چشمگیر <strong>حاصلخیزی خاک</strong> ارائه می‌دهد.</p>\n<h2>چرا کود هیومیک اسید پرک انتخابی هوشمندانه است؟</h2>\n<p>هیومیک اسید پرک، فرم جامد و پرغلظت از هیومیک اسید است که به دلیل خلوص بالا و قابلیت انحلال تدریجی، یک منبع پایدار و طولانی‌مدت از مواد آلی برای خاک فراهم می‌آورد. این محصول با بهبود <strong>ساختار فیزیکی و شیمیایی خاک</strong>، تهویه و نفوذپذیری آن را افزایش می‌دهد و بستر مناسبی برای توسعه ریشه‌ها ایجاد می‌کند. با استفاده از کود هیومیک اسید پرک، نه تنها ظرفیت نگهداری آب در خاک بالا می‌رود، بلکه با افزایش <strong>ظرفیت تبادل کاتیونی (CEC)</strong>، جذب عناصر غذایی ضروری مانند آهن، روی، منگنز و فسفر به شکل چشمگیری بهبود می‌یابد. این فرآیند به ویژه در خاک‌های آهکی و شور که با کمبود جذب ریزمغذی‌ها مواجه هستند، اهمیت حیاتی دارد.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<ul>\n<li><strong>افزایش حاصلخیزی خاک:</strong> با افزایش مواد آلی و بهبود ساختار خاک، زمینه را برای رشد سالم‌تر گیاه فراهم می‌کند.</li>\n<li><strong>بهبود جذب عناصر غذایی:</strong> عناصر غذایی را کلاته کرده و به فرم قابل جذب برای گیاه در می‌آورد.</li>\n<li><strong>تقویت سیستم ریشه‌ای:</strong> باعث توسعه ریشه‌های قوی‌تر و عمیق‌تر می‌شود که منجر به مقاومت بیشتر گیاه در برابر تنش‌ها است.</li>\n<li><strong>افزایش ظرفیت نگهداری آب:</strong> به خاک کمک می‌کند تا آب را برای مدت طولانی‌تری حفظ کند، کاهش نیاز به آبیاری.</li>\n<li><strong>افزایش مقاومت گیاه:</strong> مقاومت گیاه را در برابر بیماری‌ها، آفات و تنش‌های محیطی (مانند خشکی و شوری) بالا می‌برد.</li>\n<li><strong>افزایش عملکرد و کیفیت محصول:</strong> منجر به تولید محصولاتی با کیفیت بالاتر و بازدهی بیشتر می‌شود.</li>\n</ul>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 2911,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_daextam_enable_autolinks": "1"
+    },
+    "product_brand": [
+      1658
+    ],
+    "product_cat": [
+      182
+    ],
+    "product_tag": [
+      1648,
+      1678,
+      193
+    ],
+    "class_list": [
+      "post-2878",
+      "product",
+      "type-product",
+      "status-publish",
+      "has-post-thumbnail",
+      "product_brand-lagon",
+      "product_cat-humic-acid",
+      "product_tag-1648",
+      "product_tag-1678",
+      "product_tag-193",
+      "",
+      "instock",
+      "shipping-taxable",
+      "purchasable",
+      "product-type-simple"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product/2878",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/types/product"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/comments?post=2878"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/media/2911"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/media?parent=2878"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "product_brand",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_brand?post=2878"
+        },
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_cat?post=2878"
+        },
+        {
+          "taxonomy": "product_tag",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_tag?post=2878"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+}

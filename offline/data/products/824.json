@@ -1,0 +1,145 @@
+{
+  "captured_at": "2026-11-11T09:55:26.000Z",
+  "source": "https://ekadmall.com/wp-json/wp/v2/",
+  "item": {
+    "id": 824,
+    "date": "2025-12-17T18:24:56",
+    "date_gmt": "2025-12-17T14:54:56",
+    "guid": {
+      "rendered": "https://ekadmall.com/?post_type=product&#038;p=824"
+    },
+    "modified": "2026-11-07T11:58:08",
+    "modified_gmt": "2026-11-07T08:28:08",
+    "slug": "%da%a9%d9%88%d8%af-%d9%85%db%8c%da%a9%d8%b1%d9%88-%da%a9%d9%85%d9%be%d9%84%d8%aa-b-%da%98%db%8c%da%af%d8%a7%d8%b3",
+    "status": "publish",
+    "type": "product",
+    "link": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%d9%85%db%8c%da%a9%d8%b1%d9%88-%da%a9%d9%85%d9%be%d9%84%d8%aa-b-%da%98%db%8c%da%af%d8%a7%d8%b3/",
+    "title": {
+      "rendered": "کود میکرو کمپلت B (میکرو معدنی) ژیگاس"
+    },
+    "content": {
+      "rendered": "<p>مجموعه کامل عناصر ریز مغذی‌ (آهن،منگنز،مس،روی،منیزیم و گوگرد)</p>\n<p>ویژگی‌های محصول :</p>\n<ul>\n<li>بدون بور</li>\n<li>ترکیبی کامل حاوی کلیه عناصر ریز مغذی مورد نیاز گیاه به همراه نیتروژن، منیزیم و گوگرد</li>\n<li>حاوی مقدار قابل توجه گوگرد محلول برای بهسازی محیط کشت گیاه</li>\n<li>حاوی مواد اولیه با کیفیت بالا و فاقد فلزات سنگین، کلر و سدیم</li>\n<li>کاملا مناسب مصرف در خاک های شور و قليا</li>\n<li>ایده آل برای مصرف در کلیه گیاهان زراعی شامل غلات، دانه های روغنی مانند کلزا، آفتابگردان، سویا، گیاهان صنعتی مانند پنبه، نیشکر ، سیب زمینی، پیاز و چغندر قند، گیاهان علوفه ای مانند یونجه، ذرت و ذرت خوشه ای و گیاهان دارویی</li>\n<li>جهت رفع کمبود عناصر میکرو در گیاهان</li>\n</ul>\n<p dir=\"rtl\" lang=\"fa\"><strong>خرید مطمئن از ایکادمال:</strong></p>\n<p dir=\"rtl\" lang=\"fa\"><strong>کود میکرو کمپلت B (میکرو معدنی) ژیگاس</strong> را با اصالت صددرصدی، بسته‌بندی استاندارد و تاریخ تولید معتبر از <strong>فروشگاه کشاورزی ایکادمال</strong> تهیه فرمایید. برای تشخیص دقیق کمبودهای برگی باغات یا مزارع خود و تنظیم بهترین زمان مصرف کودهای میکرو، می‌توانید از خدمات مشاوره تخصصی کارشناسان ایکادمال بهره‌مند شوید.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<ul>\n<li>بدون بور</li>\n<li>حاوی همه عناصر ریزمغذی موردنیاز گیاه</li>\n<li>دارای pH اسیدی و قابلیت جذب بسیار بالا</li>\n<li>اصلاح خاک به دلیل وجود مقدار بالای گوگرد</li>\n<li>موثر در افزایش رشد و عملکرد کمی و کیفی محصول</li>\n<li>تسریع در افزایش جذب عناصر غذایی</li>\n<li>افزایش مقاومت گیاه نسبت به تنش های محیطی و آفات و بیماریها</li>\n<li>حاوی مواد اولیه باکیفیت و فاقد کلر، سدیم و عناصر سنگین</li>\n<li>کاربرد به صورت خاکی</li>\n<li>قابلیت اختلاط با اغلب کودهای دیگر</li>\n</ul>\n",
+      "protected": false
+    },
+    "author": 3,
+    "featured_media": 979,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_daextam_enable_autolinks": "1"
+    },
+    "product_brand": [
+      81
+    ],
+    "product_cat": [
+      1677
+    ],
+    "product_tag": [
+      1648,
+      1678,
+      200,
+      1700,
+      202,
+      196,
+      1707
+    ],
+    "class_list": [
+      "post-824",
+      "product",
+      "type-product",
+      "status-publish",
+      "has-post-thumbnail",
+      "product_brand-gigas",
+      "product_cat-complex-complete-fertilizers",
+      "product_tag-1648",
+      "product_tag-1678",
+      "product_tag-200",
+      "product_tag-1700",
+      "product_tag-202",
+      "product_tag-196",
+      "product_tag-1707",
+      "",
+      "instock",
+      "sale",
+      "shipping-taxable",
+      "purchasable",
+      "product-type-simple"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product/824",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/types/product"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/users/3"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/comments?post=824"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/media/979"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/media?parent=824"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "product_brand",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_brand?post=824"
+        },
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_cat?post=824"
+        },
+        {
+          "taxonomy": "product_tag",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_tag?post=824"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "captured_at": "2026-11-11T09:55:26.000Z",
+  "source": "https://ekadmall.com/wp-json/wp/v2/",
+  "item": {
+    "id": 1355,
+    "date": "2026-02-17T15:15:13",
+    "date_gmt": "2026-02-17T11:45:13",
+    "guid": {
+      "rendered": "https://ekadmall.com/calendar/%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d9%87-%da%a9%d9%88%d8%af%d8%af%d9%87%db%8c-%db%8c%d9%88%d9%86%d8%ac%d9%87/"
+    },
+    "modified": "2026-06-09T14:41:26",
+    "modified_gmt": "2026-06-09T11:11:26",
+    "slug": "%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d9%87-%da%a9%d9%88%d8%af%d8%af%d9%87%db%8c-%db%8c%d9%88%d9%86%d8%ac%d9%87",
+    "status": "publish",
+    "type": "calendar",
+    "link": "https://ekadmall.com/calendar/%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d9%87-%da%a9%d9%88%d8%af%d8%af%d9%87%db%8c-%db%8c%d9%88%d9%86%d8%ac%d9%87/",
+    "title": {
+      "rendered": "برنامه کوددهی یونجه"
+    },
+    "content": {
+      "rendered": "<p><strong>گروه کشاورزی ایکادمال </strong> ، با بهره‌گیری از تیمی مجرب از کارشناسان ارشد گیاه‌پزشکی و مهندسین کشاورزی، آماده ارائه برنامه‌های تخصصی تغذیه و کوددهی برای انواع محصولات باغی، زراعی، سبزیجات، صیفی‌جات و گیاهان زینتی است. دفتر مرکزی ما در <strong>اصفهان</strong> قرار دارد، اما خدمات و محصولات خود از جمله <strong>کودهای کشاورزی</strong> را به <strong>سراسر کشور</strong> از طریق <strong>وب‌سایت به صورت خرید آنلاین</strong>، <strong>سفارش تلفنی</strong> و <strong>مراجعه حضوری به دفتر اصفهان</strong> عرضه می‌کنیم. هدف ما کمک به کشاورزان و باغداران برای دستیابی به حداکثر عملکرد و کیفیت محصول با استفاده از روش‌های علمی، به‌روز و سازگار با اقلیم مناطق مختلف ایران می‌باشد.</p>\n<div class='alert alert-warning' role='alert'>\n<p>      <i class='bi bi-exclamation-triangle-fill'></i></p>\n<p>      <strong>در حال بازبینی:</strong> برنامه کوددهی ویژه محصول یونجه در حال تدوین و بازبینی نهایی توسط کارشناس گیاه‌پزشک است. پس از تأیید، منتشر خواهد شد.</p></div>\n<p>این برنامه جامع که به طور اختصاصی برای <strong>یونجه</strong> طراحی شده، شامل <strong>تقویم کوددهی مراحل مختلف رشد</strong>، نوع و میزان دقیق کودهای مورد نیاز، زمان مصرف بهینه، و نکات فنی مرتبط با تغذیه <strong>یونجه</strong> خواهد بود.</p>\n<p>اگر سوالی در مورد تقویم کوددهی <strong>یونجه</strong>  دارید، می‌توانید از طریق <strong>فرم پرسش و پاسخ </strong> با ما در ارتباط باشید. کارشناسان ما در اسرع وقت به سوالات شما پاسخ خواهند داد.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>تقویم کوددهی اختصاصی محصول یونجه از دسته زراعت که توسط کارشناسان ارشد گیاه‌پزشکی شرکت ایکادمال تهیه شده، یک برنامه کوددهی جامع شامل زمان‌بندی دقیق مراحل رشد، مقادیر بهینه کودها و نکات فنی تغذیه برای دستیابی به حداکثر عملکرد و کیفیت محصول می‌باشد.</p>\n",
+      "protected": false
+    },
+    "featured_media": 2157,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_daextam_enable_autolinks": "1"
+    },
+    "calendar-category": [
+      214
+    ],
+    "class_list": [
+      "post-1355",
+      "calendar",
+      "type-calendar",
+      "status-publish",
+      "has-post-thumbnail",
+      "hentry",
+      "calendar-category-field-crops"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/calendar/1355",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/calendar"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/types/calendar"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/comments?post=1355"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/media/2157"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/media?parent=1355"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "calendar-category",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/calendar-category?post=1355"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+}

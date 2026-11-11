@@ -1,0 +1,135 @@
+{
+  "captured_at": "2026-11-11T09:55:26.000Z",
+  "source": "https://ekadmall.com/wp-json/wp/v2/",
+  "item": {
+    "id": 873,
+    "date": "2025-12-17T18:25:02",
+    "date_gmt": "2025-12-17T14:55:02",
+    "guid": {
+      "rendered": "https://ekadmall.com/?post_type=product&#038;p=873"
+    },
+    "modified": "2026-11-08T11:04:21",
+    "modified_gmt": "2026-11-08T07:34:21",
+    "slug": "%da%a9%d9%88%d8%af-%d9%85%d9%88%d9%86%d9%88-%d9%be%d8%aa%d8%a7%d8%b3%db%8c%d9%85-%d9%81%d8%b3%d9%81%d8%a7%d8%aa-34-52-0-%da%98%db%8c%da%af%d8%a7%d8%b3",
+    "status": "publish",
+    "type": "product",
+    "link": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%d9%85%d9%88%d9%86%d9%88-%d9%be%d8%aa%d8%a7%d8%b3%db%8c%d9%85-%d9%81%d8%b3%d9%81%d8%a7%d8%aa-34-52-0-%da%98%db%8c%da%af%d8%a7%d8%b3/",
+    "title": {
+      "rendered": "کود مونو پتاسیم فسفات (34-52-0) ژیگاس"
+    },
+    "content": {
+      "rendered": "<p>مونو پتاسیم فسفات یک کود کاملا محلول در آب که حاوی %52 عنصر فسفر و %34 پتاسیم می باشد. از این محصول میتوان در ابتدای رشد و در زمان تشکیل ریشه جهت توسعه ریشه زایی و نیز در مرحله تشکیل دانه جهت افزایش وزن هزار دانه غلات و دانه های روغنی استفاده نمود. به دلیل وجود درصد بالایی از فسفر و پتاسیم، این محصول می تواند از رشد و توسعه بسیاری از بیماریها در گیاهان جلوگیری نموده و باعث کنترل بیماریهایی نظیر سفیدک پودری و سیاهک معمولی ذرت شود. این محصول قابل استفاده در کلیه سیستم های آبیاری بارانی، غرقابی، قطره ای و هیدرو پونیک است. این محصول به دلیل EC پایین، جهت استفاده در سیستم های آبیاری مناسب بوده و قابلیت اختلاط با سایر کود ها را نیز دارد.</p>\n<p>&nbsp;</p>\n<p dir=\"rtl\" lang=\"fa\"><strong>خرید مطمئن از ایکادمال:</strong></p>\n<p dir=\"rtl\" lang=\"fa\"><strong>کود مونو پتاسیم فسفات (0-52-34) ژیگاس اصل</strong> را با ضمانت خلوص بالا، بدون ذره‌ای ناخالصی و با بهترین قیمت بازار به‌صورت اینترنتی از فروشگاه تخصصی ایکادمال تهیه کنید. کارشناسان مجرب تغذیه ایکادمال آماده ارائه برنامه دقیق کودی بر اساس سن گیاه و آنالیز مزرعه شما هستند.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<ul>\n<li>تامین نیاز بالای فسفر در ابتدای رشد</li>\n<li>تولید ریشه های قوی و گسترده و ظهور برگ های شاداب</li>\n<li>تحریک گلدهی و شکوفه دهی</li>\n<li>افزایش مقاومت به تنش های محیطی</li>\n<li>دارای pH اسیدی و شوری بسیار پایین</li>\n</ul>\n",
+      "protected": false
+    },
+    "author": 3,
+    "featured_media": 975,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_daextam_enable_autolinks": "1"
+    },
+    "product_brand": [
+      81
+    ],
+    "product_cat": [
+      1681
+    ],
+    "product_tag": [
+      135,
+      202,
+      134
+    ],
+    "class_list": [
+      "post-873",
+      "product",
+      "type-product",
+      "status-publish",
+      "has-post-thumbnail",
+      "product_brand-gigas",
+      "product_cat-monopotassium-phosphate-mkp-fertilizers",
+      "product_tag-135",
+      "product_tag-202",
+      "product_tag-134",
+      "last",
+      "instock",
+      "shipping-taxable",
+      "product-type-simple"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product/873",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/types/product"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/users/3"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/comments?post=873"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/media/975"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/media?parent=873"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "product_brand",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_brand?post=873"
+        },
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_cat?post=873"
+        },
+        {
+          "taxonomy": "product_tag",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_tag?post=873"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+}

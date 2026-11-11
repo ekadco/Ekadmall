@@ -1,0 +1,137 @@
+{
+  "captured_at": "2026-11-11T09:55:26.000Z",
+  "source": "https://ekadmall.com/wp-json/wp/v2/",
+  "item": {
+    "id": 1492,
+    "date": "2026-04-13T13:23:01",
+    "date_gmt": "2026-04-13T09:53:01",
+    "guid": {
+      "rendered": "https://ekadmall.com/?post_type=product&#038;p=1492"
+    },
+    "modified": "2026-11-07T17:43:58",
+    "modified_gmt": "2026-11-07T14:13:58",
+    "slug": "%da%a9%d9%88%d8%af-%d8%a7%d8%b3%da%a9%d9%88%d8%b1%d8%a8%db%8c%da%a9-%d8%a7%d8%b3%db%8c%d8%af-%d8%af%d8%a7%d9%85%d9%88%d9%86-%d8%b6%d8%af-%d8%aa%d9%86%d8%b4-%d8%a7%d8%b3%da%a9%d8%a7%d9%85%db%8c%d9%86",
+    "status": "publish",
+    "type": "product",
+    "link": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%d8%a7%d8%b3%da%a9%d9%88%d8%b1%d8%a8%db%8c%da%a9-%d8%a7%d8%b3%db%8c%d8%af-%d8%af%d8%a7%d9%85%d9%88%d9%86-%d8%b6%d8%af-%d8%aa%d9%86%d8%b4-%d8%a7%d8%b3%da%a9%d8%a7%d9%85%db%8c%d9%86/",
+    "title": {
+      "rendered": "کود اسکوربیک اسید دامون ضد تنش اسکامین"
+    },
+    "content": {
+      "rendered": "<p>اسکوربیک اسید به همان اندازه که برای حیوانات ضروری است، برای گیاهان نیز ضروری است و یک آنتی اکسیدان مهم در گیاهان است که نقش مهمی در فرآیندهای فیزیولوژیکی مختلف ایفا می کند. اسکوربیک اسید به عنوان یک بافر اصلی ردوکس و به عنوان کوفاکتور برای آلزیه های دخیل در تنظیم فتوسنتز، بیوسنتز هورمون ها و بازسازی سایر آنتی اکسدان ها عمل می کند. اسکوربیک اسید تقسیم و رشد سلولی را تنظیم و در انتقال سیگنال نقش دارد. همچنین در تنظیم طویل شدن و پیشرفت سلول در طول چرخه سلولی نقش دارد. برای سم زادیی گونه های فعال اکسژن (ROS)، به عنوان مثال ، آنیون سوپر اکسید، رادیکال هیدروکسیل و پراکسید هیدروژن به منظور محافظت از دستگاه فتوسنتزی و سایر اجزای سلولی در برابر آسیب اکسیداتیو استفاده می شود.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<h5><em>تجزیه ضمانت شده</em><em>: وزنی/ حجمی<br />\n</em></h5>\n<ul>\n<li>حفاظت از سلول های گیاهی در شرایط تحت استرس</li>\n<li>بهبود متابولیسم گیاه برای القا افزایش عملکرد و افزایش کیفیت محصولات</li>\n<li>رشد سریع ریشه و ساقه و القای تقسیم میتوزی در برگ و تاخیر در پیری میوه</li>\n<li>افزایش جذب نیتروژن، راندمان مصرف عناصر غذایی، بهبود جوانه زنی بذر</li>\n<li>افزایش ویژگی های کیفی میوه شامل ماندگاری، رنگ، قند و اندازه میوه</li>\n</ul>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 2004,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_daextam_enable_autolinks": "1"
+    },
+    "product_brand": [
+      86
+    ],
+    "product_cat": [
+      1673
+    ],
+    "product_tag": [
+      1708,
+      196,
+      216
+    ],
+    "class_list": [
+      "post-1492",
+      "product",
+      "type-product",
+      "status-publish",
+      "has-post-thumbnail",
+      "product_brand-damoon",
+      "product_cat-ascorbic-acid",
+      "product_tag-1708",
+      "product_tag-196",
+      "product_tag-216",
+      "last",
+      "instock",
+      "shipping-taxable",
+      "purchasable",
+      "product-type-variable",
+      "has-default-attributes"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product/1492",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/types/product"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/comments?post=1492"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/media/2004"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/media?parent=1492"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "product_brand",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_brand?post=1492"
+        },
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_cat?post=1492"
+        },
+        {
+          "taxonomy": "product_tag",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_tag?post=1492"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "captured_at": "2026-11-11T09:55:26.000Z",
+  "source": "https://ekadmall.com/wp-json/wp/v2/",
+  "item": {
+    "id": 1615,
+    "date": "2026-04-19T23:18:54",
+    "date_gmt": "2026-04-19T19:48:54",
+    "guid": {
+      "rendered": "https://ekadmall.com/?page_id=1615"
+    },
+    "modified": "2026-09-15T17:49:19",
+    "modified_gmt": "2026-09-15T14:19:19",
+    "slug": "product-catalog-pdf",
+    "status": "publish",
+    "type": "page",
+    "link": "https://ekadmall.com/product-catalog-pdf/",
+    "title": {
+      "rendered": "کاتالوگ قیمت محصولات کشاورزی"
+    },
+    "content": {
+      "rendered": "\n<p class=\"wp-block-paragraph\">در این صفحه، لیست قیمت کود و محصولات کشاورزی به‌روز و نهایی را به همراه آخرین تغییرات مشاهده می‌کنید. تمام اقلام شامل موجودی انبار (آماده ارسال) و کالاهای در حال تأمین هستند. قیمت‌ها بر اساس نرخ روز و هزینه حمل بازبینی می‌شوند. پیش از ثبت سفارش، حتماً با کلیک روی هر محصول، جزئیات قیمت و موجودی را بررسی کنید.</p>\n\n\n\n<p class=\"wp-block-paragraph\">در کنار هر محصول، <strong>وضعیت کد ثبت ماده کودی</strong> درج شده است. محصولات بدون مجوز (وارداتی یا داخلی) شفاف اعلام می‌شوند. برای محصولات دارای مجوز، شماره ثبت و تاریخ اعتبار قابل مشاهده است.</p>\n\n\n\n<p class=\"wp-block-paragraph\">با کلیک روی نام یا تصویر محصول، به صفحه اختصاصی آن هدایت می‌شوید. در آنجا مشخصات فنی (نوع ماده، درصد خلوص، میزان مصرف)، گواهی‌های استاندارد، نکات ایمنی، برگه آنالیز، MSDS و نظرات کاربران را مطالعه کنید. برای سوال فنی، از فرم تماس داخل صفحه اقدام نمایید.</p>\n\n\n\n<p class=\"wp-block-paragraph\">با کلیک روی دکمه «<strong>دریافت کاتالوگ PDF</strong>» (در ادامه)، فایل شامل جداول قیمت، وضعیت موجودی، وضعیت ماده کودی و لینک مستقیم به هر محصول را دانلود کنید. توجه: قیمت‌های PDF مربوط به لحظه تولید است؛ برای اطمینان از به‌روزبودن به نسخه آنلاین مراجعه کنید.</p>\n\n\n\n<p class=\"wp-block-paragraph\"></p>\n\n\n\n<p class=\"wp-block-paragraph\"></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>لیست قیمت کود و محصولات کشاورزی به‌روز و نهایی به همراه آخرین تغییرات شامل موجودی انبار (آماده ارسال) و کالاهای در حال تأمین مشاهده لیست قیمت کود کشاورزی و انواع محصولات. قیمت‌گذاری شفاف و رقابتی برای خرید کود کشاورزی با بهترین قیمت و خرید کود کشاورزی با قیمت مناسب.</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "product-catalog-pdf.php",
+    "meta": {
+      "_acf_changed": false,
+      "_daextam_enable_autolinks": "1",
+      "footnotes": ""
+    },
+    "class_list": [
+      "post-1615",
+      "page",
+      "type-page",
+      "status-publish",
+      "hentry"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/pages/1615",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/comments?post=1615"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 13,
+          "href": "https://ekadmall.com/wp-json/wp/v2/pages/1615/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 3098,
+          "href": "https://ekadmall.com/wp-json/wp/v2/pages/1615/revisions/3098"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/media?parent=1615"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+}

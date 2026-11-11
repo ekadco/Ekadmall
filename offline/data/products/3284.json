@@ -1,0 +1,135 @@
+{
+  "captured_at": "2026-11-11T09:55:26.000Z",
+  "source": "https://ekadmall.com/wp-json/wp/v2/",
+  "item": {
+    "id": 3284,
+    "date": "2026-10-20T16:31:17",
+    "date_gmt": "2026-10-20T13:01:17",
+    "guid": {
+      "rendered": "https://ekadmall.com/?post_type=product&#038;p=3284"
+    },
+    "modified": "2026-11-09T12:56:36",
+    "modified_gmt": "2026-11-09T09:26:36",
+    "slug": "%da%a9%d9%88%d8%af-%d9%87%db%8c%d9%88%d9%85%db%8c%da%a9-%d8%a7%d8%b3%db%8c%d8%af-%db%b3%db%b6%d9%aa-%da%af%d8%b1%d8%a7%d9%86%d9%88%d9%84-%d8%a8%d9%86%d8%aa%d8%a7%da%a9%d9%85",
+    "status": "publish",
+    "type": "product",
+    "link": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%d9%87%db%8c%d9%88%d9%85%db%8c%da%a9-%d8%a7%d8%b3%db%8c%d8%af-%db%b3%db%b6%d9%aa-%da%af%d8%b1%d8%a7%d9%86%d9%88%d9%84-%d8%a8%d9%86%d8%aa%d8%a7%da%a9%d9%85/",
+    "title": {
+      "rendered": "کود هیومیک اسید ۳۶٪ گرانول بنتاکم"
+    },
+    "content": {
+      "rendered": "<p dir=\"rtl\" lang=\"fa\">کود هیومیک اسید گرانوله بنتاکم، محصولی برای بهبود شرایط خاک و کمک به رشد بهتر گیاهان است. این محصول حاوی ۳۶٪ هیومیک اسید است و به‌صورت گرانول عرضه می‌شود؛ فرم گرانوله امکان استفاده در خاک و قرارگیری کود در نزدیکی ناحیه ریشه را فراهم می‌کند.</p>\n<p dir=\"rtl\" lang=\"fa\">این محصول یک اصلاح کننده  خاک و محرک رشد فوق العاده است؛ ساختار خاک را بهبود بخشیده، ظرفیت تبادل کاتیونی و جذب عناصر غذایی را بالا برده و باعث حفظ رطوبت و تهویه بهتر خاک می شود و سرعت رشد گیاه را به طور چشگیری افزایش می دهد.</p>\n<p dir=\"rtl\" lang=\"fa\">هیومیک اسید با کمک به بهبود ویژگی‌های خاک و فراهم‌تر شدن دسترسی گیاه به عناصر غذایی، می‌تواند در برنامه تغذیه گیاهان زراعی، باغی و گلخانه‌ای مورد استفاده قرار گیرد. این محصول در بسته‌بندی ۲۵ کیلوگرمی عرضه شده است.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<ul>\n<li>حاوی ۳۶٪ هیومیک اسید</li>\n<li>فرم گرانوله، مناسب مصرف خاکی</li>\n<li>قابل استفاده در برنامه تغذیه گیاهان</li>\n<li>بسته‌بندی ۲۵ کیلوگرمی</li>\n</ul>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 3287,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_daextam_enable_autolinks": ""
+    },
+    "product_brand": [
+      1755
+    ],
+    "product_cat": [
+      182
+    ],
+    "product_tag": [
+      1700,
+      1679
+    ],
+    "class_list": [
+      "post-3284",
+      "product",
+      "type-product",
+      "status-publish",
+      "has-post-thumbnail",
+      "product_brand-bentachem",
+      "product_cat-humic-acid",
+      "product_tag-1700",
+      "product_tag-1679",
+      "",
+      "instock",
+      "sale",
+      "shipping-taxable",
+      "purchasable",
+      "product-type-simple"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product/3284",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/types/product"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/comments?post=3284"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/media/3287"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/media?parent=3284"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "product_brand",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_brand?post=3284"
+        },
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_cat?post=3284"
+        },
+        {
+          "taxonomy": "product_tag",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_tag?post=3284"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+}

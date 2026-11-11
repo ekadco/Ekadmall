@@ -1,0 +1,137 @@
+{
+  "captured_at": "2026-11-11T09:55:26.000Z",
+  "source": "https://ekadmall.com/wp-json/wp/v2/",
+  "item": {
+    "id": 1491,
+    "date": "2026-04-13T13:12:39",
+    "date_gmt": "2026-04-13T09:42:39",
+    "guid": {
+      "rendered": "https://ekadmall.com/?post_type=product&#038;p=1491"
+    },
+    "modified": "2026-11-07T17:41:46",
+    "modified_gmt": "2026-11-07T14:11:46",
+    "slug": "%da%a9%d9%88%d8%af-%d8%b3%d8%a7%d9%84%db%8c%d8%b3%db%8c%d9%84%db%8c%da%a9-%d8%a7%d8%b3%db%8c%d8%af-%d8%af%d8%a7%d9%85%d9%88%d9%86-%d8%b6%d8%af-%d8%aa%d9%86%d8%b4-%d8%b3%d8%a7%d9%84%db%8c%da%a9%d8%b3",
+    "status": "publish",
+    "type": "product",
+    "link": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%d8%b3%d8%a7%d9%84%db%8c%d8%b3%db%8c%d9%84%db%8c%da%a9-%d8%a7%d8%b3%db%8c%d8%af-%d8%af%d8%a7%d9%85%d9%88%d9%86-%d8%b6%d8%af-%d8%aa%d9%86%d8%b4-%d8%b3%d8%a7%d9%84%db%8c%da%a9%d8%b3/",
+    "title": {
+      "rendered": "کود سالیسیلیک اسید دامون ضد تنش سالیکس"
+    },
+    "content": {
+      "rendered": "<p>تنش های زنده و غیر زنده باعث استرس اکسیداتیو ئ منجر به افزایش نشت الکترولیت ها و سرعت تنفس می شود. این امر به افزایش تولید اکسیژن فعال (ROS) مانند سوپر اکسید رادیکال هیدروکسیل و همچنین هیدروژن پراکسیدمی شود. غلظت بالای گونه های فعال اکسیژن باعث پراکسیداسیون لیپیدی و آسیب به پروتئین ها می شود که می تواند به فرآیندهای فتوسنتزی، غشای تیلاکوبید و رنگدانه ها آسیب بزند و نهایتا منجر به مرگ سلول شود. همچنین اسید سالسیلیک اثرات مثبتی در واکنش به تنش های غیر زنده مانند خشکسالی، سرمازدگی، سمیت فلزات سنگین، گرما و استرس اسمزی دارد. علاوه بر این اسید سالسیلیک نقش مهمی در تنظیم فرآیندهای فیزیولوژیکی و بیوشیمیایی در تنش های زنده و غیر زنده در طول عمر گیاه دارد. محرک رشد سایکس با فرمولاسیون جدید و منحصر به فرد خود یک آنتی استرس قوی در شرایط تنش می باشد.</p>\n<p>&nbsp;</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<ul>\n<li>کاهش تنش های محیطی (خشکی، شوری، گرما و سرما)</li>\n<li>کاهش سمیت فلزات سنگین</li>\n<li>افزایش عمکلرد دفاعی آنتی اکسیدانی</li>\n<li>تنظیم فرآیندهای فیزیولوژیکی و فتوسنتز</li>\n</ul>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 2000,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_daextam_enable_autolinks": "1"
+    },
+    "product_brand": [
+      86
+    ],
+    "product_cat": [
+      1670
+    ],
+    "product_tag": [
+      1708,
+      196,
+      216
+    ],
+    "class_list": [
+      "post-1491",
+      "product",
+      "type-product",
+      "status-publish",
+      "has-post-thumbnail",
+      "product_brand-damoon",
+      "product_cat-salicylic-acid",
+      "product_tag-1708",
+      "product_tag-196",
+      "product_tag-216",
+      "first",
+      "instock",
+      "shipping-taxable",
+      "purchasable",
+      "product-type-variable",
+      "has-default-attributes"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product/1491",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/types/product"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/comments?post=1491"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/media/2000"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/media?parent=1491"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "product_brand",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_brand?post=1491"
+        },
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_cat?post=1491"
+        },
+        {
+          "taxonomy": "product_tag",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_tag?post=1491"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+}

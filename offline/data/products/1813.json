@@ -1,0 +1,142 @@
+{
+  "captured_at": "2026-11-11T09:55:26.000Z",
+  "source": "https://ekadmall.com/wp-json/wp/v2/",
+  "item": {
+    "id": 1813,
+    "date": "2026-05-08T00:19:38",
+    "date_gmt": "2026-05-07T20:49:38",
+    "guid": {
+      "rendered": "https://ekadmall.com/?post_type=product&#038;p=1813"
+    },
+    "modified": "2026-11-08T10:54:49",
+    "modified_gmt": "2026-11-08T07:24:49",
+    "slug": "%da%a9%d9%88%d8%af-%d8%ac%d9%84%d8%a8%da%a9-%d8%af%d8%b1%db%8c%d8%a7%db%8c%db%8c-45-%d8%a7%d8%af%d9%88%d8%a8-%d9%be%d8%b1%d9%88",
+    "status": "publish",
+    "type": "product",
+    "link": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%d8%ac%d9%84%d8%a8%da%a9-%d8%af%d8%b1%db%8c%d8%a7%db%8c%db%8c-45-%d8%a7%d8%af%d9%88%d8%a8-%d9%be%d8%b1%d9%88/",
+    "title": {
+      "rendered": "کود جلبک دریایی 45% ادوب پرو"
+    },
+    "content": {
+      "rendered": "<p>عصاره جلبک دریایی 45% ADOB PRO یک بیواستیمولانت (زیست محرک) فوق العاده غنی و چندمنظوره است که با بهره گیری از ترکیبات جادویی طبیعت از جمله هورمون های گیاهی (مانند سیتوکینین ها، اکسین ها و جیبرلین ها) و مواد آلی پیچیده، عملکرد گیاه را به شکل چشمگیری ارتقا می دهد. این محصول با تحریک تقسیم سلولی و افزایش طول سلول ها، نه تنها باعث رشد سریع و تنومند ریشه ها و شاخساره ها می شود، بلکه با بهبود فرایند فتوسنتز و افزایش کارایی جذب عناصر غذایی، گیاه را در برابر تنش های محیطی نظیر خشکی، کمبود اکسیژن و تغییرات دمایی و تنش های زنده مانند بیماریها و آفات مقاوم می سازد و در نهایت باعث بهبود کیفیت، رنگ، اندازه و ماندگاری محصولات کشاورزی می شود.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<ul>\n<li>تامین طبیعی هورمون های رشد گیاهی</li>\n<li>افزایش مقاومت به تنش های شوری، خشکی، گرما و سرما</li>\n<li>بهبود جوانه زنی، ریشه زایی و استقرار گیاهچه</li>\n<li>تحریک رشد رویشی و افزایش سطح برگ</li>\n</ul>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 1823,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_daextam_enable_autolinks": "1"
+    },
+    "product_brand": [
+      1647
+    ],
+    "product_cat": [
+      1668
+    ],
+    "product_tag": [
+      199,
+      200,
+      193,
+      196,
+      138,
+      216
+    ],
+    "class_list": [
+      "post-1813",
+      "product",
+      "type-product",
+      "status-publish",
+      "has-post-thumbnail",
+      "product_brand-adob-pro",
+      "product_cat-seaweed-fertilizer",
+      "product_tag-199",
+      "product_tag-200",
+      "product_tag-193",
+      "product_tag-196",
+      "product_tag-138",
+      "product_tag-216",
+      "first",
+      "instock",
+      "shipping-taxable",
+      "purchasable",
+      "product-type-simple"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product/1813",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/types/product"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/comments?post=1813"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/media/1823"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/media?parent=1813"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "product_brand",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_brand?post=1813"
+        },
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_cat?post=1813"
+        },
+        {
+          "taxonomy": "product_tag",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_tag?post=1813"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+}

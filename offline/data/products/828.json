@@ -1,0 +1,141 @@
+{
+  "captured_at": "2026-11-11T09:55:26.000Z",
+  "source": "https://ekadmall.com/wp-json/wp/v2/",
+  "item": {
+    "id": 828,
+    "date": "2025-12-17T18:24:53",
+    "date_gmt": "2025-12-17T14:54:53",
+    "guid": {
+      "rendered": "https://ekadmall.com/?post_type=product&#038;p=828"
+    },
+    "modified": "2026-11-07T12:04:07",
+    "modified_gmt": "2026-11-07T08:34:07",
+    "slug": "%da%a9%d9%88%d8%af-%da%af%d9%88%da%af%d8%b1%d8%af-%d9%85%d8%a7%db%8c%d8%b9-65-sulfur-%da%98%db%8c%da%af%d8%a7%d8%b3",
+    "status": "publish",
+    "type": "product",
+    "link": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%da%af%d9%88%da%af%d8%b1%d8%af-%d9%85%d8%a7%db%8c%d8%b9-65-sulfur-%da%98%db%8c%da%af%d8%a7%d8%b3/",
+    "title": {
+      "rendered": "کود گوگرد مایع 65 (Sulfur) ژیگاس"
+    },
+    "content": {
+      "rendered": "<div id=\"introduction\" class=\"card shadow-sm mb-5 mb-lg-10\">\n<div class=\"card-body \">\n<div class=\"text-gray-700\">\n<p>کود گوگرد مایع گیگاس حاوی 65 درصد گوگرد (SO3) می باشد. گوگرد در تولید پروتئین و کلروفیل و سایر ترکیبات حساس گیاه نقش دارد به همین دلیل علائم کمبود آن شبیه علائم کمبود نیتروژن ظاهر میشود. نشانه کمبود گوگرد در گیاه زردشدن برگ های جوان می باشد این در حالی است که نشانه کمبود نیتروژن زرد شدن برگ های پیر است. گوگرد عنصر اصلی ساختمان اسیدهای آمینه در گیاهان است. این عنصر به دلیل دارا بودن بار منفی توسط ذرات خاک جذب نمی شود ودر خاک متحرک است به همین دلیل در خاک هایی که به شدت در معرض شست و شو قراردارند کمبود گوگرد مشاهده می شود.</p>\n</div>\n<p dir=\"rtl\" lang=\"fa\"><strong>خرید مطمئن از ایکادمال:</strong></p>\n<p dir=\"rtl\" lang=\"fa\"><strong>کود گوگرد مایع ۶۵ (Sulfur) ژیگاس</strong> را با بسته‌بندی پلمپ، خلوص تضمین‌شده و بهترین قیمت بازار به آسانی از <strong>فروشگاه تخصصی ایکادمال</strong> تهیه فرمایید. کارشناسان گیاه‌پزشکی و خاک‌شناسی ایکادمال جهت تنظیم برنامه پیشگیری از آفات و برنامه شست‌وشو/اصلاح خاک در کنار شما هستند.</p>\n</div>\n</div>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<ul>\n<li>تأمین گوگرد، پتاسیم و کلسیم مورد نیاز گیاه</li>\n<li>تنظیم اسیدیته خاک و کاهش اثرات شوری آب و خاک</li>\n<li>دارای خاصیت قارچ‌کشی و افزایش مقاومت گیاه در برابر آفات و بیماری‌ها</li>\n<li>رهاسازی عناصر تثبیت‌شده در خاک و افزایش دسترسی ریشه</li>\n<li>افزایش سطح فتوسنتز و تولید کلروفیل گیاه</li>\n<li>پیشگیری از علائم کمبود کلسیم، گوگرد و پتاسیم و تقویت دیواره سلولی</li>\n<li>کمک به حفظ و نگهداری آب در خاک و گیاه</li>\n</ul>\n",
+      "protected": false
+    },
+    "author": 3,
+    "featured_media": 980,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_daextam_enable_autolinks": "1"
+    },
+    "product_brand": [
+      81
+    ],
+    "product_cat": [
+      169
+    ],
+    "product_tag": [
+      1648,
+      201,
+      202,
+      1695,
+      216
+    ],
+    "class_list": [
+      "post-828",
+      "product",
+      "type-product",
+      "status-publish",
+      "has-post-thumbnail",
+      "product_brand-gigas",
+      "product_cat-sulfur-fertilizers",
+      "product_tag-1648",
+      "product_tag-201",
+      "product_tag-202",
+      "product_tag-1695",
+      "product_tag-216",
+      "first",
+      "instock",
+      "shipping-taxable",
+      "purchasable",
+      "product-type-variable",
+      "has-default-attributes"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product/828",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/types/product"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/users/3"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/comments?post=828"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/media/980"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/media?parent=828"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "product_brand",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_brand?post=828"
+        },
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_cat?post=828"
+        },
+        {
+          "taxonomy": "product_tag",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_tag?post=828"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+}

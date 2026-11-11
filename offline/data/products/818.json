@@ -1,0 +1,139 @@
+{
+  "captured_at": "2026-11-11T09:55:26.000Z",
+  "source": "https://ekadmall.com/wp-json/wp/v2/",
+  "item": {
+    "id": 818,
+    "date": "2025-12-17T18:25:07",
+    "date_gmt": "2025-12-17T14:55:07",
+    "guid": {
+      "rendered": "https://ekadmall.com/?post_type=product&#038;p=818"
+    },
+    "modified": "2026-11-07T11:52:41",
+    "modified_gmt": "2026-11-07T08:22:41",
+    "slug": "%da%a9%d9%88%d8%af-%d9%86%db%8c%d8%aa%d8%b1%d8%a7%d8%aa-%d9%be%d8%aa%d8%a7%d8%b3%db%8c%d9%85-46-0-13-%da%98%db%8c%da%af%d8%a7%d8%b3",
+    "status": "publish",
+    "type": "product",
+    "link": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%d9%86%db%8c%d8%aa%d8%b1%d8%a7%d8%aa-%d9%be%d8%aa%d8%a7%d8%b3%db%8c%d9%85-46-0-13-%da%98%db%8c%da%af%d8%a7%d8%b3/",
+    "title": {
+      "rendered": "کود نیترات پتاسیم (46-0-13) ژیگاس"
+    },
+    "content": {
+      "rendered": "<p>نیترات پتاسیم یک کود کاملا محلول در آب است که حاوی %13 ازت به فرم نیتراته و %46 پتاسیم می باشد. با توجه به اینکه در دوره ی رشد زایشی نیاز ازت کاهش، و نیاز پتاسیم افزایش پیدا می کند، محصول نیترات پتاسیم میتواند علاوه بر تامین پتاسیم به مقدار کافی، حداقل نیاز گیاه به ازت را تامین کند. این محصول عاری از هرگونه کار می باشد و به دلیل نسبت مناسب نیتروژن به پتاسیم در زمان گلدهی و رسیدگی میوه توصیه میشود. این محصول کود بسیار مناسبی برای برطرف کردن کمبود پتاسیم در هر مرحله از رشد گیاه و قابل استفاده در کلیه سیستم های آبیاری بارانی غرقابی و قطره ای است.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<ul>\n<li>تأمین همزمان نیتروژن و پتاسیم</li>\n<li>مناسب برای کشت‌های گلخانه‌ای</li>\n<li>افزایش کیفیت محصول</li>\n<li>افزایش مقاومت گیاه در برابر بیماری‌ها</li>\n<li>افزایش راندمان مصرف آب</li>\n<li>مناسب برای رشد زایشی گیاه</li>\n<li>افزایش وزن دانه و میوه</li>\n<li>حلالیت بالا و قابل استفاده در سیستم آبیاری یا محلول‌پاشی</li>\n<li>بهترین زمان مصرف: مراحل انتهایی رشد گیاه</li>\n</ul>\n",
+      "protected": false
+    },
+    "author": 3,
+    "featured_media": 970,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_daextam_enable_autolinks": "1"
+    },
+    "product_brand": [
+      81
+    ],
+    "product_cat": [
+      1764
+    ],
+    "product_tag": [
+      135,
+      1678,
+      202,
+      1709
+    ],
+    "class_list": [
+      "post-818",
+      "product",
+      "type-product",
+      "status-publish",
+      "has-post-thumbnail",
+      "product_brand-gigas",
+      "product_cat-potassium-nitrate-fertilizers",
+      "product_tag-135",
+      "product_tag-1678",
+      "product_tag-202",
+      "product_tag-1709",
+      "",
+      "instock",
+      "sale",
+      "shipping-taxable",
+      "purchasable",
+      "product-type-simple"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product/818",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/types/product"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/users/3"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/comments?post=818"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/media/970"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/media?parent=818"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "product_brand",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_brand?post=818"
+        },
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_cat?post=818"
+        },
+        {
+          "taxonomy": "product_tag",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_tag?post=818"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+}

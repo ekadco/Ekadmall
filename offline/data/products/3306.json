@@ -1,0 +1,129 @@
+{
+  "captured_at": "2026-11-11T09:55:26.000Z",
+  "source": "https://ekadmall.com/wp-json/wp/v2/",
+  "item": {
+    "id": 3306,
+    "date": "2026-10-14T21:06:50",
+    "date_gmt": "2026-10-14T17:36:50",
+    "guid": {
+      "rendered": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%d8%a7%d9%88%d8%b1%d9%87-%d9%81%d8%b3%d9%81%d8%a7%d8%aa%d9%87-2010-%d8%aa%d8%a7%d9%be-%d9%be%d9%84%d8%a7%d8%b3/"
+    },
+    "modified": "2026-11-02T13:20:46",
+    "modified_gmt": "2026-11-02T09:50:46",
+    "slug": "%da%a9%d9%88%d8%af-%d8%a7%d9%88%d8%b1%d9%87-%d9%81%d8%b3%d9%81%d8%a7%d8%aa%d9%87-10-20-%d8%aa%d8%a7%d9%be-%d9%be%d9%84%d8%a7%d8%b3",
+    "status": "publish",
+    "type": "product",
+    "link": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%d8%a7%d9%88%d8%b1%d9%87-%d9%81%d8%b3%d9%81%d8%a7%d8%aa%d9%87-10-20-%d8%aa%d8%a7%d9%be-%d9%be%d9%84%d8%a7%d8%b3/",
+    "title": {
+      "rendered": "کود اوره فسفاته 10-20 تاپ پلاس"
+    },
+    "content": {
+      "rendered": "<p style=\"text-align: justify;\">کود اوره فسفات (فسفاته ازته 10-20، یکی از پرفروش‌­ترین محصولات تولیدی بوده که به دلیل تراکم عناصر مغذی (ازت و فسفر) و دارا بودن عنصر گوگرد (10 درصد) از کارایی بالایی برخوردار است. این محصول به دلیل نوع دانه ­بندی و کود فسفاته ازته 10-20</p>\n<h4 dir=\"rtl\" lang=\"fa\">چرا کود اوره فسفاته ۱۰-۲۰ تاپ پلاس؟</h4>\n<p dir=\"rtl\" lang=\"fa\">یکی از بزرگ‌ترین چالش‌های کشاورزی در خاک‌های آهکی و آب‌های با بی‌کربنات بالا در ایران، قلیایی بودن محیط ریشه و رسوب سریع فسفر و ریزمغذی‌هاست. <strong>کود اوره فسفاته ۱۰-۲۰ تاپ پلاس (Urea Phosphate)</strong> با ماهیت اسیدی قوی خود، به عنوان یک کود دوکاره عمل می‌کند: از یک سو فسفر و ازت سهل‌الجذب را در اختیار ریشه قرار می‌دهد و از سوی دیگر با کاهش اسیدیته (pH) در اطراف ریشه، قفل عناصر تثبیت‌شده مانند آهن، روی و فسفر را باز می‌کند.</p>\n<h4 dir=\"rtl\" lang=\"fa\">مهم‌ترین مزایای مصرف کود اوره فسفات تاپ پلاس</h4>\n<ul dir=\"rtl\" lang=\"fa\">\n<li><strong>اسیدی‌کردن ناحیه ریشه (ریزوسفر):</strong> واکنش اسیدی این کود باعث کاهش اثرات منفی خاک‌های قلیایی و افزایش چندین برابری راندمان جذب عناصر غذایی می‌شود.</li>\n<li><strong>شستشو و بازکنندگی سیستم‌های آبیاری:</strong> از تشکیل رسوبات آهکی و نمکی در لوله‌ها، قطره‌چکان‌ها و نوارهای تیپ جلوگیری کرده و رسوبات پیشین را حل می‌کند.</li>\n<li><strong>محرک قوی ریشه‌زایی اولیه:</strong> تأمین فسفر فعال انرژی موردنیاز سلول‌های ریشه را فراهم ساخته و استقرار اولیه بوته یا بیدار شدن درختان را تسریع می‌بخشد.</li>\n<li><strong>حلالیت ۱۰۰٪ و جذب بسیار سریع:</strong> بلافاصله در آب حل شده و بدون ایجاد لجن، در تمام سیستم‌های آبیاری مدرن قابل مصرف است.</li>\n</ul>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<ul>\n<li>دارای فسفر کافی و ازت برای رشد گیاه</li>\n<li>مناسب برای کلیه محصولات زراعی و باغی</li>\n<li>تنظیم­ کننده pH خاک به دلیل دارا بودن گوگرد عنصری و سولفاته</li>\n<li>افزایش کمی و کیفی محصول</li>\n<li>افزایش رشد ریشه و تشکیل گل و میوه</li>\n<li>نحوه مصرف: خاکی و چالکود</li>\n</ul>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 3307,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_daextam_enable_autolinks": ""
+    },
+    "product_brand": [
+      1644
+    ],
+    "product_cat": [
+      1680
+    ],
+    "product_tag": [],
+    "class_list": [
+      "post-3306",
+      "product",
+      "type-product",
+      "status-publish",
+      "has-post-thumbnail",
+      "product_brand-top-pluse",
+      "product_cat-urea-fertilizers",
+      "",
+      "instock",
+      "shipping-taxable",
+      "purchasable",
+      "product-type-simple"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product/3306",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/types/product"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/comments?post=3306"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/media/3307"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/media?parent=3306"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "product_brand",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_brand?post=3306"
+        },
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_cat?post=3306"
+        },
+        {
+          "taxonomy": "product_tag",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_tag?post=3306"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+}

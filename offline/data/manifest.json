@@ -1,0 +1,68 @@
+{
+  "captured_at": "2026-11-11T09:55:26.000Z",
+  "source": "https://ekadmall.com/wp-json/wp/v2/",
+  "counts": {
+    "products": 127,
+    "brands": 12,
+    "categories": 58,
+    "tags": 51,
+    "images": 126,
+    "calendars": 93,
+    "calendar_categories": 5,
+    "posts": 53,
+    "pages": 17,
+    "post_categories": 5,
+    "post_tags": 1
+  },
+  "missing_media_ids": [
+    2942
+  ],
+  "collections": {
+    "products": {
+      "count": 127,
+      "index": "products-index.json"
+    },
+    "calendars": {
+      "count": 93,
+      "index": "calendars-index.json"
+    },
+    "posts": {
+      "count": 53,
+      "index": "posts-index.json"
+    },
+    "pages": {
+      "count": 17,
+      "index": "pages-index.json"
+    }
+  },
+  "taxonomies": {
+    "brands": {
+      "count": 12,
+      "file": "brands.json"
+    },
+    "categories": {
+      "count": 58,
+      "file": "categories.json"
+    },
+    "tags": {
+      "count": 51,
+      "file": "tags.json"
+    },
+    "calendar_categories": {
+      "count": 5,
+      "file": "calendar_categories.json"
+    },
+    "post_categories": {
+      "count": 5,
+      "file": "post_categories.json"
+    },
+    "post_tags": {
+      "count": 1,
+      "file": "post_tags.json"
+    },
+    "media": {
+      "count": 126,
+      "file": "media.json"
+    }
+  }
+}

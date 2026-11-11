@@ -1,0 +1,141 @@
+{
+  "captured_at": "2026-11-11T09:55:26.000Z",
+  "source": "https://ekadmall.com/wp-json/wp/v2/",
+  "item": {
+    "id": 1871,
+    "date": "2026-05-14T14:07:38",
+    "date_gmt": "2026-05-14T10:37:38",
+    "guid": {
+      "rendered": "https://ekadmall.com/?post_type=product&#038;p=1871"
+    },
+    "modified": "2026-10-05T13:40:04",
+    "modified_gmt": "2026-10-05T10:10:04",
+    "slug": "%da%a9%d9%88%d8%af-%d8%a7%d8%b1%da%af%d8%a7%d9%86%db%8c%da%a9-%d9%be%d9%88%d8%af%d8%b1%db%8c-%d9%88%db%8c%da%98%d9%87-%da%86%d8%ba%d9%86%d8%af%d8%b1-%d9%82%d9%86%d8%af-%d9%87%d8%a7%d9%86%d8%a7-suger",
+    "status": "publish",
+    "type": "product",
+    "link": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%d8%a7%d8%b1%da%af%d8%a7%d9%86%db%8c%da%a9-%d9%be%d9%88%d8%af%d8%b1%db%8c-%d9%88%db%8c%da%98%d9%87-%da%86%d8%ba%d9%86%d8%af%d8%b1-%d9%82%d9%86%d8%af-%d9%87%d8%a7%d9%86%d8%a7-suger/",
+    "title": {
+      "rendered": "کود ارگانیک پودری ویژه چغندر قند هانا (Suger Beet)"
+    },
+    "content": {
+      "rendered": "",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 1962,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_daextam_enable_autolinks": "1"
+    },
+    "product_brand": [
+      1652
+    ],
+    "product_cat": [
+      1676
+    ],
+    "product_tag": [
+      1684,
+      194,
+      1687,
+      1678,
+      206,
+      202
+    ],
+    "class_list": [
+      "post-1871",
+      "product",
+      "type-product",
+      "status-publish",
+      "has-post-thumbnail",
+      "product_brand-hana",
+      "product_cat-specialty-fertilizers",
+      "product_tag-1684",
+      "product_tag-194",
+      "product_tag-1687",
+      "product_tag-1678",
+      "product_tag-206",
+      "product_tag-202",
+      "first",
+      "instock",
+      "shipping-taxable",
+      "product-type-simple"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product/1871",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/types/product"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/comments?post=1871"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/media/1962"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/media?parent=1871"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "product_brand",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_brand?post=1871"
+        },
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_cat?post=1871"
+        },
+        {
+          "taxonomy": "product_tag",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_tag?post=1871"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+}

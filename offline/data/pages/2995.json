@@ -1,0 +1,107 @@
+{
+  "captured_at": "2026-11-11T09:55:26.000Z",
+  "source": "https://ekadmall.com/wp-json/wp/v2/",
+  "item": {
+    "id": 2995,
+    "date": "2026-09-03T18:54:22",
+    "date_gmt": "2026-09-03T15:24:22",
+    "guid": {
+      "rendered": "https://ekadmall.com/?page_id=2995"
+    },
+    "modified": "2026-09-20T18:25:23",
+    "modified_gmt": "2026-09-20T14:55:23",
+    "slug": "product-category",
+    "status": "publish",
+    "type": "page",
+    "link": "https://ekadmall.com/product-category/",
+    "title": {
+      "rendered": "دسته بندی محصولات"
+    },
+    "content": {
+      "rendered": "\n<p class=\"wp-block-paragraph\">ایکادمال به عنوان یک <strong>فروشگاه اینترنتی نهاده‌های کشاورزی</strong> پیشرو، بستری را فراهم کرده است که کشاورزان و باغداران عزیز بتوانند بدون دغدغه‌های رفت‌وآمد، به بهترین محصولات تغذیه‌ای گیاه دسترسی داشته باشند. اگر به دنبال <strong>خرید کود کشاورزی در اصفهان</strong> یا تامین نهاده برای اراضی خود در سایر نقاط کشور هستید، این صفحه دروازه ورودی شما به بانک محصولات ماست. ما تمامی دسته‌بندی‌ها را به گونه‌ای مرتب کرده‌ایم که از کودهای شیمیایی پرمصرف تا ریزمغذی‌های خاص و کودهای ارگانیک، با یک کلیک در دسترس شما قرار بگیرد.</p>\n\n\n\n<p class=\"wp-block-paragraph\">در دنیای <strong>کشاورزی هوشمند</strong>، انتخاب درستِ نهاده، اولین قدم برای رسیدن به محصول باکیفیت و تناژ بالاست. فرآیند <strong>خرید آنلاین کود</strong> در ایکادمال با هدف ساده‌سازی طراحی شده است؛ به طوری که شما می‌توانید بر اساس نوع نیاز گیاه خود (رشد رویشی، گل‌دهی یا میوه‌دهی)، دسته‌بندی مربوطه را از میان گزینه‌های زیر انتخاب کنید. ما متعهد هستیم که با حذف واسطه‌ها، امکان خرید مستقیم و آسان را برای شما فراهم کنیم تا هزینه‌های تولید کشاورزی شما کاهش و بهره‌وری زمینتان افزایش یابد.</p>\n\n\n\n<p class=\"wp-block-paragraph\">ما می‌دانیم که انتخاب <strong>کود کشاورزی</strong> مناسب، گاهی چالش‌برانگیز است؛ به همین دلیل، سیستم دسته‌بندی ما به گونه‌ای طراحی شده که شما را به صفحه اختصاصی هر گروه هدایت می‌کند. در آن صفحات، نه تنها لیست محصولات، بلکه اطلاعات فنی لازم برای کاربرد درست هر کود نیز درج شده است. تیم پشتیبانی ایکادمال همواره در کنار شماست تا در صورت نیاز به مشاوره فنی، بهترین راهکار را برای تغذیه گیاهان خود انتخاب کنید. با انتخاب دسته‌بندی مورد نظر خود از میان موارد زیر، همین حالا خرید خود را با اطمینان کامل انجام دهید.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>برای اینکه وقت شما در مسیر تامین نهاده‌ها تلف نشود، تمامی محصولات ما را در این صفحه گروه‌بندی کرده‌ایم. با انتخاب هر دسته‌بندی، مستقیماً به قفسه اختصاصی آن محصول هدایت می‌شوید تا بتوانید با مقایسه دقیق، بهترین انتخاب را برای مزرعه یا باغ خود داشته باشید.</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "page-woo-categories.php",
+    "meta": {
+      "_acf_changed": false,
+      "_daextam_enable_autolinks": "1",
+      "footnotes": ""
+    },
+    "class_list": [
+      "post-2995",
+      "page",
+      "type-page",
+      "status-publish",
+      "hentry"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/pages/2995",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/comments?post=2995"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 3,
+          "href": "https://ekadmall.com/wp-json/wp/v2/pages/2995/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 3104,
+          "href": "https://ekadmall.com/wp-json/wp/v2/pages/2995/revisions/3104"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/media?parent=2995"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+}

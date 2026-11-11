@@ -1,0 +1,138 @@
+{
+  "captured_at": "2026-11-11T09:55:26.000Z",
+  "source": "https://ekadmall.com/wp-json/wp/v2/",
+  "item": {
+    "id": 1875,
+    "date": "2026-05-13T18:45:17",
+    "date_gmt": "2026-05-13T15:15:17",
+    "guid": {
+      "rendered": "https://ekadmall.com/?post_type=product&#038;p=1875"
+    },
+    "modified": "2026-11-04T14:16:30",
+    "modified_gmt": "2026-11-04T10:46:30",
+    "slug": "%da%a9%d9%88%d8%af-%d9%85%d8%b1%d8%ba%db%8c-%d8%ba%d9%86%db%8c-%d8%b4%d8%af%d9%87-%d9%87%d8%a7%d9%86%d8%a7-%da%86%db%8c%da%a9%d8%a7%d9%86%d8%a7",
+    "status": "publish",
+    "type": "product",
+    "link": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%d9%85%d8%b1%d8%ba%db%8c-%d8%ba%d9%86%db%8c-%d8%b4%d8%af%d9%87-%d9%87%d8%a7%d9%86%d8%a7-%da%86%db%8c%da%a9%d8%a7%d9%86%d8%a7/",
+    "title": {
+      "rendered": "کود مرغی غنی شده هانا (چیکانا)"
+    },
+    "content": {
+      "rendered": "<p>چیکانا کود مرغی استریل و غنی شده، ترکیب متعادلی از مواد مغذی ضروری شامل نیتروژن، فسفر، پتاسیم، آمینو اسید و مواد آلی می‌باشد که علاوه بر رشد بهینه گیاه و افزایش سلامت خاک، می‌تواند به بهبود عملکرد و کیفیت محصول کمک کند.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<ul>\n<li>رشد بهینه گیاه و افزایش سلامت خاک</li>\n<li>بهبود عملکرد و کیفیت محصول</li>\n</ul>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 1930,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_daextam_enable_autolinks": "1"
+    },
+    "product_brand": [
+      1652
+    ],
+    "product_cat": [
+      80
+    ],
+    "product_tag": [
+      1684,
+      200,
+      216
+    ],
+    "class_list": [
+      "post-1875",
+      "product",
+      "type-product",
+      "status-publish",
+      "has-post-thumbnail",
+      "product_brand-hana",
+      "product_cat-poultry-manure",
+      "product_tag-1684",
+      "product_tag-200",
+      "product_tag-216",
+      "",
+      "instock",
+      "sale",
+      "shipping-taxable",
+      "purchasable",
+      "product-type-variable",
+      "has-default-attributes"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product/1875",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/types/product"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/comments?post=1875"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/media/1930"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/media?parent=1875"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "product_brand",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_brand?post=1875"
+        },
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_cat?post=1875"
+        },
+        {
+          "taxonomy": "product_tag",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_tag?post=1875"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+}

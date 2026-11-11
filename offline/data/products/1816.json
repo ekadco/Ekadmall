@@ -1,0 +1,136 @@
+{
+  "captured_at": "2026-11-11T09:55:26.000Z",
+  "source": "https://ekadmall.com/wp-json/wp/v2/",
+  "item": {
+    "id": 1816,
+    "date": "2026-05-08T00:42:53",
+    "date_gmt": "2026-05-07T21:12:53",
+    "guid": {
+      "rendered": "https://ekadmall.com/?post_type=product&#038;p=1816"
+    },
+    "modified": "2026-11-04T15:28:32",
+    "modified_gmt": "2026-11-04T11:58:32",
+    "slug": "%da%a9%d9%88%d8%af-%d8%ac%d9%84%d8%a8%da%a9-%d8%af%d8%b1%db%8c%d8%a7%db%8c%db%8c-45-%da%98%db%8c%da%af%d8%a7%d8%b3",
+    "status": "publish",
+    "type": "product",
+    "link": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%d8%ac%d9%84%d8%a8%da%a9-%d8%af%d8%b1%db%8c%d8%a7%db%8c%db%8c-45-%da%98%db%8c%da%af%d8%a7%d8%b3/",
+    "title": {
+      "rendered": "کود جلبک دریایی 45% ژیگاس"
+    },
+    "content": {
+      "rendered": "<p>کود <b>جلبک دریایی 45% ژیگاس</b> عصاره انحصاری و غلیظ شده جلبک دریایی <b>آسکوفیلوم نودوسوم</b> و <b>لامیناریا </b>پیشرفته ترین بیواتیمولانت طبیعی برای کشاورزی مدرن است که حاوی غنی ترین ترکیبات طبیعی تنظیم کننده رشد (مانند <b>اکسین، جیبرلین و سیتوکنین</b>)، بتائین، ویتامین ها و اسیدهای آمینه می باشد. وجود 40% عصاره خالص جلبک و آمینواسید و مجموعه کاملی از عناصر ماکرو و میکرو به فرم <b>کلات EDTA </b>کلیه نیازهای گیاه را در تمام مراحل رشد برطرف می سازد.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<ul>\n<li>تامین طبیعی هورمون های رشد گیاهی</li>\n<li>افزایش مقاومت به تنش های شوری، خشکی، گرما و سرما</li>\n<li>بهبود جوانه زنی، ریشه زایی و استقرار گیاهچه</li>\n<li>تحریک رشد رویشی و افزایش سطح برگ</li>\n</ul>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 1832,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_daextam_enable_autolinks": "1"
+    },
+    "product_brand": [
+      81
+    ],
+    "product_cat": [
+      1668
+    ],
+    "product_tag": [
+      139,
+      206,
+      216
+    ],
+    "class_list": [
+      "post-1816",
+      "product",
+      "type-product",
+      "status-publish",
+      "has-post-thumbnail",
+      "product_brand-gigas",
+      "product_cat-seaweed-fertilizer",
+      "product_tag-139",
+      "product_tag-206",
+      "product_tag-216",
+      "",
+      "outofstock",
+      "shipping-taxable",
+      "purchasable",
+      "product-type-simple"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product/1816",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/types/product"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/comments?post=1816"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/media/1832"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/media?parent=1816"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "product_brand",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_brand?post=1816"
+        },
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_cat?post=1816"
+        },
+        {
+          "taxonomy": "product_tag",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_tag?post=1816"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+}

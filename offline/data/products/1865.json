@@ -1,0 +1,140 @@
+{
+  "captured_at": "2026-11-11T09:55:26.000Z",
+  "source": "https://ekadmall.com/wp-json/wp/v2/",
+  "item": {
+    "id": 1865,
+    "date": "2026-05-14T13:16:49",
+    "date_gmt": "2026-05-14T09:46:49",
+    "guid": {
+      "rendered": "https://ekadmall.com/?post_type=product&#038;p=1865"
+    },
+    "modified": "2026-11-04T14:09:53",
+    "modified_gmt": "2026-11-04T10:39:53",
+    "slug": "%da%a9%d9%88%d8%af-%d9%85%d8%a7%d9%87%db%8c-%d9%87%d8%a7%d9%86%d8%a7-%d8%af%db%8c%d9%be%d8%b3%db%8c",
+    "status": "publish",
+    "type": "product",
+    "link": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%d9%85%d8%a7%d9%87%db%8c-%d9%87%d8%a7%d9%86%d8%a7-%d8%af%db%8c%d9%be%d8%b3%db%8c/",
+    "title": {
+      "rendered": "کود ماهی هانا (دیپسی)"
+    },
+    "content": {
+      "rendered": "<div class=\"elementor-element elementor-element-976eb89 e-flex e-con-boxed e-con e-parent e-lazyloaded\" data-id=\"976eb89\" data-element_type=\"container\" data-e-type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n<div class=\"e-con-inner\">\n<div class=\"elementor-element elementor-element-a4a157f e-con-full e-flex e-con e-child\" data-id=\"a4a157f\" data-element_type=\"container\" data-e-type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n<div class=\"elementor-element elementor-element-576410e elementor-widget elementor-widget-woocommerce-product-short-description\" data-id=\"576410e\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"woocommerce-product-short-description.default\">\n<div class=\"woocommerce-product-details__short-description\">\n<p>کود ماهی دیپسی یک کود آلی پودری حاوی مواد مغذی ضروری شامل نیتروژن، فسفر، پتاسیم، ریز مغذی ها و اسیدهای آمینه می باشد که به تقویت رشد رویشی، مقاومت به تنش ها، بهبود کیفیت محصول، اصلاح خاک و کاهش مصرف کودهای شیمیایی کمک می کند.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"elementor-element elementor-element-f0e0841 e-flex e-con-boxed e-con e-parent e-lazyloaded\" data-id=\"f0e0841\" data-element_type=\"container\" data-e-type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n<div class=\"e-con-inner\">\n<div class=\"elementor-element elementor-element-0d785ad elementor-widget elementor-widget-woocommerce-product-data-tabs\" data-id=\"0d785ad\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"woocommerce-product-data-tabs.default\">\n<div class=\"woocommerce-tabs wc-tabs-wrapper\"></div>\n</div>\n</div>\n</div>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<ul>\n<li>کود ماهی</li>\n<li>تقویت رشد گیاه</li>\n<li>بهبود کیفیت محصول</li>\n<li>حاصل خیزی خاک</li>\n</ul>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 1938,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_daextam_enable_autolinks": "1"
+    },
+    "product_brand": [
+      1652
+    ],
+    "product_cat": [
+      170
+    ],
+    "product_tag": [
+      1684,
+      200,
+      216,
+      1707
+    ],
+    "class_list": [
+      "post-1865",
+      "product",
+      "type-product",
+      "status-publish",
+      "has-post-thumbnail",
+      "product_brand-hana",
+      "product_cat-fish-fertilizers",
+      "product_tag-1684",
+      "product_tag-200",
+      "product_tag-216",
+      "product_tag-1707",
+      "first",
+      "instock",
+      "sale",
+      "shipping-taxable",
+      "purchasable",
+      "product-type-variable",
+      "has-default-attributes"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product/1865",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/types/product"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/comments?post=1865"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/media/1938"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/media?parent=1865"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "product_brand",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_brand?post=1865"
+        },
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_cat?post=1865"
+        },
+        {
+          "taxonomy": "product_tag",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_tag?post=1865"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+}

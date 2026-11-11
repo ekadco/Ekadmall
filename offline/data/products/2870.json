@@ -1,0 +1,141 @@
+{
+  "captured_at": "2026-11-11T09:55:26.000Z",
+  "source": "https://ekadmall.com/wp-json/wp/v2/",
+  "item": {
+    "id": 2870,
+    "date": "2026-08-25T12:19:53",
+    "date_gmt": "2026-08-25T08:49:53",
+    "guid": {
+      "rendered": "https://ekadmall.com/?post_type=product&#038;p=2870"
+    },
+    "modified": "2026-11-07T17:38:24",
+    "modified_gmt": "2026-11-07T14:08:24",
+    "slug": "%da%a9%d9%88%d8%af-%d8%b3%db%8c%d9%84%db%8c%da%a9%d8%a7%d8%aa-%d9%be%d8%aa%d8%a7%d8%b3%db%8c%d9%85-%d8%af%d8%a7%d9%85%d9%88%d9%86-%d8%b3%db%8c%d9%84%db%8c%da%a9%d8%a7%d9%85%db%8c%d9%86",
+    "status": "publish",
+    "type": "product",
+    "link": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%d8%b3%db%8c%d9%84%db%8c%da%a9%d8%a7%d8%aa-%d9%be%d8%aa%d8%a7%d8%b3%db%8c%d9%85-%d8%af%d8%a7%d9%85%d9%88%d9%86-%d8%b3%db%8c%d9%84%db%8c%da%a9%d8%a7%d9%85%db%8c%d9%86/",
+    "title": {
+      "rendered": "کود سیلیکات پتاسیم دامون (سیلیکامین)"
+    },
+    "content": {
+      "rendered": "<p>کود مایع <strong>سیلیکامین دامون</strong> یک فرمولاسیون پیشرفته برای تأمین همزمان دو عنصر مؤثر <strong>سیلیسیم و پتاسیم</strong> در گیاهان است. سیلیسیم با تقویت ساختار دیواره‌های سلولی، موجب افزایش استحکام بافت‌های گیاهی، بهبود وضعیت قرارگیری برگ‌ها و افزایش سطح فتوسنتزی می‌شود. قرارگیری عمودی‌تر برگ‌ها امکان <strong>جذب بهینه نور</strong> را فراهم کرده و در نهایت راندمان فتوسنتز و رشد گیاه را افزایش می‌دهد. پتاسیم نیز به عنوان یکی از عناصر پرمصرف، نقش کلیدی در <strong>تنظیم تعادل آب در گیاه، ایجاد فشار تورژسانس، کنترل باز و بسته شدن روزنه‌ها و انتقال کربوهیدرات‌های تولید شده</strong> ایفا می‌کند. ترکیب همزمان سیلیسیم و پتاسیم در این محصول، اثر <strong>هم‌افزایی (</strong><strong>Synergistic Effect</strong><strong>)</strong> ایجاد کرده و موجب افزایش مقاومت گیاهان در برابر تنش‌های محیطی، بهبود کیفیت و افزایش عملکرد محصول می‌شود. فرمولاسیون مایع این کود با <strong>حلالیت بالا و قابلیت جذب سریع</strong>، امکان استفاده مؤثر در محلول‌پاشی و سیستم‌های کودآبیاری را فراهم می‌کند.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<ul>\n<li>جلوگیری از <strong>ورس یا خوابیدگی ساقه</strong> در گیاهان و افزایش استحکام بافت‌های گیاهی</li>\n<li><strong>جذب سریع و مؤثر</strong> از طریق برگ و ریشه</li>\n<li>بهبود <strong>صفات کمی و کیفی میوه</strong> شامل افزایش رنگ، اندازه، وزن و میزان قند و همچنین تسریع در رسیدگی میوه</li>\n<li>افزایش <strong>ماندگاری میوه</strong> از طریق تقویت دیواره‌های سلولی و به تعویق افتادن فرآیند پژمردگی</li>\n<li>افزایش <strong>تحمل گیاه در برابر مسمومیت ناشی از ریزمغذی‌ها</strong> مانند مس، آهن، منگنز و روی</li>\n<li>کاهش <strong>بدشکلی میوه</strong> در محصولاتی مانند خیار، گوجه‌فرنگی و توت‌فرنگی</li>\n<li>افزایش <strong>پایداری مواد آلی خاک</strong> و کمک به بهبود ساختار و بافت خاک</li>\n<li>افزایش <strong>مقاومت گیاهان در برابر آفتاب‌سوختگی</strong></li>\n</ul>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 2872,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_daextam_enable_autolinks": "1"
+    },
+    "product_brand": [
+      86
+    ],
+    "product_cat": [
+      1665
+    ],
+    "product_tag": [
+      135,
+      202,
+      1698,
+      196,
+      216
+    ],
+    "class_list": [
+      "post-2870",
+      "product",
+      "type-product",
+      "status-publish",
+      "has-post-thumbnail",
+      "product_brand-damoon",
+      "product_cat-potassium-silicate-fertilizer",
+      "product_tag-135",
+      "product_tag-202",
+      "product_tag-1698",
+      "product_tag-196",
+      "product_tag-216",
+      "first",
+      "instock",
+      "shipping-taxable",
+      "purchasable",
+      "product-type-variable",
+      "has-default-attributes"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product/2870",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/types/product"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/comments?post=2870"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/media/2872"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/media?parent=2870"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "product_brand",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_brand?post=2870"
+        },
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_cat?post=2870"
+        },
+        {
+          "taxonomy": "product_tag",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_tag?post=2870"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+}

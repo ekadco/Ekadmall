@@ -1,0 +1,137 @@
+{
+  "captured_at": "2026-11-11T09:55:26.000Z",
+  "source": "https://ekadmall.com/wp-json/wp/v2/",
+  "item": {
+    "id": 821,
+    "date": "2025-12-17T18:25:01",
+    "date_gmt": "2025-12-17T14:55:01",
+    "guid": {
+      "rendered": "https://ekadmall.com/?post_type=product&#038;p=821"
+    },
+    "modified": "2026-11-07T11:56:03",
+    "modified_gmt": "2026-11-07T08:26:03",
+    "slug": "%da%a9%d9%88%d8%af-%d8%a7%d9%88%d8%b1%d9%87-%d9%81%d8%b3%d9%81%d8%a7%d8%aa-0-44-17-%da%98%db%8c%da%af%d8%a7%d8%b3",
+    "status": "publish",
+    "type": "product",
+    "link": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%d8%a7%d9%88%d8%b1%d9%87-%d9%81%d8%b3%d9%81%d8%a7%d8%aa-0-44-17-%da%98%db%8c%da%af%d8%a7%d8%b3/",
+    "title": {
+      "rendered": "کود اوره فسفات (0-44-17) ژیگاس"
+    },
+    "content": {
+      "rendered": "<p>اوره فسفات یک کود کاملا محلول در آب است که بیشترین حلالیت را در میان ترکیبات فسفره دارد(960g / L ). این محصول ترکیبی جهت اسیدی کردن خاک های آهکی و قلیایی است که با کاهش pH محیط و حذف بیکربنات آب به جذب نیتروژن، فسفر و همچنین سایر عناصر ریز مغذی خاک کمک می کند. این محصول نقش بسیار مهمی در افزایش ریشه زایی در ابتدای کاشت و استقرار گیاهان گلخانه ای و زراعی مانند ذرت، جو، سبزیجات، صیفی جات و.. دارد. این محصول قابل استفاده در کلیه سیستم های آبیاری بارانی، غرقابی و قطره ای است. این محصول در کشت های هیدرو پونیک قابل استفاده نیست .</p>\n<p dir=\"rtl\" lang=\"fa\"><strong>خرید مطمئن از ایکادمال:</strong></p>\n<p dir=\"rtl\" lang=\"fa\"><strong>کود اوره فسفات (0-44-17) ژیگاس اصل</strong> را با تاریخ مصرف معتبر و بهترین قیمت از فروشگاه آنلاین ایکادمال سفارش دهید. برای آگاهی از دوز بهینه بر اساس هدایت الکتریکی (EC) و اسیدیته (pH) آب و خاک مزرعه خود، می‌توانید با کارشناسان متخصص کشاورزی ایکادمال مشورت فرمایید.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<ul>\n<li>تأمین همزمان نیتروژن و فسفر</li>\n<li>دارای pH اسیدی و اصلاح خاک</li>\n<li>کمک به جذب نیتروژن، فسفر و ریزمغذی های خاک</li>\n<li>مناسب برای شروع رشد رویشی و افزایش رشد ریشه ها</li>\n<li>تقویت گلدهی</li>\n<li>دارای حلالیت بالا و قابل استفاده در سیستم آبیاری</li>\n<li>جلوگیری از انسداد سیستم های آبیاری</li>\n<li>بهترین زمان مصرف در اواخر زمستان و اوایل بهار</li>\n</ul>\n",
+      "protected": false
+    },
+    "author": 3,
+    "featured_media": 976,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_daextam_enable_autolinks": "1"
+    },
+    "product_brand": [
+      81
+    ],
+    "product_cat": [
+      1680
+    ],
+    "product_tag": [
+      1678,
+      202,
+      134
+    ],
+    "class_list": [
+      "post-821",
+      "product",
+      "type-product",
+      "status-publish",
+      "has-post-thumbnail",
+      "product_brand-gigas",
+      "product_cat-urea-fertilizers",
+      "product_tag-1678",
+      "product_tag-202",
+      "product_tag-134",
+      "first",
+      "instock",
+      "sale",
+      "virtual",
+      "purchasable",
+      "product-type-simple"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product/821",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/types/product"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/users/3"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/comments?post=821"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/media/976"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/media?parent=821"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "product_brand",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_brand?post=821"
+        },
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_cat?post=821"
+        },
+        {
+          "taxonomy": "product_tag",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_tag?post=821"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+}

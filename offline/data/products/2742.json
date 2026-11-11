@@ -1,0 +1,141 @@
+{
+  "captured_at": "2026-11-11T09:55:26.000Z",
+  "source": "https://ekadmall.com/wp-json/wp/v2/",
+  "item": {
+    "id": 2742,
+    "date": "2026-07-12T18:40:39",
+    "date_gmt": "2026-07-12T15:10:39",
+    "guid": {
+      "rendered": "https://ekadmall.com/?post_type=product&#038;p=2742"
+    },
+    "modified": "2026-11-04T16:32:06",
+    "modified_gmt": "2026-11-04T13:02:06",
+    "slug": "%da%a9%d9%88%d8%af-%d9%85%d8%a7%db%8c%d8%b9-%d9%85%d8%ad%d8%b1%da%a9-%d8%b1%d8%b4%d8%af-%d8%b2%db%8c%d8%b3%d8%aa%db%8c-%d9%88-%d8%b6%d8%af-%d8%aa%d9%86%d8%b4-%d9%85%d8%a7%db%8c%d8%b3%d8%a7-my-soil",
+    "status": "publish",
+    "type": "product",
+    "link": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%d9%85%d8%a7%db%8c%d8%b9-%d9%85%d8%ad%d8%b1%da%a9-%d8%b1%d8%b4%d8%af-%d8%b2%db%8c%d8%b3%d8%aa%db%8c-%d9%88-%d8%b6%d8%af-%d8%aa%d9%86%d8%b4-%d9%85%d8%a7%db%8c%d8%b3%d8%a7-my-soil/",
+    "title": {
+      "rendered": "کود مایع محرک رشد زیستی و ضد تنش مایسا (My Soil)"
+    },
+    "content": {
+      "rendered": "<p class=\"PDq2pG_selectionAnchorContainer\" data-start=\"452\" data-end=\"765\"><strong data-start=\"452\" data-end=\"489\">کود مایع مای سویل مایسا (My Soil)</strong> یک کود آلی و محرک رشد چندمنظوره است که با ترکیبی از <strong data-start=\"542\" data-end=\"620\">اسید آمینه آزاد، نیتروژن، پتاسیم، فسفر، گوگرد، کلسیم، آهن کلاته و کربن آلی</strong> تولید شده است. این ترکیب ویژه باعث افزایش رشد رویشی، توسعه سیستم ریشه، بهبود جذب عناصر غذایی و افزایش مقاومت گیاه در برابر تنش‌های محیطی می‌شود.</p>\n<p data-start=\"767\" data-end=\"1041\">وجود <strong data-start=\"772\" data-end=\"791\">اسید آمینه آزاد</strong> در این محصول موجب می‌شود گیاه انرژی کمتری برای ساخت پروتئین مصرف کرده و انرژی خود را صرف رشد، گلدهی و تشکیل میوه کند. همچنین وجود کربن آلی و عناصر غذایی ضروری، شرایط مطلوبی برای افزایش فعالیت میکروارگانیسم‌های مفید خاک و بهبود حاصلخیزی فراهم می‌کند.</p>\n<p data-start=\"1043\" data-end=\"1365\">مای سویل برای استفاده در باغات، مزارع، گلخانه‌ها و فضای سبز مناسب بوده و قابلیت مصرف از طریق <strong data-start=\"1136\" data-end=\"1195\">آبیاری قطره‌ای، آبیاری تحت فشار، کودآبیاری و محلول‌پاشی</strong> را دارد. استفاده منظم از این کود باعث افزایش رشد گیاه، بهبود کیفیت محصول، افزایش مقاومت به تنش‌های محیطی مانند گرما، سرما، خشکی و شوری و در نهایت افزایش عملکرد خواهد شد.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<ul>\n<li data-section-id=\"1f3xmwm\" data-start=\"1400\" data-end=\"1428\">افزایش سرعت رشد رویشی گیاه</li>\n<li data-section-id=\"1oa1ngb\" data-start=\"1429\" data-end=\"1459\">تحریک رشد و توسعه سیستم ریشه</li>\n<li data-section-id=\"12t7sgp\" data-start=\"1460\" data-end=\"1503\">افزایش مقاومت گیاه در برابر تنش‌های محیطی</li>\n<li data-section-id=\"pyme\" data-start=\"1504\" data-end=\"1528\">افزایش جذب عناصر غذایی</li>\n<li data-section-id=\"wvyndv\" data-start=\"1529\" data-end=\"1571\">بهبود کیفیت، رنگ، طعم و بازارپسندی محصول</li>\n<li data-section-id=\"f4ecea\" data-start=\"1572\" data-end=\"1614\">افزایش فعالیت میکروارگانیسم‌های مفید خاک</li>\n<li data-section-id=\"rp2qg6\" data-start=\"1615\" data-end=\"1665\">مناسب برای انواع محصولات زراعی، باغی و گلخانه‌ای</li>\n<li data-section-id=\"s01ou7\" data-start=\"1666\" data-end=\"1708\">قابل مصرف به صورت محلول‌پاشی و کودآبیاری</li>\n<li data-section-id=\"1ae8567\" data-start=\"1709\" data-end=\"1760\">قابل استفاده در سیستم‌های آبیاری قطره‌ای و بارانی</li>\n</ul>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 2743,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_daextam_enable_autolinks": "1"
+    },
+    "product_brand": [
+      1654
+    ],
+    "product_cat": [
+      1646
+    ],
+    "product_tag": [
+      1684,
+      200,
+      196,
+      216,
+      1707
+    ],
+    "class_list": [
+      "post-2742",
+      "product",
+      "type-product",
+      "status-publish",
+      "has-post-thumbnail",
+      "product_brand-mysa",
+      "product_cat-amino-acid",
+      "product_tag-1684",
+      "product_tag-200",
+      "product_tag-196",
+      "product_tag-216",
+      "product_tag-1707",
+      "",
+      "instock",
+      "shipping-taxable",
+      "purchasable",
+      "product-type-variable",
+      "has-default-attributes"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product/2742",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/types/product"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/comments?post=2742"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/media/2743"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/media?parent=2742"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "product_brand",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_brand?post=2742"
+        },
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_cat?post=2742"
+        },
+        {
+          "taxonomy": "product_tag",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_tag?post=2742"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+}

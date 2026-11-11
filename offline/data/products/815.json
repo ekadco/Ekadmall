@@ -1,0 +1,142 @@
+{
+  "captured_at": "2026-11-11T09:55:26.000Z",
+  "source": "https://ekadmall.com/wp-json/wp/v2/",
+  "item": {
+    "id": 815,
+    "date": "2025-12-17T18:26:28",
+    "date_gmt": "2025-12-17T14:56:28",
+    "guid": {
+      "rendered": "https://ekadmall.com/?post_type=product&#038;p=815"
+    },
+    "modified": "2026-11-07T11:45:56",
+    "modified_gmt": "2026-11-07T08:15:56",
+    "slug": "%da%a9%d9%88%d8%af-%da%a9%d8%a7%d9%85%d9%84-npk121236te-%da%98%db%8c%da%af%d8%a7%d8%b3",
+    "status": "publish",
+    "type": "product",
+    "link": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%da%a9%d8%a7%d9%85%d9%84-npk121236te-%da%98%db%8c%da%af%d8%a7%d8%b3/",
+    "title": {
+      "rendered": "کود کامل NPK 12:12:36+TE ژیگاس"
+    },
+    "content": {
+      "rendered": "<p>کود کامل متوازن + ریز مغذی‌های کلات + منیزیم</p>\n<p>ویژگی‌های محصول :</p>\n<p>کود کامل متوازن حاوی عناصر ازت، فسفر، پتاسیم و کلیه عناصر ریز مغذی به فرم کلات می باشد. این محصول علاوه بر رفع نیازمندیهای گیاهان، نقش موثری در برقراری موازنه عناصر در خاک و گیاه دارد که قابلیت جذب حداکثر عناصر غذایی و ریز مغذی ها را از طرق ریشه و برگ فراهم می سازد. این محصول به عنوان یک کود عمومی جهت افزایش رشد رویشی برای مصارف مختلف زراعی و باغی در طی فصل رشد به کار می رود. این محصول کاملا محلول در آب و مناسب برای محلول پاشی بدون خطر برگسوزی و قابل اختلاط با بیشتر کودهای محلول در آب می باشد.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<ul>\n<li>افزایش تعداد گل، میوه، دانه و غده و کمک به ماندگاری محصول</li>\n<li>تسریع افزایش سایز میوه، دانه و غده</li>\n<li>افزایش کیفیت محصول و قابلیت انبارداری طولانی مدت</li>\n<li>تضمین عملکرد اقتصادی بالاتر</li>\n<li>افزایش مقاومت گیاه نسبت به تنش های محیطی و آفات و بیماریها</li>\n<li>دارای pH اسیدی و قابلیت جذب بسیار بالا</li>\n<li>دارای عناصر ریزمغذی به فرم کلات پایدار در خاک های شور و قلیایی</li>\n<li>کاملا محلول در آب و قابل استفاده در تمامی سیستم های آبیاری (هیدروپونیک، NFT، قطره ای) بدون خطر رسوب گذاری</li>\n<li>فاقد کلر، سدیم و عناصر سنگین (محلول‌پاشی بدون خطر برگ سوزی)</li>\n</ul>\n",
+      "protected": false
+    },
+    "author": 3,
+    "featured_media": 965,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_daextam_enable_autolinks": "1"
+    },
+    "product_brand": [
+      81
+    ],
+    "product_cat": [
+      61
+    ],
+    "product_tag": [
+      135,
+      1678,
+      141,
+      142,
+      1705,
+      1709
+    ],
+    "class_list": [
+      "post-815",
+      "product",
+      "type-product",
+      "status-publish",
+      "has-post-thumbnail",
+      "product_brand-gigas",
+      "product_cat-npk-fertilizers",
+      "product_tag-135",
+      "product_tag-1678",
+      "product_tag-141",
+      "product_tag-142",
+      "product_tag-1705",
+      "product_tag-1709",
+      "",
+      "instock",
+      "shipping-taxable",
+      "purchasable",
+      "product-type-simple"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product/815",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/types/product"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/users/3"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/comments?post=815"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/media/965"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/media?parent=815"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "product_brand",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_brand?post=815"
+        },
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_cat?post=815"
+        },
+        {
+          "taxonomy": "product_tag",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_tag?post=815"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+}

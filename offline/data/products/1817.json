@@ -1,0 +1,142 @@
+{
+  "captured_at": "2026-11-11T09:55:26.000Z",
+  "source": "https://ekadmall.com/wp-json/wp/v2/",
+  "item": {
+    "id": 1817,
+    "date": "2026-05-08T00:49:09",
+    "date_gmt": "2026-05-07T21:19:09",
+    "guid": {
+      "rendered": "https://ekadmall.com/?post_type=product&#038;p=1817"
+    },
+    "modified": "2026-11-04T16:15:10",
+    "modified_gmt": "2026-11-04T12:45:10",
+    "slug": "%da%a9%d9%88%d8%af-%d9%87%db%8c%d9%88%d9%85%db%8c%da%a9-%d8%a7%d8%b3%db%8c%d8%af-%d9%be%d9%88%d8%af%d8%b1%db%8c-80-%da%98%db%8c%da%af%d8%a7%d8%b3",
+    "status": "publish",
+    "type": "product",
+    "link": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%d9%87%db%8c%d9%88%d9%85%db%8c%da%a9-%d8%a7%d8%b3%db%8c%d8%af-%d9%be%d9%88%d8%af%d8%b1%db%8c-80-%da%98%db%8c%da%af%d8%a7%d8%b3/",
+    "title": {
+      "rendered": "کود هیومیک اسید پودری 80% ژیگاس"
+    },
+    "content": {
+      "rendered": "<p><b>هیومیک اسید پودری ژیگاس</b> دارای درصد بالایی از هیومیک اسید (%70)، فولویک اسید (%15) و پتاسیم (%10) می باشد. این محصول یک اصلاح کننده قوی خاک و محرک رشد فوق العاده است؛ ساختار خاک را بهبود بخشیده، ظرفیت تبادل کاتیونی و جذب عناصر غذایی را بالا برده و باعث حفظ رطوبت و تهویه بهتر خاک می شود و سرعت رشد گیاه را به طور چشگیری افزایش می دهد.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<ul>\n<li>اصلاح خاک و افزایش جذب مواد غذایی</li>\n<li>بهبود جوانه زنی، ریشه زایی و استقرار گیاهچه</li>\n<li>کاهش اثرات تنش خشکی، شوری و فلزات سنگین</li>\n</ul>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 1819,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_daextam_enable_autolinks": "1"
+    },
+    "product_brand": [
+      81
+    ],
+    "product_cat": [
+      182
+    ],
+    "product_tag": [
+      139,
+      1648,
+      200,
+      206,
+      204,
+      205
+    ],
+    "class_list": [
+      "post-1817",
+      "product",
+      "type-product",
+      "status-publish",
+      "has-post-thumbnail",
+      "product_brand-gigas",
+      "product_cat-humic-acid",
+      "product_tag-139",
+      "product_tag-1648",
+      "product_tag-200",
+      "product_tag-206",
+      "product_tag-204",
+      "product_tag-205",
+      "",
+      "instock",
+      "shipping-taxable",
+      "purchasable",
+      "product-type-simple"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product/1817",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/types/product"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/comments?post=1817"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/media/1819"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/media?parent=1817"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "product_brand",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_brand?post=1817"
+        },
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_cat?post=1817"
+        },
+        {
+          "taxonomy": "product_tag",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_tag?post=1817"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "captured_at": "2026-11-11T09:55:26.000Z",
+  "source": "https://ekadmall.com/wp-json/wp/v2/",
+  "item": {
+    "id": 1600,
+    "date": "2026-04-13T17:29:35",
+    "date_gmt": "2026-04-13T13:59:35",
+    "guid": {
+      "rendered": "https://ekadmall.com/?post_type=product&#038;p=1600"
+    },
+    "modified": "2026-11-03T11:58:40",
+    "modified_gmt": "2026-11-03T08:28:40",
+    "slug": "%da%a9%d9%88%d8%af-%d8%b3%d9%88%d9%84%d9%81%d8%a7%d8%aa-%d9%be%d8%aa%d8%a7%d8%b3%db%8c%d9%85-%d9%be%d9%88%d8%af%d8%b1%db%8c-52-%d8%aa%d8%a7%d9%be-%d9%be%d9%84%d8%a7%d8%b3-%d8%b3%d9%88%d9%84%d9%88",
+    "status": "publish",
+    "type": "product",
+    "link": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%d8%b3%d9%88%d9%84%d9%81%d8%a7%d8%aa-%d9%be%d8%aa%d8%a7%d8%b3%db%8c%d9%85-%d9%be%d9%88%d8%af%d8%b1%db%8c-52-%d8%aa%d8%a7%d9%be-%d9%be%d9%84%d8%a7%d8%b3-%d8%b3%d9%88%d9%84%d9%88/",
+    "title": {
+      "rendered": "کود سولفات پتاسیم پودری 52% تاپ پلاس (سولوپتاس)"
+    },
+    "content": {
+      "rendered": "<p>کود سولفات پتاسیم <strong>برند تاپ،</strong> حاوی کود سولفات پتاسیم پودری مناسب­ترین کود پتاسیمی ۱۰۰% محلول در آب است که از طریق خاک و برگ جذب گیاه می­‌شود. استفاده از این کود بهترین روش برای تامین نیاز گیاه به عنصر پتاسیم می‌­باشد.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<ul>\n<li>جبران سریع کمبود پتاسیم و گوگرد در گیاه</li>\n<li>ایده­‌آل برای گیاهان حساس به شوری</li>\n<li>افزایش‌ ­دهنده مقاومت گیاه به آفات و بیماری‌­ها و انواع استرس­‌های محیطی</li>\n<li>داشتن اثر مثبت در تولید انواع ویتامین­‌ها و نشاسته‌­ها و قندها</li>\n<li>بهبود دهنده عملکرد و کیفیت محصولات کشاورزی و بهبود قابلیت انبارداری</li>\n<li>نحوه مصرف: محلول­پاشی و آب آبیاری</li>\n<li>بسته ­بندی: کیسه یک و ۱۰ کیلوگرمی</li>\n<li>اسیدیته (pH): ۶</li>\n</ul>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 1603,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_daextam_enable_autolinks": "1"
+    },
+    "product_brand": [
+      1644
+    ],
+    "product_cat": [
+      1675
+    ],
+    "product_tag": [
+      135,
+      1678,
+      202,
+      1709
+    ],
+    "class_list": [
+      "post-1600",
+      "product",
+      "type-product",
+      "status-publish",
+      "has-post-thumbnail",
+      "product_brand-top-pluse",
+      "product_cat-potassium-sulfate-fertilizer",
+      "product_tag-135",
+      "product_tag-1678",
+      "product_tag-202",
+      "product_tag-1709",
+      "first",
+      "instock",
+      "shipping-taxable",
+      "purchasable",
+      "product-type-simple"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product/1600",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/types/product"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/comments?post=1600"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/media/1603"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/media?parent=1600"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "product_brand",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_brand?post=1600"
+        },
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_cat?post=1600"
+        },
+        {
+          "taxonomy": "product_tag",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_tag?post=1600"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+}

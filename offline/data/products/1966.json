@@ -1,0 +1,138 @@
+{
+  "captured_at": "2026-11-11T09:55:26.000Z",
+  "source": "https://ekadmall.com/wp-json/wp/v2/",
+  "item": {
+    "id": 1966,
+    "date": "2026-05-16T19:17:29",
+    "date_gmt": "2026-05-16T15:47:29",
+    "guid": {
+      "rendered": "https://ekadmall.com/?post_type=product&#038;p=1966"
+    },
+    "modified": "2026-10-05T13:37:02",
+    "modified_gmt": "2026-10-05T10:07:02",
+    "slug": "%da%a9%d9%88%d8%af-%d9%be%d9%88%d8%af%d8%b1%db%8c-%d9%87%db%8c%d9%88%d9%85%db%8c%da%a9-%d8%a7%d8%b3%db%8c%d8%af-%d9%87%d9%85%d8%b1%d8%a7%d9%87-%d8%a8%d8%a7-%d9%be%d8%aa%d8%a7%d8%b3%db%8c%d9%85-%d9%87",
+    "status": "publish",
+    "type": "product",
+    "link": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%d9%be%d9%88%d8%af%d8%b1%db%8c-%d9%87%db%8c%d9%88%d9%85%db%8c%da%a9-%d8%a7%d8%b3%db%8c%d8%af-%d9%87%d9%85%d8%b1%d8%a7%d9%87-%d8%a8%d8%a7-%d9%be%d8%aa%d8%a7%d8%b3%db%8c%d9%85-%d9%87/",
+    "title": {
+      "rendered": "کود پودری هیومیک اسید همراه با پتاسیم هانا (بایوهیوم)"
+    },
+    "content": {
+      "rendered": "<div class=\"elementor-element elementor-element-976eb89 e-flex e-con-boxed e-con e-parent e-lazyloaded\" data-id=\"976eb89\" data-element_type=\"container\" data-e-type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n<div class=\"e-con-inner\">\n<div class=\"elementor-element elementor-element-a4a157f e-con-full e-flex e-con e-child\" data-id=\"a4a157f\" data-element_type=\"container\" data-e-type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n<div class=\"elementor-element elementor-element-576410e elementor-widget elementor-widget-woocommerce-product-short-description\" data-id=\"576410e\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"woocommerce-product-short-description.default\">\n<div class=\"woocommerce-product-details__short-description\">\n<p><strong>رشد بهینه گیاه و افزایش مواد آلی خاک، تامین عناصر مورد نیاز گیاه</strong></p>\n<p>اسید هیومیک بایوهیوم برای تحریک رشد ریشه، بهبود جذب آب و مواد مغذی، بهبود فعالیت میکروبی خاک، بهبود هوادهی، حفظ آب در خاک و بهبود عملکرد و کیفیت محصول مورد استفاده قرار می گیرد.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<ul>\n<li>اصلاح خاک<br />\nرشد بهینه گیاه و افزایش مواد آلی خاک</li>\n<li>ریشه زایی</li>\n<li>تامین عناصر مورد نیاز گیاه</li>\n<li>جذب مواد غذایی</li>\n</ul>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 1972,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_daextam_enable_autolinks": "1"
+    },
+    "product_brand": [
+      1652
+    ],
+    "product_cat": [
+      182
+    ],
+    "product_tag": [
+      1648,
+      135,
+      1678,
+      193
+    ],
+    "class_list": [
+      "post-1966",
+      "product",
+      "type-product",
+      "status-publish",
+      "has-post-thumbnail",
+      "product_brand-hana",
+      "product_cat-humic-acid",
+      "product_tag-1648",
+      "product_tag-135",
+      "product_tag-1678",
+      "product_tag-193",
+      "",
+      "outofstock",
+      "shipping-taxable",
+      "product-type-variable",
+      "has-default-attributes"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product/1966",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/types/product"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/comments?post=1966"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/media/1972"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/media?parent=1966"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "product_brand",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_brand?post=1966"
+        },
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_cat?post=1966"
+        },
+        {
+          "taxonomy": "product_tag",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_tag?post=1966"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+}

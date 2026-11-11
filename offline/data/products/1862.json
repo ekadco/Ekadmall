@@ -1,0 +1,139 @@
+{
+  "captured_at": "2026-11-11T09:55:26.000Z",
+  "source": "https://ekadmall.com/wp-json/wp/v2/",
+  "item": {
+    "id": 1862,
+    "date": "2026-05-14T13:03:01",
+    "date_gmt": "2026-05-14T09:33:01",
+    "guid": {
+      "rendered": "https://ekadmall.com/?post_type=product&#038;p=1862"
+    },
+    "modified": "2026-10-05T17:08:49",
+    "modified_gmt": "2026-10-05T13:38:49",
+    "slug": "%da%a9%d9%88%d8%af-%da%af%d8%b1%d8%a7%d9%86%d9%88%d9%84-%d9%86%db%8c%d8%aa%d8%b1%d9%88%da%98%d9%86-%d9%87%d9%85%d8%b1%d8%a7%d9%87-%d8%a8%d8%a7-%d9%87%db%8c%d9%88%d9%85%db%8c%da%a9-%d8%a7%d8%b3%db%8c",
+    "status": "publish",
+    "type": "product",
+    "link": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%da%af%d8%b1%d8%a7%d9%86%d9%88%d9%84-%d9%86%db%8c%d8%aa%d8%b1%d9%88%da%98%d9%86-%d9%87%d9%85%d8%b1%d8%a7%d9%87-%d8%a8%d8%a7-%d9%87%db%8c%d9%88%d9%85%db%8c%da%a9-%d8%a7%d8%b3%db%8c/",
+    "title": {
+      "rendered": "کود گرانول نیتروژن همراه با هیومیک اسید بایوگرانو (نیتروژینا)"
+    },
+    "content": {
+      "rendered": "<div class=\"elementor-element elementor-element-976eb89 e-flex e-con-boxed e-con e-parent e-lazyloaded\" data-id=\"976eb89\" data-element_type=\"container\" data-e-type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n<div class=\"e-con-inner\">\n<div class=\"elementor-element elementor-element-a4a157f e-con-full e-flex e-con e-child\" data-id=\"a4a157f\" data-element_type=\"container\" data-e-type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n<div class=\"elementor-element elementor-element-576410e elementor-widget elementor-widget-woocommerce-product-short-description\" data-id=\"576410e\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"woocommerce-product-short-description.default\">\n<div class=\"woocommerce-product-details__short-description\">\n<p>بایوگرانو نیتروژینا 0-0-41 حاوی نیتروژن، هیومیک اسید و مواد آلی می‌باشد که به دلیل دارا بودن درصد بالای نیتروژن، می‌تواند در ساخت کلروفیل، اسیدهای آمینه و پروتئین‌ها ایفای نقش کند و به رشد اندام‌های رویشی گیاه شامل ساقه‌ها و برگ‌ها، افزایش سبزینگی گیاه و افزایش مواد آلی خاک و حاصلخیزی آن کمک کند. همچنین هیومیک و ماده آلی موجود در این محصول به بهبود ساختار خاک و رشد بهتر ریشه کمک می‌کند.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"elementor-element elementor-element-f0e0841 e-flex e-con-boxed e-con e-parent e-lazyloaded\" data-id=\"f0e0841\" data-element_type=\"container\" data-e-type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n<div class=\"e-con-inner\">\n<div class=\"elementor-element elementor-element-0d785ad elementor-widget elementor-widget-woocommerce-product-data-tabs\" data-id=\"0d785ad\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"woocommerce-product-data-tabs.default\">\n<div class=\"woocommerce-tabs wc-tabs-wrapper\"></div>\n</div>\n</div>\n</div>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<ul>\n<li>نیتروژن گرانول همراه با هیومیک اسید</li>\n<li>افزایش سبزینگی گیاه</li>\n<li>افزایش مواد آلی خاک و حاصلخیزی</li>\n</ul>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 1970,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_daextam_enable_autolinks": "1"
+    },
+    "product_brand": [
+      1652
+    ],
+    "product_cat": [
+      65
+    ],
+    "product_tag": [
+      1648,
+      202,
+      1703,
+      1679,
+      133
+    ],
+    "class_list": [
+      "post-1862",
+      "product",
+      "type-product",
+      "status-publish",
+      "has-post-thumbnail",
+      "product_brand-hana",
+      "product_cat-nitrogen-fertilizers",
+      "product_tag-1648",
+      "product_tag-202",
+      "product_tag-1703",
+      "product_tag-1679",
+      "product_tag-133",
+      "",
+      "instock",
+      "shipping-taxable",
+      "product-type-simple"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product/1862",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/types/product"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/comments?post=1862"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/media/1970"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/media?parent=1862"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "product_brand",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_brand?post=1862"
+        },
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_cat?post=1862"
+        },
+        {
+          "taxonomy": "product_tag",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_tag?post=1862"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+}

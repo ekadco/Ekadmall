@@ -1,0 +1,125 @@
+{
+  "captured_at": "2026-11-11T09:55:26.000Z",
+  "count": 17,
+  "items": [
+    {
+      "id": 3578,
+      "title": "ورود یا ثبت نام",
+      "link": "https://ekadmall.com/auth/",
+      "modified": "2026-11-02T13:55:21",
+      "file": "pages/3578.json"
+    },
+    {
+      "id": 3116,
+      "title": "تگ های محصولات",
+      "link": "https://ekadmall.com/product-tag/",
+      "modified": "2026-09-21T12:06:48",
+      "file": "pages/3116.json"
+    },
+    {
+      "id": 3107,
+      "title": "برندهای محصولات",
+      "link": "https://ekadmall.com/brands/",
+      "modified": "2026-09-21T12:03:34",
+      "file": "pages/3107.json"
+    },
+    {
+      "id": 2995,
+      "title": "دسته بندی محصولات",
+      "link": "https://ekadmall.com/product-category/",
+      "modified": "2026-09-20T18:25:23",
+      "file": "pages/2995.json"
+    },
+    {
+      "id": 1639,
+      "title": "دانشنامه کشاورز",
+      "link": "https://ekadmall.com/farmers-encyclopedia/",
+      "modified": "2026-09-24T11:07:24",
+      "file": "pages/1639.json"
+    },
+    {
+      "id": 1615,
+      "title": "کاتالوگ قیمت محصولات کشاورزی",
+      "link": "https://ekadmall.com/product-catalog-pdf/",
+      "modified": "2026-09-15T17:49:19",
+      "file": "pages/1615.json"
+    },
+    {
+      "id": 1212,
+      "title": "کدهای تخفیف",
+      "link": "https://ekadmall.com/coupon-code/",
+      "modified": "2026-07-07T12:13:48",
+      "file": "pages/1212.json"
+    },
+    {
+      "id": 12,
+      "title": "شرایط و قوانین سایت",
+      "link": "https://ekadmall.com/refund_returns/",
+      "modified": "2026-05-26T14:36:00",
+      "file": "pages/12.json"
+    },
+    {
+      "id": 605,
+      "title": "سوالات متداول",
+      "link": "https://ekadmall.com/faq/",
+      "modified": "2026-06-15T16:37:47",
+      "file": "pages/605.json"
+    },
+    {
+      "id": 437,
+      "title": "تماس با ما",
+      "link": "https://ekadmall.com/contact/",
+      "modified": "2026-05-10T11:34:54",
+      "file": "pages/437.json"
+    },
+    {
+      "id": 435,
+      "title": "درباره ما",
+      "link": "https://ekadmall.com/about/",
+      "modified": "2026-05-10T13:13:35",
+      "file": "pages/435.json"
+    },
+    {
+      "id": 250,
+      "title": "صفحه اصلی",
+      "link": "https://ekadmall.com/",
+      "modified": "2026-11-05T14:34:27",
+      "file": "pages/250.json"
+    },
+    {
+      "id": 11,
+      "title": "حساب کاربری من",
+      "link": "https://ekadmall.com/my-account/",
+      "modified": "2026-11-05T16:44:16",
+      "file": "pages/11.json"
+    },
+    {
+      "id": 10,
+      "title": "پرداخت",
+      "link": "https://ekadmall.com/checkout/",
+      "modified": "2026-04-11T18:25:19",
+      "file": "pages/10.json"
+    },
+    {
+      "id": 9,
+      "title": "سبد خرید",
+      "link": "https://ekadmall.com/cart/",
+      "modified": "2026-04-11T18:25:16",
+      "file": "pages/9.json"
+    },
+    {
+      "id": 8,
+      "title": "فروشگاه",
+      "link": "https://ekadmall.com/shop/",
+      "modified": "2026-05-24T16:51:08",
+      "file": "pages/8.json"
+    },
+    {
+      "id": 3,
+      "title": "سیاست حفظ حریم خصوصی",
+      "link": "https://ekadmall.com/privacy-policy/",
+      "modified": "2025-12-06T17:16:57",
+      "file": "pages/3.json"
+    }
+  ]
+}

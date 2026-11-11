@@ -1,0 +1,136 @@
+{
+  "captured_at": "2026-11-11T09:55:26.000Z",
+  "source": "https://ekadmall.com/wp-json/wp/v2/",
+  "item": {
+    "id": 830,
+    "date": "2025-12-17T18:24:51",
+    "date_gmt": "2025-12-17T14:54:51",
+    "guid": {
+      "rendered": "https://ekadmall.com/?post_type=product&#038;p=830"
+    },
+    "modified": "2026-11-04T15:29:03",
+    "modified_gmt": "2026-11-04T11:59:03",
+    "slug": "%da%a9%d9%88%d8%af-%da%a9%d9%84%d8%a7%d8%aa-%d8%a2%d9%87%d9%86-%d9%88-%d8%b1%d9%88%db%8c-%da%98%db%8c%da%af%d8%a7%d8%b3",
+    "status": "publish",
+    "type": "product",
+    "link": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%da%a9%d9%84%d8%a7%d8%aa-%d8%a2%d9%87%d9%86-%d9%88-%d8%b1%d9%88%db%8c-%da%98%db%8c%da%af%d8%a7%d8%b3/",
+    "title": {
+      "rendered": "کود کلات آهن و روی ژیگاس"
+    },
+    "content": {
+      "rendered": "<p dir=\"rtl\" lang=\"fa\"><strong>کود کلات آهن و روی ژیگاس</strong> یک ترکیب هم‌افزا و بسیار موثر از دو عنصر حیاتی آهن (<span class=\"katex\"><span class=\"katex-mathml\">FeFe</span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"mord mathnormal\">F</span><span class=\"mord mathnormal\">e</span></span></span></span>) و روی (<span class=\"katex\"><span class=\"katex-mathml\">ZnZn</span><span class=\"katex-html\" aria-hidden=\"true\"><span class=\"base\"><span class=\"mord mathnormal\">Z</span><span class=\"mord mathnormal\">n</span></span></span></span>) به فرم کلاته و قابل جذب است. در خاک‌های آهکی و قلیایی ایران، تثبیت این دو عنصر از عوامل اصلی بروز کلروز (زردی برگ‌ها)، ریزش گل و کوچک ماندن میوه‌ها است. فرمولاسیون کلاته ژیگاس پایداری عناصر را در خاک‌های سخت و آب‌های نامناسب حفظ کرده و انتقال سریع آن‌ها به آوندهای گیاه را ممکن می‌سازد.</p>\n<h4 dir=\"rtl\" lang=\"fa\">روش و زمان مصرف:</h4>\n<ul dir=\"rtl\" lang=\"fa\">\n<li><strong>محلول‌پاشی برگی:</strong> ۱ تا ۲ در هزار (۱ تا ۲ کیلوگرم در ۱۰۰۰ لیتر آب) در اوایل فصل رشد، قبل از باز شدن کامل گل‌ها و پس از تشکیل میوه.</li>\n<li><strong>کودآبیاری:</strong> ۴ تا ۸ کیلوگرم در هکتار در باغات و ۲ تا ۴ کیلوگرم در هکتار برای محصولات زراعی و گلخانه‌ای.</li>\n</ul>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<ul dir=\"rtl\" lang=\"fa\">\n<li><strong>اثر هم‌افزایی آهن و روی:</strong> آهن با تقویت کلروفیل‌سازی و سبزینگی فتوسنتز را بالا می‌برد و روی سنتز هورمون اکسین (هورمون رشد)، تحریک گلدهی و جوانه‌زنی را تقویت می‌کند.</li>\n<li><strong>فرم کاملاً کلاته و پایدار:</strong> مقاوم در برابر آب و خاک‌های با pH بالا و جلوگیری از رسوب عناصر.</li>\n<li><strong>حلالیت ۱۰۰٪ در آب:</strong> بدون رسوب در نازل‌های قطره‌چکان و مناسب برای سمپاش‌ها.</li>\n<li><strong>کاهش سال‌آوری در باغات:</strong> کمک به تشکیل جوانه‌های زایشی سال آینده و پر شدن بهتر مغز میوه‌ها (به‌ویژه در پسته، مرکبات و سیب).</li>\n</ul>\n",
+      "protected": false
+    },
+    "author": 3,
+    "featured_media": 983,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_daextam_enable_autolinks": "1"
+    },
+    "product_brand": [
+      81
+    ],
+    "product_cat": [
+      151
+    ],
+    "product_tag": [
+      200,
+      202,
+      195
+    ],
+    "class_list": [
+      "post-830",
+      "product",
+      "type-product",
+      "status-publish",
+      "has-post-thumbnail",
+      "product_brand-gigas",
+      "product_cat-chelated-micro-fertilizers",
+      "product_tag-200",
+      "product_tag-202",
+      "product_tag-195",
+      "",
+      "outofstock",
+      "shipping-taxable",
+      "product-type-variable",
+      "has-default-attributes"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product/830",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/types/product"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/users/3"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/comments?post=830"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/media/983"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/media?parent=830"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "product_brand",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_brand?post=830"
+        },
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_cat?post=830"
+        },
+        {
+          "taxonomy": "product_tag",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_tag?post=830"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+}

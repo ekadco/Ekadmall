@@ -1,0 +1,143 @@
+{
+  "captured_at": "2026-11-11T09:55:26.000Z",
+  "source": "https://ekadmall.com/wp-json/wp/v2/",
+  "item": {
+    "id": 834,
+    "date": "2025-12-17T18:24:47",
+    "date_gmt": "2025-12-17T14:54:47",
+    "guid": {
+      "rendered": "https://ekadmall.com/?post_type=product&#038;p=834"
+    },
+    "modified": "2026-11-07T12:12:32",
+    "modified_gmt": "2026-11-07T08:42:32",
+    "slug": "%da%a9%d9%88%d8%af-%d9%81%d8%b1%d9%88%d8%aa-%d8%b3%d8%aa-fruit-set-%da%98%db%8c%da%af%d8%a7%d8%b3",
+    "status": "publish",
+    "type": "product",
+    "link": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%d9%81%d8%b1%d9%88%d8%aa-%d8%b3%d8%aa-fruit-set-%da%98%db%8c%da%af%d8%a7%d8%b3/",
+    "title": {
+      "rendered": "کود فروت ست (Fruit Set) ژیگاس"
+    },
+    "content": {
+      "rendered": "<p>کود فروت ست گیگاس برای گرده افشانی موثر و تلقیح کامل درختان میوه جهت افزایش میزان گلدهی و تولید میوه مورد استفاده قرار میگیرد . این محصول ترکیبی متناسب از عناصر ازت، کمپلکس روی، بور و مس کلات شده (Cu EDTA)و مواد آلی  است. استفاده از این محصول در انتهای فصل و همزمان با شروع ریزش برگ این امکان را براى گیاه بوجود می آورد که عناصر غذایى مورد نیاز براى سال آینده را ذخیره و خود را براى ورود به فصل زیستى جدید آماده کند . همچنین محلول پاشی درمرحله تورم جوانه ها با توجه به نیاز زیاد جوانه ها برای رشد سریع و عدم جذب عناصراز طریق ریشه ها، یکی از مهمترین  مراحل محلول پاشی فروت ست در باغات میوه است.</p>\n<p>&nbsp;</p>\n<p dir=\"rtl\" lang=\"fa\"><strong>خرید مطمئن از ایکادمال:</strong></p>\n<p dir=\"rtl\" lang=\"fa\"><strong>کود فروت ست (Fruit Set) ژیگاس</strong> را با اصالت صددرصدی کالا، فرمولاسیون به‌روز و تاریخ تولید جدید از <strong>فروشگاه کشاورزی ایکادمال</strong> تهیه فرمایید. برای زمان‌بندی دقیق نوبت‌های محلول‌پاشی بر اساس نوع ارقام باغ و منطقه اقلیمی خود، کارشناسان ارشد کشاورزی ایکادمال آماده ارائه مشاوره رایگان به شما هستند.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<ul>\n<li>حاوی عناصر نیتروژن، روی، بور و ماده آلی</li>\n<li>تقویت گرده‌افشانی و لقاح درختان میوه هسته‌دار و دانه‌دار (وجود عنصر بور)</li>\n<li>تقویت رشد و تقسیم سلولی با تحریک هورمون رشد اکسین (وجود عنصر روی)</li>\n<li>کاهش ریزش اولیه میوه</li>\n<li>ارتقای کیفیت و کمیت میوه و پیشگیری از پدیده سال آوری</li>\n</ul>\n",
+      "protected": false
+    },
+    "author": 3,
+    "featured_media": 988,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_daextam_enable_autolinks": "1"
+    },
+    "product_brand": [
+      81
+    ],
+    "product_cat": [
+      1666
+    ],
+    "product_tag": [
+      194,
+      198,
+      1694,
+      201,
+      1701,
+      216
+    ],
+    "class_list": [
+      "post-834",
+      "product",
+      "type-product",
+      "status-publish",
+      "has-post-thumbnail",
+      "product_brand-gigas",
+      "product_cat-fruit-set-fertilizer",
+      "product_tag-194",
+      "product_tag-198",
+      "product_tag-1694",
+      "product_tag-201",
+      "product_tag-1701",
+      "product_tag-216",
+      "last",
+      "instock",
+      "shipping-taxable",
+      "purchasable",
+      "product-type-variable",
+      "has-default-attributes"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product/834",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/types/product"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/users/3"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/comments?post=834"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/media/988"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/media?parent=834"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "product_brand",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_brand?post=834"
+        },
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_cat?post=834"
+        },
+        {
+          "taxonomy": "product_tag",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_tag?post=834"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+}

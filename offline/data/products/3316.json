@@ -1,0 +1,129 @@
+{
+  "captured_at": "2026-11-11T09:55:26.000Z",
+  "source": "https://ekadmall.com/wp-json/wp/v2/",
+  "item": {
+    "id": 3316,
+    "date": "2026-10-14T21:07:52",
+    "date_gmt": "2026-10-14T17:37:52",
+    "guid": {
+      "rendered": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-npk-12-12-36-%d8%aa%d8%a7%d9%be-%d9%be%d9%84%d8%a7%d8%b3/"
+    },
+    "modified": "2026-10-25T14:42:35",
+    "modified_gmt": "2026-10-25T11:12:35",
+    "slug": "%da%a9%d9%88%d8%af-%da%a9%d8%a7%d9%85%d9%84-npk-12-12-36-%d8%aa%d8%a7%d9%be-%d9%be%d9%84%d8%a7%d8%b3",
+    "status": "publish",
+    "type": "product",
+    "link": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%da%a9%d8%a7%d9%85%d9%84-npk-12-12-36-%d8%aa%d8%a7%d9%be-%d9%be%d9%84%d8%a7%d8%b3/",
+    "title": {
+      "rendered": "کود کامل NPK 12-12-36 تاپ پلاس"
+    },
+    "content": {
+      "rendered": "<p>کود کامل NPK 12-12-36 دارای عناصر ماکرو و میکرو به‌صورت کلاته و ۱۰۰ درصد محلول در آب است. این کود فاقد عناصر کلر، سدیم، سرب و کادمیم بوده و برای مصرف در خاک‌های شور مناسب است. کود NPK 12-12-36 یک کود چندمنظوره است که برای سیستم‌های کشت متراکم و محصولات حساس به شوری کاربرد دارد و در گستره وسیعی از محصولات زراعی و باغی قابل استفاده است.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<ul>\n<li>حلالیت بالا و جذب سریع</li>\n<li>دارای درصد بالای عناصر ماکرو همراه با ریزمغذی‌های کلات‌شده</li>\n<li>کمک به افزایش قابلیت انبارداری و بهبود کیفیت محصول، یکنواختی اندازه و رنگ‌گیری میوه</li>\n<li>مناسب برای استفاده در خاک‌های شور</li>\n<li>کمک به افزایش مقاومت گیاه در برابر شرایط نامساعد محیطی و کاهش خطر ورس در غلات</li>\n<li>قابلیت اختلاط با بسیاری از کودها و سموم، به‌جز ترکیبات مسی و کلسیمی</li>\n<li>روش مصرف: محلول‌پاشی، همراه آب آبیاری و مصرف خاکی</li>\n<li>بسته‌بندی: کیسه‌های یک و ۱۰ کیلوگرمی</li>\n</ul>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 3317,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_daextam_enable_autolinks": ""
+    },
+    "product_brand": [
+      1644
+    ],
+    "product_cat": [
+      61
+    ],
+    "product_tag": [],
+    "class_list": [
+      "post-3316",
+      "product",
+      "type-product",
+      "status-publish",
+      "has-post-thumbnail",
+      "product_brand-top-pluse",
+      "product_cat-npk-fertilizers",
+      "",
+      "instock",
+      "shipping-taxable",
+      "purchasable",
+      "product-type-simple"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product/3316",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/types/product"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/comments?post=3316"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/media/3317"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/media?parent=3316"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "product_brand",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_brand?post=3316"
+        },
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_cat?post=3316"
+        },
+        {
+          "taxonomy": "product_tag",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_tag?post=3316"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+}

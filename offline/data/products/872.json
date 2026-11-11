@@ -1,0 +1,138 @@
+{
+  "captured_at": "2026-11-11T09:55:26.000Z",
+  "source": "https://ekadmall.com/wp-json/wp/v2/",
+  "item": {
+    "id": 872,
+    "date": "2025-12-17T18:25:11",
+    "date_gmt": "2025-12-17T14:55:11",
+    "guid": {
+      "rendered": "https://ekadmall.com/?post_type=product&#038;p=872"
+    },
+    "modified": "2026-11-04T16:16:50",
+    "modified_gmt": "2026-11-04T12:46:50",
+    "slug": "%da%a9%d9%88%d8%af-%d8%b3%d9%88%d9%84%d9%81%d8%a7%d8%aa-%d9%be%d8%aa%d8%a7%d8%b3%db%8c%d9%85-52-0-0-%da%98%db%8c%da%af%d8%a7%d8%b3",
+    "status": "publish",
+    "type": "product",
+    "link": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%d8%b3%d9%88%d9%84%d9%81%d8%a7%d8%aa-%d9%be%d8%aa%d8%a7%d8%b3%db%8c%d9%85-52-0-0-%da%98%db%8c%da%af%d8%a7%d8%b3/",
+    "title": {
+      "rendered": "کود سولفات پتاسیم (52-0-0) ژیگاس"
+    },
+    "content": {
+      "rendered": "<p>سولوپتاس یک کود کاملا محلول در آب که حاوی %52 پتاسیم و %46 گوگرد با سرعت حلالیت بالا، فاقد کلر و عاری از هرگونه فلزات سنگین می باشد. پتاسیم و گوگرد از مهمترین عناصر مورد نیاز گیاه می باشند، که کمبود پتاسیم موجب پوکی میوه های آجیلی و دانه غلات، خشکی سرشاخه ها در درختان شده و کاهش آن باعث ضعف گیاه در برابر بیماریها، تنش های محیطی نظیر خشکی و سرما می گردد. این محصول دارای خصلت اسیدی بالا می باشد که سبب کاهش pH خاک در محل ریشه گیاه میشود و باعث حل شدن و آزادسازی ریزمغذی های تثبیت شده در خاک میشود. سولوپتاس علاوه بر پتاسیم، گوگرد مورد نیاز گیاهان را تامین می کند. کمبود گوگرد موجب زردرنگی برگ های گیاهان میشود. مصرف سولوپتاس در دانه های روغنی نظیر آفتابگردان، سویا و کلزا باعث افزایش میزان روغن در این گیاهان میشود. | این محصول جهت رنگ آوری، افزایش سایز میوه و قند میوه استفاده میشود.</p>\n<p dir=\"rtl\" lang=\"fa\"><strong>خرید مطمئن از ایکادمال:</strong></p>\n<p dir=\"rtl\" lang=\"fa\"><strong>کود سولفات پتاسیم (0-0-52) ژیگاس</strong> را با اطمینان کامل از اصالت فرمولاسیون، خلوص بالا و قیمت مناسب به‌صورت مستقیم از <strong>فروشگاه کشاورزی ایکادمال</strong> سفارش دهید. برای دریافت برنامه کودی متناسب با آنالیز آب و خاک و مرحله رشدی محصول خود، تیم گیاه‌پزشکی و تغذیه ایکادمال همراه شما هستند.</p>\n<p>&nbsp;</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<ul>\n<li>حاوی عناصر پتاسیم و گوگرد</li>\n<li>کمک به جذب ریزمغذی ها</li>\n<li>مناسب برای مرحله رشد زایشی و تشکیل دانه و میوه</li>\n<li>تضمین افزایش عملکرد کمی و کیفی محصولات</li>\n<li>جلوگیری از پوکی میوه های آجیلی و دانه غلات</li>\n<li>جلوگیری از خشکی سرشاخه ها در درختان</li>\n<li>افزایش مقاومت به تنش های شوری، خشکی، سرما و بیماریها</li>\n<li>مناسب برای گیاهان حساس به کلر مانند توت فرنگی، انگور و سیب زمینی</li>\n<li>دارای حلالیت بالا</li>\n<li>مصرف به صورت چالکود یا کود آبیاری</li>\n</ul>\n",
+      "protected": false
+    },
+    "author": 3,
+    "featured_media": 968,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_daextam_enable_autolinks": "1"
+    },
+    "product_brand": [
+      81
+    ],
+    "product_cat": [
+      1675
+    ],
+    "product_tag": [
+      135,
+      1678,
+      202,
+      1709
+    ],
+    "class_list": [
+      "post-872",
+      "product",
+      "type-product",
+      "status-publish",
+      "has-post-thumbnail",
+      "product_brand-gigas",
+      "product_cat-potassium-sulfate-fertilizer",
+      "product_tag-135",
+      "product_tag-1678",
+      "product_tag-202",
+      "product_tag-1709",
+      "last",
+      "instock",
+      "shipping-taxable",
+      "purchasable",
+      "product-type-simple"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product/872",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/types/product"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/users/3"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/comments?post=872"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/media/968"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/media?parent=872"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "product_brand",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_brand?post=872"
+        },
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_cat?post=872"
+        },
+        {
+          "taxonomy": "product_tag",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_tag?post=872"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+}

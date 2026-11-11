@@ -1,0 +1,134 @@
+{
+  "captured_at": "2026-11-11T09:55:26.000Z",
+  "source": "https://ekadmall.com/wp-json/wp/v2/",
+  "item": {
+    "id": 1562,
+    "date": "2026-04-13T16:28:54",
+    "date_gmt": "2026-04-13T12:58:54",
+    "guid": {
+      "rendered": "https://ekadmall.com/?post_type=product&#038;p=1562"
+    },
+    "modified": "2026-11-02T13:40:06",
+    "modified_gmt": "2026-11-02T10:10:06",
+    "slug": "%da%a9%d9%88%d8%af-%d9%85%d8%a7%da%a9%d8%b1%d9%88-%da%a9%d8%a7%d9%85%d9%84-%da%af%d8%b1%d8%a7%d9%86%d9%88%d9%84%d9%87-912-4-12-%d8%aa%d8%a7%d9%be-%d9%be%d9%84%d8%a7%d8%b3-%d8%b9%d9%85%d9%88%d9%85",
+    "status": "publish",
+    "type": "product",
+    "link": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%d9%85%d8%a7%da%a9%d8%b1%d9%88-%da%a9%d8%a7%d9%85%d9%84-%da%af%d8%b1%d8%a7%d9%86%d9%88%d9%84%d9%87-912-4-12-%d8%aa%d8%a7%d9%be-%d9%be%d9%84%d8%a7%d8%b3-%d8%b9%d9%85%d9%88%d9%85/",
+    "title": {
+      "rendered": "کود ماکرو کامل گرانوله 9+12-4-12 تاپ پلاس (عمومی)"
+    },
+    "content": {
+      "rendered": "<p>کود کامل ماکرو ۱۲-۴-۱۲، دارای عناصر ازت، پتاس و فسفر همراه با گوگرد است. این کود علاوه بر بهبود رشد رویشی و افزایش راندمان محصول، موجب اصلاح و ضدعفونی خاک خواهد شد. در این نوع کود به دلیل اینکه اوره با سایر عناصر ترکیب و در بین آن­ها قرار گرفته است، به تدریج آزاد شده و به همین جهت در زمان طولانی ازت کافی را برای گیاه تامین می­کنند و نیاز به مصرف اوره را کاهش می­‌دهند. استفاده از کود ۱۲-۴-۱۲ گرانوله در زمان چالکود در باغات بسیار توصیه می‌شود؛ همچنین در مزارع برای محصولات زراعی و دانه‌های روغنی به صورت خاکی و پیش کشت استفاده شده و کارایی بالایی را نشان خواهد داد.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<ul>\n<li>صرفه ­جویی در مصرف کود، عدم نیاز به استفاده از چندین کود و کاهش هزینه­‌های کوددهی و حمل و نقل</li>\n<li>افزایش عملکرد، کیفیت و کمیت محصول در واحد سطح</li>\n<li>کاهش استرس گیاه ناشی از تنش‌­های محیطی، بیماری­‌ها و آفات به دلیل دارا بودن پتاس بالا</li>\n<li>محرک رشد و زودرس شدن محصول</li>\n<li>اصلاح ­کننده خاک به دلیل دارا بودن گوگرد</li>\n<li>ضد عفونی کردن تدریجی خاک و کنترل عوامل بیماری­زای قارچی به دلیل وجود گوگرد</li>\n<li>نحوه مصرف: خاکی و چالکود</li>\n<li>بسته ­بندی: کیسه 25 کیلوگرمی</li>\n</ul>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 1605,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_daextam_enable_autolinks": "1"
+    },
+    "product_brand": [
+      1644
+    ],
+    "product_cat": [
+      1677
+    ],
+    "product_tag": [
+      202,
+      1679
+    ],
+    "class_list": [
+      "post-1562",
+      "product",
+      "type-product",
+      "status-publish",
+      "has-post-thumbnail",
+      "product_brand-top-pluse",
+      "product_cat-complex-complete-fertilizers",
+      "product_tag-202",
+      "product_tag-1679",
+      "",
+      "instock",
+      "shipping-taxable",
+      "purchasable",
+      "product-type-simple"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product/1562",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/types/product"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/comments?post=1562"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/media/1605"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/media?parent=1562"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "product_brand",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_brand?post=1562"
+        },
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_cat?post=1562"
+        },
+        {
+          "taxonomy": "product_tag",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_tag?post=1562"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+}

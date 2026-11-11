@@ -1,0 +1,107 @@
+{
+  "captured_at": "2026-11-11T09:55:26.000Z",
+  "source": "https://ekadmall.com/wp-json/wp/v2/",
+  "item": {
+    "id": 3116,
+    "date": "2026-09-21T12:05:16",
+    "date_gmt": "2026-09-21T08:35:16",
+    "guid": {
+      "rendered": "https://ekadmall.com/?page_id=3116"
+    },
+    "modified": "2026-09-21T12:06:48",
+    "modified_gmt": "2026-09-21T08:36:48",
+    "slug": "product-tag",
+    "status": "publish",
+    "type": "page",
+    "link": "https://ekadmall.com/product-tag/",
+    "title": {
+      "rendered": "تگ های محصولات"
+    },
+    "content": {
+      "rendered": "\n<p class=\"wp-block-paragraph\">در کشاورزی حرفه‌ای، همیشه نام محصول کافی نیست؛ گاهی کشاورز می‌داند گیاهش چه نیازی دارد اما نمی‌داند کدام <strong>کود کشاورزی</strong> برای آن مشکل، بهترین جواب را می‌دهد. ما در ایکادمال با ایجاد برچسب‌های موضوعی، <strong>خرید آنلاین نهاده‌های کشاورزی</strong> را بسیار هوشمندتر کرده‌ایم. با استفاده از این تگ‌ها، شما می‌توانید مستقیماً به سراغ محصولاتی بروید که دقیقاً برای رفع یک مشکل خاص طراحی شده‌اند. این یعنی صرفه‌جویی در زمان و اطمینان از اینکه خریدی هدفمند برای مزرعه یا باغ خود انجام می‌دهید.</p>\n\n\n\n<p class=\"wp-block-paragraph\">فرقی نمی‌کند به دنبال کدام <strong>برند کود</strong> باشید یا برای کدام مرحله از رشد گیاه خرید می‌کنید؛ برچسب‌های ما تمامی دسته‌بندی‌ها را پوشش می‌دهند. از تگ‌های مرتبط با <strong>بهترین کودهای کشاورزی</strong> برای افزایش باردهی گرفته تا برچسب‌های تخصصی برای مبارزه با آفات یا اصلاح‌کننده‌های خاک. ما در ایکادمال معتقدیم که <strong>فروشگاه اینترنتی کشاورزی</strong> باید فراتر از یک لیست فروش ساده باشد؛ بنابراین با این برچسب‌گذاری، به شما کمک می‌کنیم تا بهترین انتخاب را از میان صدها نهاده موجود داشته باشید و نگران انتخاب اشتباه نباشید.</p>\n\n\n\n<p class=\"wp-block-paragraph\">هر <strong>کارخانه کود</strong> محصولات متنوعی دارد و گاهی پیدا کردن محصولی که دقیقاً با نیاز خاک شما سازگار باشد، چالش‌برانگیز است. با کلیک روی هر برچسب (تگ)، شما به لیستی هدایت می‌شوید که در آن، محصولاتِ برندهای مختلف برای یک کاربرد خاص (مثل <strong>کودهای محرک رشد</strong> یا <strong>کودهای ضد تنش</strong>) لیست شده‌اند. این سیستم به شما کمک می‌کند تا محصولات تولیدکنندگان بزرگ را بر اساس کاربرد واقعی‌شان مقایسه کنید. اگر هنوز در مورد انتخاب نهاده بر اساس این تگ‌ها تردید دارید، تیم فنی ایکادمال آماده است تا با مشاوره تخصصی، شما را برای رسیدن به بهترین عملکرد و تناژ محصول یاری کند.</p>\n\n\n\n<p class=\"wp-block-paragraph\"></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>برای اینکه سریع‌تر به نتیجه برسید، ما محصولات را با «برچسب‌های تخصصی» دسته‌بندی کرده‌ایم. اگر به دنبال کودی برای رفع یک کمبود خاص هستید، یا می‌خواهید نهاده‌ای با کارکرد مشخص (مثل محرک رشد یا اصلاح‌کننده خاک) پیدا کنید، از لیست تگ‌های زیر استفاده کنید. این برچسب‌ها کوتاه‌ترین مسیر برای رسیدن به محصول ایده‌آل شما هستند.</p>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "page-woo-tags.php",
+    "meta": {
+      "_acf_changed": false,
+      "_daextam_enable_autolinks": "1",
+      "footnotes": ""
+    },
+    "class_list": [
+      "post-3116",
+      "page",
+      "type-page",
+      "status-publish",
+      "hentry"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/pages/3116",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/comments?post=3116"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 2,
+          "href": "https://ekadmall.com/wp-json/wp/v2/pages/3116/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 3119,
+          "href": "https://ekadmall.com/wp-json/wp/v2/pages/3116/revisions/3119"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/media?parent=3116"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+}

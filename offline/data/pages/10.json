@@ -1,0 +1,107 @@
+{
+  "captured_at": "2026-11-11T09:55:26.000Z",
+  "source": "https://ekadmall.com/wp-json/wp/v2/",
+  "item": {
+    "id": 10,
+    "date": "2025-09-27T13:10:47",
+    "date_gmt": "2025-09-27T09:40:47",
+    "guid": {
+      "rendered": "https://ekadmall.com/?page_id=10"
+    },
+    "modified": "2026-04-11T18:25:19",
+    "modified_gmt": "2026-04-11T14:55:19",
+    "slug": "checkout",
+    "status": "publish",
+    "type": "page",
+    "link": "https://ekadmall.com/checkout/",
+    "title": {
+      "rendered": "پرداخت"
+    },
+    "content": {
+      "rendered": "<div class=\"woocommerce\"></div>\n\n\n<p class=\"page-checkout wp-block-paragraph\"></p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 0,
+    "parent": 0,
+    "menu_order": 0,
+    "comment_status": "closed",
+    "ping_status": "closed",
+    "template": "page-woocommerce.php",
+    "meta": {
+      "_acf_changed": false,
+      "_daextam_enable_autolinks": "1",
+      "footnotes": ""
+    },
+    "class_list": [
+      "post-10",
+      "page",
+      "type-page",
+      "status-publish",
+      "hentry"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/pages/10",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/pages"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/types/page"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/comments?post=10"
+        }
+      ],
+      "version-history": [
+        {
+          "count": 2,
+          "href": "https://ekadmall.com/wp-json/wp/v2/pages/10/revisions"
+        }
+      ],
+      "predecessor-version": [
+        {
+          "id": 1556,
+          "href": "https://ekadmall.com/wp-json/wp/v2/pages/10/revisions/1556"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/media?parent=10"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+}

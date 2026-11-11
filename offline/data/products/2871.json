@@ -1,0 +1,137 @@
+{
+  "captured_at": "2026-11-11T09:55:26.000Z",
+  "source": "https://ekadmall.com/wp-json/wp/v2/",
+  "item": {
+    "id": 2871,
+    "date": "2026-08-25T12:22:12",
+    "date_gmt": "2026-08-25T08:52:12",
+    "guid": {
+      "rendered": "https://ekadmall.com/?post_type=product&#038;p=2871"
+    },
+    "modified": "2026-11-07T17:39:42",
+    "modified_gmt": "2026-11-07T14:09:42",
+    "slug": "%da%a9%d9%88%d8%af-%d9%85%d8%a7%db%8c%d8%b9-%d8%b1%d9%88%db%8c-%d8%af%d8%a7%d9%85%d9%88%d9%86-%d8%b2%db%8c%d9%86%da%a9",
+    "status": "publish",
+    "type": "product",
+    "link": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%d9%85%d8%a7%db%8c%d8%b9-%d8%b1%d9%88%db%8c-%d8%af%d8%a7%d9%85%d9%88%d9%86-%d8%b2%db%8c%d9%86%da%a9/",
+    "title": {
+      "rendered": "کود مایع روی دامون (زینک)"
+    },
+    "content": {
+      "rendered": "<p>روی (Zn) یکی از ریزمغذی‌های ضروری در تغذیه گیاه است که در فعال‌سازی بیش از ۳۰۰ سیستم آنزیمی نقش دارد و در فرآیندهای مهمی مانند سنتز هورمون رشد اکسین، افزایش کارایی فتوسنتز، پایداری غشاهای سلولی و تنظیم متابولیسم کربوهیدرات‌ها و پروتئین‌ها مؤثر است. این عنصر با مشارکت در سنتز هورمون IAA، موجب تحریک ریشه‌زایی، توسعه سیستم ریشه‌ای و بهبود جذب عناصر غذایی می‌شود. کمبود روی می‌تواند باعث کاهش رشد رویشی، اختلال در تشکیل گل و دانه و کاهش عملکرد محصول گردد. <strong>کود مایع دامون زینک</strong> با فرمولاسیون پیشرفته و حلالیت بالا، امکان جذب سریع و مؤثر روی را از طریق محلول‌پاشی و مصرف ریشه‌ای فراهم می‌کند. این محصول با تأمین سریع روی مورد نیاز گیاه، به بهبود رشد، افزایش عملکرد و ارتقای کیفیت محصول کمک می‌کند.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<ul>\n<li>کمک به <strong>استقرار سریع‌تر و قوی‌تر نشاء در ابتدای رشد</strong></li>\n<li>افزایش <strong>فعالیت آنزیم‌ها و بهبود فرآیندهای متابولیکی گیاه</strong></li>\n<li>تحریک <strong>ریشه‌زایی و توسعه سیستم ریشه‌ای عمیق و گسترده</strong></li>\n<li>افزایش <strong>تحمل گیاه در برابر تنش‌های محیطی</strong></li>\n<li>بهبود <strong>تشکیل گل، گرده‌افشانی و افزایش تعداد و وزن دانه‌ها</strong></li>\n<li>نقش کلیدی در <strong>انتقال کربوهیدرات‌ها از برگ به دانه</strong> و در نتیجه افزایش کیفیت و عملکرد محصول</li>\n</ul>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 2873,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_daextam_enable_autolinks": "1"
+    },
+    "product_brand": [
+      86
+    ],
+    "product_cat": [
+      69
+    ],
+    "product_tag": [
+      200,
+      202,
+      216
+    ],
+    "class_list": [
+      "post-2871",
+      "product",
+      "type-product",
+      "status-publish",
+      "has-post-thumbnail",
+      "product_brand-damoon",
+      "product_cat-zinc-fertilizers",
+      "product_tag-200",
+      "product_tag-202",
+      "product_tag-216",
+      "last",
+      "instock",
+      "shipping-taxable",
+      "purchasable",
+      "product-type-variable",
+      "has-default-attributes"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product/2871",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/types/product"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/comments?post=2871"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/media/2873"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/media?parent=2871"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "product_brand",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_brand?post=2871"
+        },
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_cat?post=2871"
+        },
+        {
+          "taxonomy": "product_tag",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_tag?post=2871"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+}

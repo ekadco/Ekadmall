@@ -1,0 +1,139 @@
+{
+  "captured_at": "2026-11-11T09:55:26.000Z",
+  "source": "https://ekadmall.com/wp-json/wp/v2/",
+  "item": {
+    "id": 2877,
+    "date": "2026-08-25T15:14:50",
+    "date_gmt": "2026-08-25T11:44:50",
+    "guid": {
+      "rendered": "https://ekadmall.com/?post_type=product&#038;p=2877"
+    },
+    "modified": "2026-10-28T16:22:23",
+    "modified_gmt": "2026-10-28T12:52:23",
+    "slug": "%da%a9%d9%88%d8%af-%d9%87%db%8c%d9%88%d9%85%db%8c%da%a9-%d8%a7%d8%b3%db%8c%d8%af-%d9%85%d8%a7%db%8c%d8%b9-%d9%84%d8%a7%da%af%d9%88%d9%86-humicfulvic",
+    "status": "publish",
+    "type": "product",
+    "link": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%d9%87%db%8c%d9%88%d9%85%db%8c%da%a9-%d8%a7%d8%b3%db%8c%d8%af-%d9%85%d8%a7%db%8c%d8%b9-%d9%84%d8%a7%da%af%d9%88%d9%86-humicfulvic/",
+    "title": {
+      "rendered": "کود هیومیک اسید مایع لاگون (Humic&#038;Fulvic)"
+    },
+    "content": {
+      "rendered": "<p>در دنیای رقابتی کشاورزی امروز، سرعت و کارایی در رساندن مواد مغذی به گیاه از اهمیت بالایی برخوردار است. <strong>کود هیومیک اسید مایع</strong>، با فرمولاسیون پیشرفته و قابلیت جذب سریع، راه‌حلی ایده‌آل برای کشاورزان مدرن است که به دنبال تقویت فوری گیاهان و افزایش بهره‌وری هستند. این محصول نه تنها به عنوان یک منبع غنی از هیومیک اسید عمل می‌کند، بلکه به دلیل حالت مایع خود، امکان استفاده آسان و جذب سریع از طریق ریشه و برگ گیاه را فراهم می‌آورد.</p>\n<h3>قدرت هیومیک اسید مایع در تحریک رشد و جذب مواد غذایی</h3>\n<p>هیومیک اسید مایع با افزایش نفوذپذیری غشای سلولی ریشه‌ها، <strong>جذب عناصر غذایی</strong> موجود در خاک را به طور چشمگیری افزایش می‌دهد. این کود، به عنوان یک کلات‌کننده طبیعی، عناصر ریزمغذی مانند آهن، روی و منگنز را به فرم قابل جذب‌تری برای گیاه تبدیل می‌کند و از تثبیت آن‌ها در خاک جلوگیری می‌نماید. علاوه بر این، استفاده از هیومیک اسید مایع به <strong>بهبود فتوسنتز</strong>، افزایش فعالیت آنزیمی و تحریک رشد رویشی گیاه کمک می‌کند. نتیجه این فرآیندها، رشد سریع‌تر، سبزینگی بیشتر و گیاهانی با بنیه قوی‌تر است که در برابر انواع تنش‌های محیطی، از جمله خشکی و شوری، مقاومت بهتری از خود نشان می‌دهند.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<ul>\n<li><strong>جذب سریع و اثربخشی فوری:</strong> تأثیرگذاری بالا در کوتاه‌ترین زمان ممکن بر روی گیاه.</li>\n<li><strong>افزایش جذب عناصر غذایی:</strong> بهبود کارایی کودهای شیمیایی و کاهش هدر رفت مواد مغذی.</li>\n<li><strong>تحریک رشد ریشه و رویشی:</strong> منجر به گیاهانی با شاخ و برگ بیشتر و سیستم ریشه‌ای توسعه‌یافته‌تر.</li>\n<li><strong>افزایش مقاومت به تنش‌ها:</strong> محافظت از گیاه در برابر استرس‌های محیطی و بهبود ریکاوری آن.</li>\n<li><strong>بهبود کیفیت محصول:</strong> تأثیر مثبت بر اندازه، رنگ، طعم و افزایش ماندگاری محصولات کشاورزی.</li>\n<li><strong>سهولت در کاربرد:</strong> قابل استفاده از طریق سیستم‌های آبیاری قطره‌ای، اسپری و محلول‌پاشی برگی.</li>\n</ul>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 2942,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_daextam_enable_autolinks": "1"
+    },
+    "product_brand": [
+      1658
+    ],
+    "product_cat": [
+      182
+    ],
+    "product_tag": [
+      1648,
+      193,
+      1695,
+      216
+    ],
+    "class_list": [
+      "post-2877",
+      "product",
+      "type-product",
+      "status-publish",
+      "has-post-thumbnail",
+      "product_brand-lagon",
+      "product_cat-humic-acid",
+      "product_tag-1648",
+      "product_tag-193",
+      "product_tag-1695",
+      "product_tag-216",
+      "",
+      "instock",
+      "shipping-taxable",
+      "purchasable",
+      "product-type-variable",
+      "has-default-attributes"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product/2877",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/types/product"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/comments?post=2877"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/media/2942"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/media?parent=2877"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "product_brand",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_brand?post=2877"
+        },
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_cat?post=2877"
+        },
+        {
+          "taxonomy": "product_tag",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_tag?post=2877"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+}

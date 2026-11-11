@@ -1,0 +1,140 @@
+{
+  "captured_at": "2026-11-11T09:55:26.000Z",
+  "source": "https://ekadmall.com/wp-json/wp/v2/",
+  "item": {
+    "id": 1597,
+    "date": "2026-04-13T17:29:24",
+    "date_gmt": "2026-04-13T13:59:24",
+    "guid": {
+      "rendered": "https://ekadmall.com/?post_type=product&#038;p=1597"
+    },
+    "modified": "2026-10-23T15:24:04",
+    "modified_gmt": "2026-10-23T11:54:04",
+    "slug": "%da%a9%d9%88%d8%af-%d9%85%d8%a7%db%8c%d8%b9-%d8%a7%d8%b3%db%8c%d8%af-%d8%a7%d9%86%d9%81%d9%88%d8%b1%db%8c%da%a9-%d8%aa%d8%a7%d9%be-%d9%be%d9%84%d8%a7%d8%b3",
+    "status": "publish",
+    "type": "product",
+    "link": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%d9%85%d8%a7%db%8c%d8%b9-%d8%a7%d8%b3%db%8c%d8%af-%d8%a7%d9%86%d9%81%d9%88%d8%b1%db%8c%da%a9-%d8%aa%d8%a7%d9%be-%d9%be%d9%84%d8%a7%d8%b3/",
+    "title": {
+      "rendered": "کود مایع اسید انفوریک تاپ پلاس"
+    },
+    "content": {
+      "rendered": "<p>کود مایع انفور تاپ برند تاپ، این ترکیب فرموله شده است. از سال‌های گذشته کشاورزان و کارشناسان اهمیت مصرف کود-سم‌‍‌ها را دریافتند و از آن‌ها در رژیم غذایی گیاه به خوبی بهره می‌برند. اما حالا بنا به نیاز کارشناسان اقدام به تولید یک کود-اصلاح کننده کرده است. این ترکیب علاوه بر خاصیت اصلاح کنندگی بالا (قسمت ویژگی‌ها مطالعه شوند)، حاوی عناصر N و S نیز هست که برای رفع نیاز گیاه به این عناصر، مصرف این ترکیب توجیه بسیار بالایی دارد.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<ul>\n<li>تعدیل SAR خاک</li>\n<li>اصلاح TNV (آهک خاک)</li>\n<li>تنظیم pH و EC خاک و آب</li>\n<li>اصلاح ساختمان فیزیکی خاک</li>\n<li>مناسب برای گیاهان زراعی، باغی و گلخانه‌ای</li>\n<li>زمان استفاده: در طول فصل رشد</li>\n<li>بسته بندی: گالن ۱۰</li>\n<li>اسیدیته : pH&lt;1</li>\n</ul>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 1579,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_daextam_enable_autolinks": "1"
+    },
+    "product_brand": [
+      1644
+    ],
+    "product_cat": [
+      1674
+    ],
+    "product_tag": [
+      139,
+      206,
+      202,
+      204,
+      205
+    ],
+    "class_list": [
+      "post-1597",
+      "product",
+      "type-product",
+      "status-publish",
+      "has-post-thumbnail",
+      "product_brand-top-pluse",
+      "product_cat-n-phuric-acid",
+      "product_tag-139",
+      "product_tag-206",
+      "product_tag-202",
+      "product_tag-204",
+      "product_tag-205",
+      "",
+      "instock",
+      "shipping-taxable",
+      "purchasable",
+      "product-type-simple"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product/1597",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/types/product"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/comments?post=1597"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/media/1579"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/media?parent=1597"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "product_brand",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_brand?post=1597"
+        },
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_cat?post=1597"
+        },
+        {
+          "taxonomy": "product_tag",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_tag?post=1597"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+}

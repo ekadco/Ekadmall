@@ -1,0 +1,136 @@
+{
+  "captured_at": "2026-11-11T09:55:26.000Z",
+  "source": "https://ekadmall.com/wp-json/wp/v2/",
+  "item": {
+    "id": 1602,
+    "date": "2026-04-13T17:29:54",
+    "date_gmt": "2026-04-13T13:59:54",
+    "guid": {
+      "rendered": "https://ekadmall.com/?post_type=product&#038;p=1602"
+    },
+    "modified": "2026-11-02T14:02:03",
+    "modified_gmt": "2026-11-02T10:32:03",
+    "slug": "%da%a9%d9%88%d8%af-%d9%be%d8%aa%d8%a7%d8%b3%db%8c%d9%85-40-%d8%af%d8%b1%d8%b5%d8%af-%d9%88%d8%b2%d9%86%db%8c-%da%af%d8%b1%d8%a7%d9%86%d9%88%d9%84%d9%87-%d8%aa%d8%a7%d9%be-%d9%be%d9%84%d8%a7%d8%b3-k40",
+    "status": "publish",
+    "type": "product",
+    "link": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%d9%be%d8%aa%d8%a7%d8%b3%db%8c%d9%85-40-%d8%af%d8%b1%d8%b5%d8%af-%d9%88%d8%b2%d9%86%db%8c-%da%af%d8%b1%d8%a7%d9%86%d9%88%d9%84%d9%87-%d8%aa%d8%a7%d9%be-%d9%be%d9%84%d8%a7%d8%b3-k40/",
+    "title": {
+      "rendered": "کود پتاسیم 40 درصد وزنی گرانوله تاپ پلاس (K40)"
+    },
+    "content": {
+      "rendered": "<p>کود پتاس 40 درصد وزنی به صورت گرانوله فرموله شده و حاوی 20 درصد پتاسیم و 8 درصد عنصر گوگرد است. این کود به دلیل داشتن گوگرد ترکیب مناسبی برای خاک‌­های کشور بوده و تاثیر چشمگیری در عملکرد کیفی و کمی محصول دارد. پتاسیم عنصری پویا بوده و در صورت کمبود به بافت­‌های جوان زاینده گیاه انتقال می‌­یابد. بنابراین کمبود آن ابتدا در برگ­های پایین و در صورت کمبود بیشتر در برگ­ های جوان و بالایی پدیدار می­شود. این عنصر نقش مهمی در فعال کردن آنزیم‌ها و تشکیل پروتئین­‌ها و ویتامین­‌ها ایفا می‌­کند.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<ul>\n<li>زودرسی محصول</li>\n<li>بهبود قابلیت انبارداری میوه</li>\n<li>افزایش و بهبود کیفیت محصول شامل طعم، رنگ و شکل ظاهری میوه</li>\n<li>افزایش بازارپسندی محصولات</li>\n<li>افزایش جذب و حلالیت ریزمغذی‌­ها</li>\n<li>افزایش مقاومت گیاه در برابر تنش­‌های محیطی سرمازدگی و گرمازدگی شوری</li>\n<li>افزایش مقاومت گیاه در برابر تنش­‌های ناشی از آفات و بیماری‌­ها</li>\n<li>نحوه مصرف: خاکی و چالکود</li>\n<li>بسته­ بندی: کیسه ۵۰ و ۲۵ کیلوگرمی</li>\n</ul>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 1583,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_daextam_enable_autolinks": "1"
+    },
+    "product_brand": [
+      1644
+    ],
+    "product_cat": [
+      67
+    ],
+    "product_tag": [
+      135,
+      202,
+      1679
+    ],
+    "class_list": [
+      "post-1602",
+      "product",
+      "type-product",
+      "status-publish",
+      "has-post-thumbnail",
+      "product_brand-top-pluse",
+      "product_cat-potassium-fertilizers",
+      "product_tag-135",
+      "product_tag-202",
+      "product_tag-1679",
+      "last",
+      "instock",
+      "shipping-taxable",
+      "purchasable",
+      "product-type-simple"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product/1602",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/types/product"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/comments?post=1602"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/media/1583"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/media?parent=1602"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "product_brand",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_brand?post=1602"
+        },
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_cat?post=1602"
+        },
+        {
+          "taxonomy": "product_tag",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_tag?post=1602"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+}

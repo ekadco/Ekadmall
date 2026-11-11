@@ -1,0 +1,145 @@
+{
+  "captured_at": "2026-11-11T09:55:26.000Z",
+  "source": "https://ekadmall.com/wp-json/wp/v2/",
+  "item": {
+    "id": 1868,
+    "date": "2026-05-14T13:24:15",
+    "date_gmt": "2026-05-14T09:54:15",
+    "guid": {
+      "rendered": "https://ekadmall.com/?post_type=product&#038;p=1868"
+    },
+    "modified": "2026-11-04T13:51:45",
+    "modified_gmt": "2026-11-04T10:21:45",
+    "slug": "%da%a9%d9%88%d8%af-%da%a9%d8%a7%d9%85%d9%84-%d8%a7%d8%b1%da%af%d8%a7%d9%86%db%8c%da%a9-%d9%be%d9%88%d8%af%d8%b1%db%8c-%d9%87%d8%a7%d9%86%d8%a7-%d8%a8%d8%a7%db%8c%d9%88%d9%85%d8%a7-%da%af%d9%84%d8%af",
+    "status": "publish",
+    "type": "product",
+    "link": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%da%a9%d8%a7%d9%85%d9%84-%d8%a7%d8%b1%da%af%d8%a7%d9%86%db%8c%da%a9-%d9%be%d9%88%d8%af%d8%b1%db%8c-%d9%87%d8%a7%d9%86%d8%a7-%d8%a8%d8%a7%db%8c%d9%88%d9%85%d8%a7-%da%af%d9%84%d8%af/",
+    "title": {
+      "rendered": "کود کامل ارگانیک پودری هانا (بایوما گلد)"
+    },
+    "content": {
+      "rendered": "<p>بایوما گُلد کود ارگانیک پودری 100 ٪ محلول در آب است که حاوی 85 ٪ ماده آلی بوده و منبع غنی عناصر غذایی و محرک زیستی با ساختار مولکول‌های بسیار پیچیده‌ است که سبب کلاته شدن و بهبود جذب عناصر مغذی موجود در خاک می شود.کود های کامل پودری npk این محصول همچنین به جوانه‌زنی سریع‌تر بذر، رشد سریع‌تر ریشه و ساقه، افزایش ثمر و کیفیت محصول کمک می کند و منبع ارزشمندی از کربن برای میکروارگانیسم‌های خاک می باشد.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<ul>\n<li> کود کامل ارگانیک</li>\n<li>تامین عناصر مغذی مورد نیاز گیاه</li>\n<li>افزایش مواد آلی خاک</li>\n</ul>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 1953,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_daextam_enable_autolinks": "1"
+    },
+    "product_brand": [
+      1652
+    ],
+    "product_cat": [
+      1677
+    ],
+    "product_tag": [
+      139,
+      1684,
+      194,
+      1678,
+      193,
+      206,
+      202
+    ],
+    "class_list": [
+      "post-1868",
+      "product",
+      "type-product",
+      "status-publish",
+      "has-post-thumbnail",
+      "product_brand-hana",
+      "product_cat-complex-complete-fertilizers",
+      "product_tag-139",
+      "product_tag-1684",
+      "product_tag-194",
+      "product_tag-1678",
+      "product_tag-193",
+      "product_tag-206",
+      "product_tag-202",
+      "",
+      "instock",
+      "shipping-taxable",
+      "purchasable",
+      "product-type-variable",
+      "has-default-attributes"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product/1868",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/types/product"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/comments?post=1868"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/media/1953"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/media?parent=1868"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "product_brand",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_brand?post=1868"
+        },
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_cat?post=1868"
+        },
+        {
+          "taxonomy": "product_tag",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_tag?post=1868"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+}

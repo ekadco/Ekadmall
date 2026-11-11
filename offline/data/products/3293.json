@@ -1,0 +1,129 @@
+{
+  "captured_at": "2026-11-11T09:55:26.000Z",
+  "source": "https://ekadmall.com/wp-json/wp/v2/",
+  "item": {
+    "id": 3293,
+    "date": "2026-10-14T21:05:09",
+    "date_gmt": "2026-10-14T17:35:09",
+    "guid": {
+      "rendered": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%d9%87%db%8c%d9%88%d9%85%db%8c-%d8%aa%d8%a7%d9%be-%d9%be%d9%88%d8%af%d8%b1%db%8c-%d8%aa%d8%a7%d9%be-%d9%be%d9%84%d8%a7%d8%b3/"
+    },
+    "modified": "2026-10-25T15:45:24",
+    "modified_gmt": "2026-10-25T12:15:24",
+    "slug": "%da%a9%d9%88%d8%af-%d9%87%db%8c%d9%88%d9%85%db%8c%da%a9-%d8%a7%d8%b3%db%8c%d8%af-%d9%be%d9%88%d8%af%d8%b1%db%8c-%d9%87%db%8c%d9%88%d9%85%db%8c-%d8%aa%d8%a7%d9%be-%d9%be%d9%84%d8%a7%d8%b3",
+    "status": "publish",
+    "type": "product",
+    "link": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%d9%87%db%8c%d9%88%d9%85%db%8c%da%a9-%d8%a7%d8%b3%db%8c%d8%af-%d9%be%d9%88%d8%af%d8%b1%db%8c-%d9%87%db%8c%d9%88%d9%85%db%8c-%d8%aa%d8%a7%d9%be-%d9%be%d9%84%d8%a7%d8%b3/",
+    "title": {
+      "rendered": "کود هیومیک اسید پودری هیومی تاپ پلاس"
+    },
+    "content": {
+      "rendered": "<p style=\"text-align: justify;\">کود پتاسیم هیومات (هیومی تاپ) پودری تاپ پلاس تولید شرکت <span style=\"color: #0b6635;\"><strong>کیمیا کود پارس</strong></span>، علاوه بر کود، یک بسترساز فوق العاده است. این کود باعث افزایش ماده آلی خاک و رفع اثرات سوء شوری خاک همچنین به جهت دارا بودن عنصر پتاسیم موجب افزایش کیفیت محصول نهایی می‌شود. از این نهاده در تمامی کشت ها از جمله باغبانی، زراعت و گلخانه می‌توان بهره برد.</p>\n<h4 dir=\"rtl\" lang=\"fa\">چرا کود هیومیک اسید پودری هیومی تاپ پلاس؟</h4>\n<p dir=\"rtl\" lang=\"fa\">تغذیه مطلوب گیاه تنها با افزودن عناصر غذایی ممکن نیست؛ سلامت خاک پایه اصلی هر کشاورزی موفق است. <strong>کود هیومیک اسید پودری هیومی تاپ پلاس</strong> یک اصلاح‌کننده خاک حرفه‌ای و محرک رشد کامل است که با افزایش ماده آلی و فعال‌سازی میکروارگانیسم‌های خاک، حاصلخیزی را به طور بنیادین بهبود می‌بخشد.</p>\n<h4 dir=\"rtl\" lang=\"fa\">مهم‌ترین مزایای مصرف هیومیک اسید پودری تاپ پلاس</h4>\n<ul dir=\"rtl\" lang=\"fa\">\n<li><strong>بهبود توسعه ریشه و جذب بهتر عناصر ماکرو و میکرو:</strong> ساختار ریشه را قوی کرده و راندمان جذب را بالا می‌برد.</li>\n<li><strong>افزایش ماده آلی و حاصلخیزی خاک:</strong> با تغذیه میکروارگانیسم‌های مفید خاک، تعادل زیستی بستر ریشه را احیا می‌کند.</li>\n<li><strong>اصلاح خواص شیمیایی و فیزیکی خاک:</strong> تهویه بهتر، ظرفیت نگهداری آب و ظرفیت تبادل کاتیونی (CEC) را افزایش می‌دهد.</li>\n<li><strong>افزایش کیفیت و کمیت محصول:</strong> رشد متعادل رویشی و زایشی و مقاومت به تنش‌های محیطی و شوری را بهبود می‌بخشد.</li>\n</ul>\n<h3 style=\"text-align: justify;\"></h3>\n<p style=\"text-align: justify;\">\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<ul>\n<li>بهبود توسعه ریشه و جذب بهتر سایر عناصر ماکرو و میکرو</li>\n<li>افزایش ماده آلی و حاصلخیزی خاک</li>\n<li>اصلاح خواص شیمیایی خاک</li>\n<li>افزایش کیفیت و کمیت محصول</li>\n<li>دارای حلالیت 100 درصدی</li>\n<li>نحوه مصرف: کود آبیاری</li>\n</ul>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 3297,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_daextam_enable_autolinks": ""
+    },
+    "product_brand": [
+      1644
+    ],
+    "product_cat": [
+      182
+    ],
+    "product_tag": [],
+    "class_list": [
+      "post-3293",
+      "product",
+      "type-product",
+      "status-publish",
+      "has-post-thumbnail",
+      "product_brand-top-pluse",
+      "product_cat-humic-acid",
+      "",
+      "instock",
+      "shipping-taxable",
+      "purchasable",
+      "product-type-simple"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product/3293",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/types/product"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/comments?post=3293"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/media/3297"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/media?parent=3293"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "product_brand",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_brand?post=3293"
+        },
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_cat?post=3293"
+        },
+        {
+          "taxonomy": "product_tag",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_tag?post=3293"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+}

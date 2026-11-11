@@ -1,0 +1,133 @@
+{
+  "captured_at": "2026-11-11T09:55:26.000Z",
+  "source": "https://ekadmall.com/wp-json/wp/v2/",
+  "item": {
+    "id": 820,
+    "date": "2025-12-17T18:25:04",
+    "date_gmt": "2025-12-17T14:55:04",
+    "guid": {
+      "rendered": "https://ekadmall.com/?post_type=product&#038;p=820"
+    },
+    "modified": "2026-11-04T15:28:52",
+    "modified_gmt": "2026-11-04T11:58:52",
+    "slug": "%da%a9%d9%88%d8%af-%d9%85%d9%88%d9%86%d9%88-%d8%a2%d9%85%d9%88%d9%86%db%8c%d9%88%d9%85-%d9%81%d8%b3%d9%81%d8%a7%d8%aa-0-61-12-%da%98%db%8c%da%af%d8%a7%d8%b3",
+    "status": "publish",
+    "type": "product",
+    "link": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%d9%85%d9%88%d9%86%d9%88-%d8%a2%d9%85%d9%88%d9%86%db%8c%d9%88%d9%85-%d9%81%d8%b3%d9%81%d8%a7%d8%aa-0-61-12-%da%98%db%8c%da%af%d8%a7%d8%b3/",
+    "title": {
+      "rendered": "کود مونو آمونیوم فسفات (0-61-12) ژیگاس"
+    },
+    "content": {
+      "rendered": "<p>مونو آمونیوم فسفات یک کود کاملا محلول در آب که حاوی %12 ازت به فرم آمونیوم و %61 عنصر فسفر می باشد که میتوان از آن در ابتدای دوره رشد که نیاز گیاه به نیتروژن و فسفر زیاد است استفاده نمود. این محصول با EC بسیار پایین ترکیبی ایمن جهت نشا کاری، رشد و توسعه ریشه گیاهان جوان، یکنواختی شکوفه ها، افزایش مقاومت به سرما و افزایش تولید میوه می باشد. این محصول قابل استفاده در کلیه سیستم های آبیاری بارانی، غرقابی، قطره ای و هیدروپونیک است.</p>\n<p dir=\"rtl\" lang=\"fa\"><strong>خرید مطمئن از ایکادمال:</strong></p>\n<p dir=\"rtl\" lang=\"fa\"><strong>کود مونو آمونیوم فسفات (0-61-12) ژیگاس</strong> را با اصالت صددرصدی، بسته‌بندی استاندارد و قیمت رقابتی به‌صورت آنلاین از <strong>فروشگاه کشاورزی ایکادمال</strong> سفارش دهید. برای دریافت مشاوره در زمینه تعیین دوز مصرفی بر اساس آزمایش خاک مزرعه یا باغ خود، تیم کارشناسان فنی ایکادمال آماده راهنمایی شما هستند.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<ul>\n<li>تامین نیاز بالای فسفر در ابتدای رشد</li>\n<li>تولید ریشه های قوی و گسترده و ظهور برگ های شاداب</li>\n<li>تحریک گلدهی و شکوفه دهی</li>\n<li>افزایش مقاومت به تنش های محیطی</li>\n<li>دارای pH اسیدی و شوری بسیار پایین</li>\n</ul>\n",
+      "protected": false
+    },
+    "author": 3,
+    "featured_media": 974,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_daextam_enable_autolinks": "1"
+    },
+    "product_brand": [
+      81
+    ],
+    "product_cat": [
+      1683
+    ],
+    "product_tag": [
+      202,
+      134
+    ],
+    "class_list": [
+      "post-820",
+      "product",
+      "type-product",
+      "status-publish",
+      "has-post-thumbnail",
+      "product_brand-gigas",
+      "product_cat-monoammonium-phosphate-map-fertilizers",
+      "product_tag-202",
+      "product_tag-134",
+      "",
+      "instock",
+      "shipping-taxable",
+      "product-type-simple"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product/820",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/types/product"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/users/3"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/comments?post=820"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/media/974"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/media?parent=820"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "product_brand",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_brand?post=820"
+        },
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_cat?post=820"
+        },
+        {
+          "taxonomy": "product_tag",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_tag?post=820"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+}

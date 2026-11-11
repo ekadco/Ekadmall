@@ -1,0 +1,142 @@
+{
+  "captured_at": "2026-11-11T09:55:26.000Z",
+  "source": "https://ekadmall.com/wp-json/wp/v2/",
+  "item": {
+    "id": 1598,
+    "date": "2026-04-13T17:28:59",
+    "date_gmt": "2026-04-13T13:58:59",
+    "guid": {
+      "rendered": "https://ekadmall.com/?post_type=product&#038;p=1598"
+    },
+    "modified": "2026-11-03T12:16:45",
+    "modified_gmt": "2026-11-03T08:46:45",
+    "slug": "%da%a9%d9%88%d8%af-%d9%85%d8%a7%db%8c%d8%b9-%d8%a7%d8%b3%db%8c%d8%af-%d9%87%db%8c%d9%88%d9%85%db%8c%da%a9-%d8%aa%d8%a7%d9%be-%d9%be%d9%84%d8%a7%d8%b3",
+    "status": "publish",
+    "type": "product",
+    "link": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%d9%85%d8%a7%db%8c%d8%b9-%d8%a7%d8%b3%db%8c%d8%af-%d9%87%db%8c%d9%88%d9%85%db%8c%da%a9-%d8%aa%d8%a7%d9%be-%d9%be%d9%84%d8%a7%d8%b3/",
+    "title": {
+      "rendered": "کود مایع اسید هیومیک تاپ پلاس"
+    },
+    "content": {
+      "rendered": "<p>کود مایع اسید هیومیک <strong>تاپ</strong>، دارای ۷ درصد هیومیک و ۱۲ درصد ماده آلی است. این کود به عنوان بهبود دهنده رشد آلی شناخته می‌شود که علاوه بر بهبود رشد، موجب افزایش جذب عناصر غذایی توسط ریشه، بهود ساختمان خاک و افزایش جمعیت میکرو ارگانیسم‌های مفید خاک خواهد شد. همچنین این کود در حاصلخیزی و باروری خاک موثر می‌باشد. این کود به صورت کود آبیاری برای تمامی محصولات باغی و زراعی مورد استفاده قرار می‌گیرد. لازم به ذکر است که، ترکیبات سازنده این کود از سنگ لئوناردیت است.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<ul>\n<li>بهبود و تسریع جوانه زنی بذر</li>\n<li>کاملا محلول و عاری از آلاینده‌های فلزی</li>\n<li>تحریک و افزایش جمعیت میکروبی خاک</li>\n<li>سازگار با محیط زیست در راستای طبیعت</li>\n<li>بهبود رشد و ساختار ریشه</li>\n<li>افزایش ماندگاری آب در محیط اطراف ریشه</li>\n<li>کمک به افزایش جذب نیتروژن، فسفر، پتاسیم، کلسیم و منیزیم</li>\n<li>اصلاح موضعی خاک</li>\n<li>مناسب برای گیاهان زراعی، باغی و گلخانه‌ای</li>\n<li>بهترین زمان استفاده: در طول فصل رشد</li>\n<li>بالابردن توانایی مقاومت گیاه نسبت به تنش های محیطی</li>\n<li>بسته بندی: قوطی یک لیتری، گالن ۵، ۱۰ و ۲۰ لیتری</li>\n<li>اسیدیته (pH): ۱۰</li>\n</ul>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 1599,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_daextam_enable_autolinks": "1"
+    },
+    "product_brand": [
+      1644
+    ],
+    "product_cat": [
+      182
+    ],
+    "product_tag": [
+      139,
+      206,
+      202,
+      204,
+      216,
+      205
+    ],
+    "class_list": [
+      "post-1598",
+      "product",
+      "type-product",
+      "status-publish",
+      "has-post-thumbnail",
+      "product_brand-top-pluse",
+      "product_cat-humic-acid",
+      "product_tag-139",
+      "product_tag-206",
+      "product_tag-202",
+      "product_tag-204",
+      "product_tag-216",
+      "product_tag-205",
+      "",
+      "instock",
+      "shipping-taxable",
+      "purchasable",
+      "product-type-simple"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product/1598",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/types/product"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/comments?post=1598"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/media/1599"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/media?parent=1598"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "product_brand",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_brand?post=1598"
+        },
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_cat?post=1598"
+        },
+        {
+          "taxonomy": "product_tag",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_tag?post=1598"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+}

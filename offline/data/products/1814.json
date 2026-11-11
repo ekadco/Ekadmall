@@ -1,0 +1,136 @@
+{
+  "captured_at": "2026-11-11T09:55:26.000Z",
+  "source": "https://ekadmall.com/wp-json/wp/v2/",
+  "item": {
+    "id": 1814,
+    "date": "2026-05-08T00:35:50",
+    "date_gmt": "2026-05-07T21:05:50",
+    "guid": {
+      "rendered": "https://ekadmall.com/?post_type=product&#038;p=1814"
+    },
+    "modified": "2026-11-04T15:28:35",
+    "modified_gmt": "2026-11-04T11:58:35",
+    "slug": "%da%a9%d9%88%d8%af-%d8%a2%d9%85%db%8c%d9%86%d9%88-%d8%a7%d8%b3%db%8c%d8%af-40-%da%98%db%8c%da%af%d8%a7%d8%b3",
+    "status": "publish",
+    "type": "product",
+    "link": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%d8%a2%d9%85%db%8c%d9%86%d9%88-%d8%a7%d8%b3%db%8c%d8%af-40-%da%98%db%8c%da%af%d8%a7%d8%b3/",
+    "title": {
+      "rendered": "کود آمینو اسید 40% ژیگاس"
+    },
+    "content": {
+      "rendered": "<p>کود آمینواسید 40% ژیگاس یک مکمل مایع مرغوب است که از 29% آمینواسید آزاد با منشا طبیعی و 10% عصاره جلبک دریایی تشکیل شده است. این محصول سریعترین و موثرترین راهکار برای کاهش تنش های محیطی و تحریک متابولیسم گیاه است.</p>\n<p>این فرمولاسیون منحصر به فرد حاوی نیتروژن، فسفر و پتاسیم است که با طیف وسیعی از ریزمغذی های ضروری کلات EDTA غنی شده است.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<blockquote><p>&nbsp;</p></blockquote>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 1831,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_daextam_enable_autolinks": "1"
+    },
+    "product_brand": [
+      81
+    ],
+    "product_cat": [
+      1646
+    ],
+    "product_tag": [
+      139,
+      206,
+      216
+    ],
+    "class_list": [
+      "post-1814",
+      "product",
+      "type-product",
+      "status-publish",
+      "has-post-thumbnail",
+      "product_brand-gigas",
+      "product_cat-amino-acid",
+      "product_tag-139",
+      "product_tag-206",
+      "product_tag-216",
+      "last",
+      "outofstock",
+      "shipping-taxable",
+      "purchasable",
+      "product-type-simple"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product/1814",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/types/product"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/comments?post=1814"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/media/1831"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/media?parent=1814"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "product_brand",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_brand?post=1814"
+        },
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_cat?post=1814"
+        },
+        {
+          "taxonomy": "product_tag",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_tag?post=1814"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+}

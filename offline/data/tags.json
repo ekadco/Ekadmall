@@ -1,0 +1,2301 @@
+{
+  "captured_at": "2026-11-11T09:55:26.000Z",
+  "count": 51,
+  "items": [
+    {
+      "id": 139,
+      "count": 7,
+      "description": "",
+      "link": "https://ekadmall.com/product-tag/%d8%ae%d8%b1%db%8c%d8%af-%da%a9%d9%88%d8%af-%da%a9%d8%b4%d8%a7%d9%88%d8%b1%d8%b2%db%8c-%d8%a7%db%8c%d8%b1%d8%a7%d9%86%db%8c/",
+      "name": "خرید کود کشاورزی ایرانی",
+      "slug": "%d8%ae%d8%b1%db%8c%d8%af-%da%a9%d9%88%d8%af-%da%a9%d8%b4%d8%a7%d9%88%d8%b1%d8%b2%db%8c-%d8%a7%db%8c%d8%b1%d8%a7%d9%86%db%8c",
+      "taxonomy": "product_tag",
+      "meta": [],
+      "acf": [],
+      "_links": {
+        "self": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag/139",
+            "targetHints": {
+              "allow": [
+                "GET"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/taxonomies/product_tag"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product?product_tag=139"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 1706,
+      "count": 1,
+      "description": "کود آهسته رهش با پوشش‌های پلیمری، رزینی یا گوگردی طراحی شده است تا مواد مغذی را همگام با نیاز بیولوژیکی گیاه و به تدریج در طول چندین ماه آزاد سازد. این رویکرد از شستشوی عناصر در اثر بارندگی، آبشویی نیترات و سوختگی ریشه‌ها ممانعت کرده و بازده مصرف کود را به طور چشمگیری بهبود می‌دهد.",
+      "link": "https://ekadmall.com/product-tag/%da%a9%d9%88%d8%af-%d8%a2%d9%87%d8%b3%d8%aa%d9%87-%d8%b1%d9%87%d8%b4/",
+      "name": "کود آهسته رهش",
+      "slug": "%da%a9%d9%88%d8%af-%d8%a2%d9%87%d8%b3%d8%aa%d9%87-%d8%b1%d9%87%d8%b4",
+      "taxonomy": "product_tag",
+      "meta": [],
+      "acf": [],
+      "_links": {
+        "self": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag/1706",
+            "targetHints": {
+              "allow": [
+                "GET"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/taxonomies/product_tag"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product?product_tag=1706"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 1684,
+      "count": 14,
+      "description": "",
+      "link": "https://ekadmall.com/product-tag/%da%a9%d9%88%d8%af-%d8%a7%d8%b1%da%af%d8%a7%d9%86%db%8c%da%a9/",
+      "name": "کود ارگانیک",
+      "slug": "%da%a9%d9%88%d8%af-%d8%a7%d8%b1%da%af%d8%a7%d9%86%db%8c%da%a9",
+      "taxonomy": "product_tag",
+      "meta": [],
+      "acf": [],
+      "_links": {
+        "self": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag/1684",
+            "targetHints": {
+              "allow": [
+                "GET"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/taxonomies/product_tag"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product?product_tag=1684"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 1702,
+      "count": 1,
+      "description": "کود استارتر در آغاز دوره کشت و همزمان با بذرکاری، نشاکاری یا غرس نهال استفاده می‌شود تا گیاهچه در حساس‌ترین مرحله زندگی خود به منابع قابل جذب فسفر، روی و ازت دسترسی داشته باشد. این کود با تقویت سیستم ریشه‌زایی اولیه و افزایش توان رقابت با علف‌های هرز، استقرار یکنواخت و تراکم مطلوب مزرعه را تضمین می‌کند.",
+      "link": "https://ekadmall.com/product-tag/%da%a9%d9%88%d8%af-%d8%a7%d8%b3%d8%aa%d8%a7%d8%b1%d8%aa%d8%b1/",
+      "name": "کود استارتر",
+      "slug": "%da%a9%d9%88%d8%af-%d8%a7%d8%b3%d8%aa%d8%a7%d8%b1%d8%aa%d8%b1",
+      "taxonomy": "product_tag",
+      "meta": [],
+      "acf": [],
+      "_links": {
+        "self": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag/1702",
+            "targetHints": {
+              "allow": [
+                "GET"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/taxonomies/product_tag"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product?product_tag=1702"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 1648,
+      "count": 21,
+      "description": "",
+      "link": "https://ekadmall.com/product-tag/%da%a9%d9%88%d8%af-%d8%a7%d8%b5%d9%84%d8%a7%d8%ad-%da%a9%d9%86%d9%86%d8%af%d9%87-%d8%ae%d8%a7%da%a9/",
+      "name": "کود اصلاح کننده خاک",
+      "slug": "%da%a9%d9%88%d8%af-%d8%a7%d8%b5%d9%84%d8%a7%d8%ad-%da%a9%d9%86%d9%86%d8%af%d9%87-%d8%ae%d8%a7%da%a9",
+      "taxonomy": "product_tag",
+      "meta": [],
+      "acf": [],
+      "_links": {
+        "self": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag/1648",
+            "targetHints": {
+              "allow": [
+                "GET"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/taxonomies/product_tag"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product?product_tag=1648"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 194,
+      "count": 10,
+      "description": "کود افزایش باردهی حاوی توازن ویژه‌ای از عناصر ماکرو، میکرو، اسیدهای آمینه و بیواستیمولانت‌ها است که از مراحل ابتدایی تمایز جوانه‌ها، گل‌انگیزی تا تشکیل میوه و تثبیت بار کاربرد دارد. این کودها با تقویت ظرفیت فتوسنتزی، کاهش سال‌آوری و اصلاح تعادل هورمونی گیاه، میزان تبدیل گل به میوه و حجم نهایی محصول برداشتی را به شکل چشمگیری افزایش می‌دهند.",
+      "link": "https://ekadmall.com/product-tag/%da%a9%d9%88%d8%af-%d8%a7%d9%81%d8%b2%d8%a7%db%8c%d8%b4-%d8%a8%d8%a7%d8%b1%d8%af%d9%87%db%8c/",
+      "name": "کود افزایش باردهی",
+      "slug": "%da%a9%d9%88%d8%af-%d8%a7%d9%81%d8%b2%d8%a7%db%8c%d8%b4-%d8%a8%d8%a7%d8%b1%d8%af%d9%87%db%8c",
+      "taxonomy": "product_tag",
+      "meta": [],
+      "acf": [],
+      "_links": {
+        "self": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag/194",
+            "targetHints": {
+              "allow": [
+                "GET"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/taxonomies/product_tag"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product?product_tag=194"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 1686,
+      "count": 1,
+      "description": "کود افزایش تناژ مجموعه‌ای از کودهای سرشار از پتاسیم قابل جذب، اسیدهای آمینه آزاد و عصاره‌های محرک رشد است که در فاز حجیم‌سازی، انتقال ترکیبات فتوسنتزی و پر شدن بافت‌های رویشی و زایشی مصرف می‌شوند. استفاده بهینه از این ترکیبات سرعت انتقال هیدرات‌های کربن از برگ‌ها به مخزن‌های نهایی (میوه، دانه و غده) را افزایش داده و سبب سنگین‌شدن، بهبود شاخص برداشت و افزایش تناژ کل در هکتار می‌گردد.",
+      "link": "https://ekadmall.com/product-tag/%da%a9%d9%88%d8%af-%d8%a7%d9%81%d8%b2%d8%a7%db%8c%d8%b4-%d8%aa%d9%86%d8%a7%da%98/",
+      "name": "کود افزایش تناژ",
+      "slug": "%da%a9%d9%88%d8%af-%d8%a7%d9%81%d8%b2%d8%a7%db%8c%d8%b4-%d8%aa%d9%86%d8%a7%da%98",
+      "taxonomy": "product_tag",
+      "meta": [],
+      "acf": [],
+      "_links": {
+        "self": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag/1686",
+            "targetHints": {
+              "allow": [
+                "GET"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/taxonomies/product_tag"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product?product_tag=1686"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 199,
+      "count": 1,
+      "description": "",
+      "link": "https://ekadmall.com/product-tag/%da%a9%d9%88%d8%af-%d8%a7%d9%81%d8%b2%d8%a7%db%8c%d8%b4-%d8%b3%d8%a7%db%8c%d8%b2-%d9%85%db%8c%d9%88%d9%87/",
+      "name": "کود افزایش سایز میوه",
+      "slug": "%da%a9%d9%88%d8%af-%d8%a7%d9%81%d8%b2%d8%a7%db%8c%d8%b4-%d8%b3%d8%a7%db%8c%d8%b2-%d9%85%db%8c%d9%88%d9%87",
+      "taxonomy": "product_tag",
+      "meta": [],
+      "acf": [],
+      "_links": {
+        "self": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag/199",
+            "targetHints": {
+              "allow": [
+                "GET"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/taxonomies/product_tag"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product?product_tag=199"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 1687,
+      "count": 3,
+      "description": "کود افزایش قند و شیرینی با تمرکز بر پتاسیم با درصد خلوص بالا، گوگرد و عناصر ریزمغذی نظیر روی و بور فرموله شده است. این ترکیبات با فعال‌سازی آنزیم‌های دخیل در مسیرهای بیوسنتز قندها و تسهیل انتقال ساکاروز به سمت میوه‌ها، سبب افزایش درجه بریکس (Brix)، شیرین‌تر شدن طعم میوه و ارتقای چشمگیر ارزش تجاری و ماندگاری پس از برداشت می‌شوند.",
+      "link": "https://ekadmall.com/product-tag/%da%a9%d9%88%d8%af-%d8%a7%d9%81%d8%b2%d8%a7%db%8c%d8%b4-%d9%82%d9%86%d8%af-%d9%88-%d8%b4%db%8c%d8%b1%db%8c%d9%86%db%8c/",
+      "name": "کود افزایش قند و شیرینی",
+      "slug": "%da%a9%d9%88%d8%af-%d8%a7%d9%81%d8%b2%d8%a7%db%8c%d8%b4-%d9%82%d9%86%d8%af-%d9%88-%d8%b4%db%8c%d8%b1%db%8c%d9%86%db%8c",
+      "taxonomy": "product_tag",
+      "meta": [],
+      "acf": [],
+      "_links": {
+        "self": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag/1687",
+            "targetHints": {
+              "allow": [
+                "GET"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/taxonomies/product_tag"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product?product_tag=1687"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 198,
+      "count": 6,
+      "description": "کود افزایش گلدهی با ایجاد تعادل هورمونی به نفع فاز زایشی و تامین مقادیر کافی از عنصر فسفر، روی و اسیدهای آمینه اختصاصی، تمایز جوانه‌های رویشی به زایشی را سرعت می‌بخشد. استفاده از این کودها شمار خوشه‌ها، تعداد گل‌های باز شده سالم و درصد تبدیل آنها به میوه اولیه را به میزان قابل توجهی ارتقا می‌دهد.",
+      "link": "https://ekadmall.com/product-tag/%da%a9%d9%88%d8%af-%d8%a7%d9%81%d8%b2%d8%a7%db%8c%d8%b4-%da%af%d9%84%d8%af%d9%87%db%8c/",
+      "name": "کود افزایش گلدهی",
+      "slug": "%da%a9%d9%88%d8%af-%d8%a7%d9%81%d8%b2%d8%a7%db%8c%d8%b4-%da%af%d9%84%d8%af%d9%87%db%8c",
+      "taxonomy": "product_tag",
+      "meta": [],
+      "acf": [],
+      "_links": {
+        "self": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag/198",
+            "targetHints": {
+              "allow": [
+                "GET"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/taxonomies/product_tag"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product?product_tag=198"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 135,
+      "count": 26,
+      "description": "",
+      "link": "https://ekadmall.com/product-tag/%da%a9%d9%88%d8%af-%d9%be%d8%aa%d8%a7%d8%b3-%d8%a8%d8%a7%d9%84%d8%a7/",
+      "name": "کود پتاس بالا",
+      "slug": "%da%a9%d9%88%d8%af-%d9%be%d8%aa%d8%a7%d8%b3-%d8%a8%d8%a7%d9%84%d8%a7",
+      "taxonomy": "product_tag",
+      "meta": [],
+      "acf": [],
+      "_links": {
+        "self": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag/135",
+            "targetHints": {
+              "allow": [
+                "GET"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/taxonomies/product_tag"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product?product_tag=135"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 1693,
+      "count": 3,
+      "description": "کود پر کننده دانه در مزارع غلات، حبوبات و دانه‌های روغنی پس از مرحله گرده‌افشانی و در فاز شیری و خمیری دانه مصرف می‌شود. این کودها از طریق افزایش سرعت انتقال مواد پرورده از ساقه و برگ پرچم به خوشه‌ها، وزن هزار دانه را افزایش داده و از لاغر ماندن و چروکیدگی دانه‌ها بر اثر تنش‌های انتهایی فصل جلوگیری می‌کنند.",
+      "link": "https://ekadmall.com/product-tag/%da%a9%d9%88%d8%af-%d9%be%d8%b1-%da%a9%d9%86%d9%86%d8%af%d9%87-%d8%af%d8%a7%d9%86%d9%87/",
+      "name": "کود پر کننده دانه",
+      "slug": "%da%a9%d9%88%d8%af-%d9%be%d8%b1-%da%a9%d9%86%d9%86%d8%af%d9%87-%d8%af%d8%a7%d9%86%d9%87",
+      "taxonomy": "product_tag",
+      "meta": [],
+      "acf": [],
+      "_links": {
+        "self": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag/1693",
+            "targetHints": {
+              "allow": [
+                "GET"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/taxonomies/product_tag"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product?product_tag=1693"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 1692,
+      "count": 1,
+      "description": "کود پر کننده مغز برای محصولات آجیلی و هسته‌دار مانند پسته، گردو و بادام نقشی حیاتی در پر شدن سلول‌های جنین و پوسته‌گیری داخلی ایفا می‌کند. مصرف این ترکیبات در مراحل حساس پر کردن مغز، نرخ پوکی و نیم‌مغز شدن را به حداقل رسانده و چگالی و درصد چربی و پروتئین مغز میوه را ارتقا می‌دهد.",
+      "link": "https://ekadmall.com/product-tag/%da%a9%d9%88%d8%af-%d9%be%d8%b1-%da%a9%d9%86%d9%86%d8%af%d9%87-%d9%85%d8%ba%d8%b2/",
+      "name": "کود پر کننده مغز",
+      "slug": "%da%a9%d9%88%d8%af-%d9%be%d8%b1-%da%a9%d9%86%d9%86%d8%af%d9%87-%d9%85%d8%ba%d8%b2",
+      "taxonomy": "product_tag",
+      "meta": [],
+      "acf": [],
+      "_links": {
+        "self": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag/1692",
+            "targetHints": {
+              "allow": [
+                "GET"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/taxonomies/product_tag"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product?product_tag=1692"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 1704,
+      "count": 1,
+      "description": "کود پنجه زنی در مراحل ابتدایی رشد رویشی غلات دانه ریز به ویژه گندم، جو و برنج مورد استفاده قرار می‌گیرد. فرمولاسیون این کودها متکی بر فسفر، ازت قابل جذب، روی و تنظیم‌کننده‌های سایتوکینینی است که تعداد پنجه‌های زایا و بارور در هر بوته را چند برابر کرده و پایه‌ای محکم برای دستیابی به تناژ بالا پی‌ریزی می‌نمایند.",
+      "link": "https://ekadmall.com/product-tag/%da%a9%d9%88%d8%af-%d9%be%d9%86%d8%ac%d9%87-%d8%b2%d9%86%db%8c/",
+      "name": "کود پنجه زنی",
+      "slug": "%da%a9%d9%88%d8%af-%d9%be%d9%86%d8%ac%d9%87-%d8%b2%d9%86%db%8c",
+      "taxonomy": "product_tag",
+      "meta": [],
+      "acf": [],
+      "_links": {
+        "self": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag/1704",
+            "targetHints": {
+              "allow": [
+                "GET"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/taxonomies/product_tag"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product?product_tag=1704"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 1678,
+      "count": 25,
+      "description": "",
+      "link": "https://ekadmall.com/product-tag/%da%a9%d9%88%d8%af-%d9%be%d9%88%d8%af%d8%b1%db%8c/",
+      "name": "کود پودری",
+      "slug": "%da%a9%d9%88%d8%af-%d9%be%d9%88%d8%af%d8%b1%db%8c",
+      "taxonomy": "product_tag",
+      "meta": [],
+      "acf": [],
+      "_links": {
+        "self": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag/1678",
+            "targetHints": {
+              "allow": [
+                "GET"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/taxonomies/product_tag"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product?product_tag=1678"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 200,
+      "count": 27,
+      "description": "",
+      "link": "https://ekadmall.com/product-tag/%da%a9%d9%88%d8%af-%d8%aa%d9%82%d9%88%db%8c%d8%aa-%d8%b1%d8%b4%d8%af-%da%af%db%8c%d8%a7%d9%87/",
+      "name": "کود تقویت رشد گیاه",
+      "slug": "%da%a9%d9%88%d8%af-%d8%aa%d9%82%d9%88%db%8c%d8%aa-%d8%b1%d8%b4%d8%af-%da%af%db%8c%d8%a7%d9%87",
+      "taxonomy": "product_tag",
+      "meta": [],
+      "acf": [],
+      "_links": {
+        "self": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag/200",
+            "targetHints": {
+              "allow": [
+                "GET"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/taxonomies/product_tag"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product?product_tag=200"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 193,
+      "count": 13,
+      "description": "",
+      "link": "https://ekadmall.com/product-tag/%da%a9%d9%88%d8%af-%d8%aa%d9%82%d9%88%db%8c%d8%aa-%d8%b1%db%8c%d8%b4%d9%87/",
+      "name": "کود تقویت ریشه",
+      "slug": "%da%a9%d9%88%d8%af-%d8%aa%d9%82%d9%88%db%8c%d8%aa-%d8%b1%db%8c%d8%b4%d9%87",
+      "taxonomy": "product_tag",
+      "meta": [],
+      "acf": [],
+      "_links": {
+        "self": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag/193",
+            "targetHints": {
+              "allow": [
+                "GET"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/taxonomies/product_tag"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product?product_tag=193"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 206,
+      "count": 10,
+      "description": "",
+      "link": "https://ekadmall.com/product-tag/%da%a9%d9%88%d8%af-%d8%ab%d8%a8%d8%aa-%d8%b4%d8%af%d9%87/",
+      "name": "کود ثبت شده",
+      "slug": "%da%a9%d9%88%d8%af-%d8%ab%d8%a8%d8%aa-%d8%b4%d8%af%d9%87",
+      "taxonomy": "product_tag",
+      "meta": [],
+      "acf": [],
+      "_links": {
+        "self": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag/206",
+            "targetHints": {
+              "allow": [
+                "GET"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/taxonomies/product_tag"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product?product_tag=206"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 1694,
+      "count": 4,
+      "description": "کود جلوگیری از ریزش گل از فرمولاسیون‌های اختصاصی غنی از بور (B)، روی (Zn)، مولیبدن و اسیدهای آمینه تشکیل شده است که فرآیند تشکیل لوله گرده، زنده ماندن کلاله و لقاح کامل را تضمین می‌کنند. مصرف این محصول در زمان تورم جوانه‌ها یا قبل از باز شدن کامل گل‌ها، تشکیل لایه جداکننده در دمگل را مهار کرده و ماندگاری گل‌ها را بالا می‌برد.",
+      "link": "https://ekadmall.com/product-tag/%da%a9%d9%88%d8%af-%d8%ac%d9%84%d9%88%da%af%db%8c%d8%b1%db%8c-%d8%a7%d8%b2-%d8%b1%db%8c%d8%b2%d8%b4-%da%af%d9%84/",
+      "name": "کود جلوگیری از ریزش گل",
+      "slug": "%da%a9%d9%88%d8%af-%d8%ac%d9%84%d9%88%da%af%db%8c%d8%b1%db%8c-%d8%a7%d8%b2-%d8%b1%db%8c%d8%b2%d8%b4-%da%af%d9%84",
+      "taxonomy": "product_tag",
+      "meta": [],
+      "acf": [],
+      "_links": {
+        "self": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag/1694",
+            "targetHints": {
+              "allow": [
+                "GET"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/taxonomies/product_tag"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product?product_tag=1694"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 201,
+      "count": 6,
+      "description": "کود جلوگیری از ریزش میوه به منظور پیشگیری از ریزش‌های فیزیولوژیک در ماه‌های اول پس از تشکیل میوه (ریزش خردادماه) و همچنین ریزش قبل از برداشت تدوین شده است. وجود کلسیم قابل جذب، بور و عناصر مهارکننده هورمون اتیلن در این کودها، استحکام دم میوه را افزایش داده و مانع از جدا شدن زودرس میوه‌ها از شاخه می‌گردد.",
+      "link": "https://ekadmall.com/product-tag/%da%a9%d9%88%d8%af-%d8%ac%d9%84%d9%88%da%af%db%8c%d8%b1%db%8c-%d8%a7%d8%b2-%d8%b1%db%8c%d8%b2%d8%b4-%d9%85%db%8c%d9%88%d9%87/",
+      "name": "کود جلوگیری از ریزش میوه",
+      "slug": "%da%a9%d9%88%d8%af-%d8%ac%d9%84%d9%88%da%af%db%8c%d8%b1%db%8c-%d8%a7%d8%b2-%d8%b1%db%8c%d8%b2%d8%b4-%d9%85%db%8c%d9%88%d9%87",
+      "taxonomy": "product_tag",
+      "meta": [],
+      "acf": [],
+      "_links": {
+        "self": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag/201",
+            "targetHints": {
+              "allow": [
+                "GET"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/taxonomies/product_tag"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product?product_tag=201"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 1700,
+      "count": 9,
+      "description": "کود چالکود به عنوان تغذیه بنیادین باغات در فصل خواب زمستانه در شیارها و چاله‌های حفر شده پیرامون سایه‌انداز درختان جای‌گذاری می‌شود. این کودها عموماً ترکیبی از گوگرد، کودهای دامی یا کمپوست غنی‌شده، فسفات، پتاس و ریزمغذی‌ها هستند که ضمن اصلاح موضعی خاک، سفره غذایی غنی و پایداری را برای بیداری بهاره ریشه‌ها فراهم می‌کنند.\r\n<ul>\r\n \t<li><strong>بهترین کود برای چالکود زمستانه</strong></li>\r\n \t<li><strong>بهترین کود برای چالکود درختان میوه</strong></li>\r\n \t<li><strong>مقدار کود برای چالکود</strong></li>\r\n \t<li><strong>فاصله چالکود از تنه درخت</strong></li>\r\n \t<li><strong>بهترین کود چالکود مرکبات</strong></li>\r\n \t<li><strong>خرید کود مخصوص چالکود</strong></li>\r\n</ul>",
+      "link": "https://ekadmall.com/product-tag/%da%a9%d9%88%d8%af-%da%86%d8%a7%d9%84%da%a9%d9%88%d8%af/",
+      "name": "کود چالکود",
+      "slug": "%da%a9%d9%88%d8%af-%da%86%d8%a7%d9%84%da%a9%d9%88%d8%af",
+      "taxonomy": "product_tag",
+      "meta": [],
+      "acf": [],
+      "_links": {
+        "self": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag/1700",
+            "targetHints": {
+              "allow": [
+                "GET"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/taxonomies/product_tag"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product?product_tag=1700"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 202,
+      "count": 78,
+      "description": "",
+      "link": "https://ekadmall.com/product-tag/%da%a9%d9%88%d8%af-%d8%af%d8%a7%d8%b1%d8%a7%db%8c-%d8%a2%d9%86%d8%a7%d9%84%db%8c%d8%b2/",
+      "name": "کود دارای آنالیز",
+      "slug": "%da%a9%d9%88%d8%af-%d8%af%d8%a7%d8%b1%d8%a7%db%8c-%d8%a2%d9%86%d8%a7%d9%84%db%8c%d8%b2",
+      "taxonomy": "product_tag",
+      "meta": [],
+      "acf": [],
+      "_links": {
+        "self": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag/202",
+            "targetHints": {
+              "allow": [
+                "GET"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/taxonomies/product_tag"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product?product_tag=202"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 1690,
+      "count": 4,
+      "description": "کود درشت کننده میوه با تحریک فرآیندهای سنتز پروتئین و تورژسانس سلولی، سایز نهایی میوه‌ها و مرکبات را افزایش می‌دهد. این کودها بر پایه ترکیباتی نظیر پتاسیم ارگانیک، جلبک دریایی، اسیدهای آمینه تخصصی و کلسیم تولید شده و بدون ایجاد بافت اسفنجی، میوه‌هایی یکدست، بازارپسند و با وزن حجمی ایده‌آل به عمل می‌آورند.",
+      "link": "https://ekadmall.com/product-tag/%da%a9%d9%88%d8%af-%d8%af%d8%b1%d8%b4%d8%aa-%da%a9%d9%86%d9%86%d8%af%d9%87-%d9%85%db%8c%d9%88%d9%87/",
+      "name": "کود درشت کننده میوه",
+      "slug": "%da%a9%d9%88%d8%af-%d8%af%d8%b1%d8%b4%d8%aa-%da%a9%d9%86%d9%86%d8%af%d9%87-%d9%85%db%8c%d9%88%d9%87",
+      "taxonomy": "product_tag",
+      "meta": [],
+      "acf": [],
+      "_links": {
+        "self": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag/1690",
+            "targetHints": {
+              "allow": [
+                "GET"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/taxonomies/product_tag"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product?product_tag=1690"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 203,
+      "count": 5,
+      "description": "کود رفع زردی برگ بر مبنای برطرف‌سازی کمبودهای متداول کلروز گیاهی شامل فقر آهن، منیزیم، منگنز، نیتروژن و روی طراحی شده است. فرمول‌های کلاته و قابل جذب این دسته، فرآیند سنتز کلروفیل و زنجیره انتقال الکترون فتوسنتزی را به سرعت احیا کرده و برگ‌های زرد شده را مجدداً به رنگ سبز شاداب و فعال بازمی‌گردانند.",
+      "link": "https://ekadmall.com/product-tag/%da%a9%d9%88%d8%af-%d8%b1%d9%81%d8%b9-%d8%b2%d8%b1%d8%af%db%8c-%d8%a8%d8%b1%da%af/",
+      "name": "کود رفع زردی برگ",
+      "slug": "%da%a9%d9%88%d8%af-%d8%b1%d9%81%d8%b9-%d8%b2%d8%b1%d8%af%db%8c-%d8%a8%d8%b1%da%af",
+      "taxonomy": "product_tag",
+      "meta": [],
+      "acf": [],
+      "_links": {
+        "self": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag/203",
+            "targetHints": {
+              "allow": [
+                "GET"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/taxonomies/product_tag"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product?product_tag=203"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 195,
+      "count": 5,
+      "description": "",
+      "link": "https://ekadmall.com/product-tag/%da%a9%d9%88%d8%af-%d8%b1%d9%81%d8%b9-%da%a9%d9%85%d8%a8%d9%88%d8%af-%d8%a2%d9%87%d9%86/",
+      "name": "کود رفع کمبود آهن",
+      "slug": "%da%a9%d9%88%d8%af-%d8%b1%d9%81%d8%b9-%da%a9%d9%85%d8%a8%d9%88%d8%af-%d8%a2%d9%87%d9%86",
+      "taxonomy": "product_tag",
+      "meta": [],
+      "acf": [],
+      "_links": {
+        "self": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag/195",
+            "targetHints": {
+              "allow": [
+                "GET"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/taxonomies/product_tag"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product?product_tag=195"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 1710,
+      "count": 3,
+      "description": "کود رنگ آوری ابزاری موثر در مدیریت انتهای فصل باغبانی جهت هماهنگ‌سازی زمان رسیدن و دستیابی به درخشان‌ترین طیف رنگی میوه‌ها است. استفاده از این ترکیبات در مراحل فینیشینگ، دوره ماندگاری روی شاخه را کاهش داده، هزینه‌های نیروی کار برای برداشت‌های چندباره را حذف و محصولی کاملاً چشم‌نواز و یکدست عرضه می‌نماید.",
+      "link": "https://ekadmall.com/product-tag/%da%a9%d9%88%d8%af-%d8%b1%d9%86%da%af-%d8%a2%d9%88%d8%b1%db%8c/",
+      "name": "کود رنگ آوری",
+      "slug": "%da%a9%d9%88%d8%af-%d8%b1%d9%86%da%af-%d8%a2%d9%88%d8%b1%db%8c",
+      "taxonomy": "product_tag",
+      "meta": [],
+      "acf": [],
+      "_links": {
+        "self": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag/1710",
+            "targetHints": {
+              "allow": [
+                "GET"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/taxonomies/product_tag"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product?product_tag=1710"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 1689,
+      "count": 1,
+      "description": "کود ریشه زا با برخورداری از درصدهای متناسب فسفر محلول، ترکیبات آلی، اسیدهای فولویک و اکسین‌های طبیعی، موجب تحریک تقسیم سلولی در مریستم‌های ریشه و تولید ریشه‌های موئین جدید می‌گردد. استفاده از این ترکیبات در مراحل نشاکاری، کاشت نهال و ابتدای فصل رشد، استقرار سریع گیاه و بهبود جذب آب و مواد غذایی را به دنبال دارد.",
+      "link": "https://ekadmall.com/product-tag/%da%a9%d9%88%d8%af-%d8%b1%db%8c%d8%b4%d9%87-%d8%b2%d8%a7/",
+      "name": "کود ریشه زا",
+      "slug": "%da%a9%d9%88%d8%af-%d8%b1%db%8c%d8%b4%d9%87-%d8%b2%d8%a7",
+      "taxonomy": "product_tag",
+      "meta": [],
+      "acf": [],
+      "_links": {
+        "self": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag/1689",
+            "targetHints": {
+              "allow": [
+                "GET"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/taxonomies/product_tag"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product?product_tag=1689"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 1701,
+      "count": 3,
+      "description": "کود زمان گلدهی با در نظر گرفتن حساسیت‌های متابولیکی مرحله گرده‌افشانی و لقاح فرموله شده است. این کودها فاقد عناصر سنگین و ترکیبات سوزاننده بوده و از طریق تامین مقادیر معتدل فسفر، پتاس، بور و آمینواسیدهای خالص، انرژی بیولوژیک مورد نیاز باز شدن شکوفه‌ها و تشکیل میوهچه را بدون ریسک گیاه‌سوزی تامین می‌نمایند.",
+      "link": "https://ekadmall.com/product-tag/%da%a9%d9%88%d8%af-%d8%b2%d9%85%d8%a7%d9%86-%da%af%d9%84%d8%af%d9%87%db%8c/",
+      "name": "کود زمان گلدهی",
+      "slug": "%da%a9%d9%88%d8%af-%d8%b2%d9%85%d8%a7%d9%86-%da%af%d9%84%d8%af%d9%87%db%8c",
+      "taxonomy": "product_tag",
+      "meta": [],
+      "acf": [],
+      "_links": {
+        "self": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag/1701",
+            "targetHints": {
+              "allow": [
+                "GET"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/taxonomies/product_tag"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product?product_tag=1701"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 1703,
+      "count": 5,
+      "description": "کود سرک به کودی اطلاق می‌شود که در طول فصل رشد فعال و پس از سبز شدن محصول، به همراه آب آبیاری یا به شکل پخش سطحی در اختیار بوته‌ها قرار می‌گیرد. کودهای سرک با رهایش سریع عناصر کلیدی چون ازت و پتاس، افت انرژی بوته در مقاطع اوج رشد رویشی یا پر کردن دانه را بی‌درنگ جبران می‌کنند.",
+      "link": "https://ekadmall.com/product-tag/%da%a9%d9%88%d8%af-%d8%b3%d8%b1%da%a9/",
+      "name": "کود سرک",
+      "slug": "%da%a9%d9%88%d8%af-%d8%b3%d8%b1%da%a9",
+      "taxonomy": "product_tag",
+      "meta": [],
+      "acf": [],
+      "_links": {
+        "self": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag/1703",
+            "targetHints": {
+              "allow": [
+                "GET"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/taxonomies/product_tag"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product?product_tag=1703"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 1698,
+      "count": 6,
+      "description": "کود سفت کننده میوه با ارائه مقادیر متعادل کلسیم قابل جذب و ترکیبات کلات‌کننده، پکتین موجود در تیغه میانی سلول‌های گیاهی را متراکم و غیرقابل نفوذ می‌نماید. استفاده از این محصولات از آبکی شدن و لهیدگی بافت جلوگیری کرده، تحمل مکانیکی در طول ترابری را تقویت و عمر نگهداری در سردخانه را به حداکثر می‌رساند.",
+      "link": "https://ekadmall.com/product-tag/%da%a9%d9%88%d8%af-%d8%b3%d9%81%d8%aa-%da%a9%d9%86%d9%86%d8%af%d9%87-%d9%85%db%8c%d9%88%d9%87/",
+      "name": "کود سفت کننده میوه",
+      "slug": "%da%a9%d9%88%d8%af-%d8%b3%d9%81%d8%aa-%da%a9%d9%86%d9%86%d8%af%d9%87-%d9%85%db%8c%d9%88%d9%87",
+      "taxonomy": "product_tag",
+      "meta": [],
+      "acf": [],
+      "_links": {
+        "self": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag/1698",
+            "targetHints": {
+              "allow": [
+                "GET"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/taxonomies/product_tag"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product?product_tag=1698"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 1699,
+      "count": 2,
+      "description": "کود سه بیست (۲۰-۲۰-۲۰) یکی از جامع‌ترین فرمولاسیون‌های کودی متوازن در کشاورزی مدرن است که نسبت مساوی از نیتروژن، فسفر و پتاسیم را به همراه عناصر کم‌مصرف در اختیار ریشه و اندام هوایی قرار می‌دهد. این کود برای کلیه مراحل رشدی و پیشگیری از هرگونه کمبود عمومی، هم در سیستم آبیاری و هم به روش محلول‌پاشی ایده‌آل است.",
+      "link": "https://ekadmall.com/product-tag/%da%a9%d9%88%d8%af-%d8%b3%d9%87-%d8%a8%db%8c%d8%b3%d8%aa/",
+      "name": "کود سه بیست",
+      "slug": "%da%a9%d9%88%d8%af-%d8%b3%d9%87-%d8%a8%db%8c%d8%b3%d8%aa",
+      "taxonomy": "product_tag",
+      "meta": [],
+      "acf": [],
+      "_links": {
+        "self": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag/1699",
+            "targetHints": {
+              "allow": [
+                "GET"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/taxonomies/product_tag"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product?product_tag=1699"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 1697,
+      "count": 1,
+      "description": "کود ضد آفتاب سوختگی شامل فرمولاسیون‌های بر پایه سیلیکات، ترکیبات کلسیمی و آنتی‌اکسیدان‌های قوی است که هم به صورت محافظ فیزیکی در برابر پرتوهای ماوراء بنفش (UV) و هم به صورت فعال‌کننده مکانیسم‌های خنک‌سازی بافت عمل می‌کنند. مصرف این فرآورده‌ها از تخریب دیواره سلولی پوست میوه و سیاه‌شدگی یا تاول‌زدگی بافت ممانعت به عمل می‌آورد.",
+      "link": "https://ekadmall.com/product-tag/%da%a9%d9%88%d8%af-%d8%b6%d8%af-%d8%a2%d9%81%d8%aa%d8%a7%d8%a8-%d8%b3%d9%88%d8%ae%d8%aa%da%af%db%8c/",
+      "name": "کود ضد آفتاب سوختگی",
+      "slug": "%da%a9%d9%88%d8%af-%d8%b6%d8%af-%d8%a2%d9%81%d8%aa%d8%a7%d8%a8-%d8%b3%d9%88%d8%ae%d8%aa%da%af%db%8c",
+      "taxonomy": "product_tag",
+      "meta": [],
+      "acf": [],
+      "_links": {
+        "self": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag/1697",
+            "targetHints": {
+              "allow": [
+                "GET"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/taxonomies/product_tag"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product?product_tag=1697"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 1708,
+      "count": 3,
+      "description": "کود ضد استرس و تنش راهکار پیشگیرانه و درمانی برای مواجهه گیاهان با تنش‌های زنده و غیرزنده (خشکی، گرمازدگی، خسارت سموم و بیماری‌ها) است. غلظت بالای اسیدهای آمینه آزاد و آنتی‌اکسیدان‌ها در این کودها، رادیکال‌های آزاد مخرب را مهار کرده و گیاه را قادر می‌سازد با کمترین افت انرژی از بحران تنش عبور نماید.",
+      "link": "https://ekadmall.com/product-tag/%da%a9%d9%88%d8%af-%d8%b6%d8%af-%d8%a7%d8%b3%d8%aa%d8%b1%d8%b3-%d9%88-%d8%aa%d9%86%d8%b4/",
+      "name": "کود ضد استرس و تنش",
+      "slug": "%da%a9%d9%88%d8%af-%d8%b6%d8%af-%d8%a7%d8%b3%d8%aa%d8%b1%d8%b3-%d9%88-%d8%aa%d9%86%d8%b4",
+      "taxonomy": "product_tag",
+      "meta": [],
+      "acf": [],
+      "_links": {
+        "self": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag/1708",
+            "targetHints": {
+              "allow": [
+                "GET"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/taxonomies/product_tag"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product?product_tag=1708"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 196,
+      "count": 14,
+      "description": "",
+      "link": "https://ekadmall.com/product-tag/%da%a9%d9%88%d8%af-%d8%b6%d8%af-%d8%aa%d9%86%d8%b4/",
+      "name": "کود ضد تنش",
+      "slug": "%da%a9%d9%88%d8%af-%d8%b6%d8%af-%d8%aa%d9%86%d8%b4",
+      "taxonomy": "product_tag",
+      "meta": [],
+      "acf": [],
+      "_links": {
+        "self": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag/196",
+            "targetHints": {
+              "allow": [
+                "GET"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/taxonomies/product_tag"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product?product_tag=196"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 1696,
+      "count": 1,
+      "description": "کود ضد سرمازدگی با غلظت‌بخشی به شیره سلولی و افزایش تجمع اسید آمینه پرولین، پلی‌ساکاریدها و یون‌های پتاسیم، نقطه انجماد سلول‌های گیاهی را کاهش می‌دهد. محلول‌پاشی این ترکیبات قبل از وقوع موج‌های سرمای دیررس بهاره یا زمستانه، مقاومت غشاهای سلولی را ارتقا داده و آسیب ناشی از یخ‌زدگی بافت‌ها را مهار می‌سازد.",
+      "link": "https://ekadmall.com/product-tag/%da%a9%d9%88%d8%af-%d8%b6%d8%af-%d8%b3%d8%b1%d9%85%d8%a7%d8%b2%d8%af%da%af%db%8c/",
+      "name": "کود ضد سرمازدگی",
+      "slug": "%da%a9%d9%88%d8%af-%d8%b6%d8%af-%d8%b3%d8%b1%d9%85%d8%a7%d8%b2%d8%af%da%af%db%8c",
+      "taxonomy": "product_tag",
+      "meta": [],
+      "acf": [],
+      "_links": {
+        "self": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag/1696",
+            "targetHints": {
+              "allow": [
+                "GET"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/taxonomies/product_tag"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product?product_tag=1696"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 1695,
+      "count": 6,
+      "description": "کود ضد شوری یا ترکیبات اصلاح‌کننده خاک‌های شور و سدیمی، با آزادسازی یون‌های کلسیم فعال و کمپلکس‌کننده‌های طبیعی، یون سدیم مضر را از کلوئیدهای خاک جدا کرده و زمینه آبشویی آن را فراهم می‌سازند. این کودها اثر سمیت نمک‌ها بر ریشه‌ها را کاهش داده و نفوذپذیری آب و جذب عناصر را در شرایط تنش شوری احیا می‌کنند.",
+      "link": "https://ekadmall.com/product-tag/%da%a9%d9%88%d8%af-%d8%b6%d8%af-%d8%b4%d9%88%d8%b1%db%8c/",
+      "name": "کود ضد شوری",
+      "slug": "%da%a9%d9%88%d8%af-%d8%b6%d8%af-%d8%b4%d9%88%d8%b1%db%8c",
+      "taxonomy": "product_tag",
+      "meta": [],
+      "acf": [],
+      "_links": {
+        "self": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag/1695",
+            "targetHints": {
+              "allow": [
+                "GET"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/taxonomies/product_tag"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product?product_tag=1695"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 1688,
+      "count": 1,
+      "description": "کود ضد ورس به منظور مقابله با پدیده خوابیدگی و شکستن ساقه‌ها به‌ویژه در مزارع غلات، کلزا و برنج به کار می‌رود. این ترکیبات عمدتاً بر پایه سیلیسیم (سیلیکات پتاسیم)، کلسیم و پتاسیم تهیه شده و با ضخیم‌تر کردن دیواره‌های سلولی، افزایش لیگنین‌سازی در بافت‌های نگهدارنده ساقه و کاهش اثرات مصرف بیش از حد ازت، مانع ورس در اثر وزش باد و بارندگی‌های شدید می‌شوند.",
+      "link": "https://ekadmall.com/product-tag/%da%a9%d9%88%d8%af-%d8%b6%d8%af-%d9%88%d8%b1%d8%b3/",
+      "name": "کود ضد ورس",
+      "slug": "%da%a9%d9%88%d8%af-%d8%b6%d8%af-%d9%88%d8%b1%d8%b3",
+      "taxonomy": "product_tag",
+      "meta": [],
+      "acf": [],
+      "_links": {
+        "self": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag/1688",
+            "targetHints": {
+              "allow": [
+                "GET"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/taxonomies/product_tag"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product?product_tag=1688"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 134,
+      "count": 14,
+      "description": "",
+      "link": "https://ekadmall.com/product-tag/%da%a9%d9%88%d8%af-%d9%81%d8%b3%d9%81%d8%b1-%d8%a8%d8%a7%d9%84%d8%a7/",
+      "name": "کود فسفر بالا",
+      "slug": "%da%a9%d9%88%d8%af-%d9%81%d8%b3%d9%81%d8%b1-%d8%a8%d8%a7%d9%84%d8%a7",
+      "taxonomy": "product_tag",
+      "meta": [],
+      "acf": [],
+      "_links": {
+        "self": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag/134",
+            "targetHints": {
+              "allow": [
+                "GET"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/taxonomies/product_tag"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product?product_tag=134"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 204,
+      "count": 4,
+      "description": "",
+      "link": "https://ekadmall.com/product-tag/%da%a9%d9%88%d8%af-%da%a9%d8%a7%d9%87%d8%b4-%d8%b4%d9%88%d8%b1%db%8c-%d8%ae%d8%a7%da%a9/",
+      "name": "کود کاهش شوری خاک",
+      "slug": "%da%a9%d9%88%d8%af-%da%a9%d8%a7%d9%87%d8%b4-%d8%b4%d9%88%d8%b1%db%8c-%d8%ae%d8%a7%da%a9",
+      "taxonomy": "product_tag",
+      "meta": [],
+      "acf": [],
+      "_links": {
+        "self": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag/204",
+            "targetHints": {
+              "allow": [
+                "GET"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/taxonomies/product_tag"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product?product_tag=204"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 138,
+      "count": 1,
+      "description": "",
+      "link": "https://ekadmall.com/product-tag/%da%a9%d9%88%d8%af-%da%a9%d8%b4%d8%a7%d9%88%d8%b1%d8%b2%db%8c-%d8%ae%d8%a7%d8%b1%d8%ac%db%8c-%d8%a7%d8%b5%d9%84/",
+      "name": "کود کشاورزی خارجی اصل",
+      "slug": "%da%a9%d9%88%d8%af-%da%a9%d8%b4%d8%a7%d9%88%d8%b1%d8%b2%db%8c-%d8%ae%d8%a7%d8%b1%d8%ac%db%8c-%d8%a7%d8%b5%d9%84",
+      "taxonomy": "product_tag",
+      "meta": [],
+      "acf": [],
+      "_links": {
+        "self": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag/138",
+            "targetHints": {
+              "allow": [
+                "GET"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/taxonomies/product_tag"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product?product_tag=138"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 141,
+      "count": 6,
+      "description": "",
+      "link": "https://ekadmall.com/product-tag/%da%a9%d9%88%d8%af-%da%a9%d8%b4%d8%a7%d9%88%d8%b1%d8%b2%db%8c-%da%a9%d8%b4%d8%aa-%d8%a8%d9%87%d8%a7%d8%b1/",
+      "name": "کود کشاورزی کشت بهار",
+      "slug": "%da%a9%d9%88%d8%af-%da%a9%d8%b4%d8%a7%d9%88%d8%b1%d8%b2%db%8c-%da%a9%d8%b4%d8%aa-%d8%a8%d9%87%d8%a7%d8%b1",
+      "taxonomy": "product_tag",
+      "meta": [],
+      "acf": [],
+      "_links": {
+        "self": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag/141",
+            "targetHints": {
+              "allow": [
+                "GET"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/taxonomies/product_tag"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product?product_tag=141"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 144,
+      "count": 1,
+      "description": "",
+      "link": "https://ekadmall.com/product-tag/%da%a9%d9%88%d8%af-%da%a9%d8%b4%d8%a7%d9%88%d8%b1%d8%b2%db%8c-%da%a9%d8%b4%d8%aa-%d9%be%d8%a7%db%8c%db%8c%d8%b2/",
+      "name": "کود کشاورزی کشت پاییز",
+      "slug": "%da%a9%d9%88%d8%af-%da%a9%d8%b4%d8%a7%d9%88%d8%b1%d8%b2%db%8c-%da%a9%d8%b4%d8%aa-%d9%be%d8%a7%db%8c%db%8c%d8%b2",
+      "taxonomy": "product_tag",
+      "meta": [],
+      "acf": [],
+      "_links": {
+        "self": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag/144",
+            "targetHints": {
+              "allow": [
+                "GET"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/taxonomies/product_tag"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product?product_tag=144"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 142,
+      "count": 5,
+      "description": "",
+      "link": "https://ekadmall.com/product-tag/%da%a9%d9%88%d8%af-%da%a9%d8%b4%d8%a7%d9%88%d8%b1%d8%b2%db%8c-%da%a9%d8%b4%d8%aa-%d8%aa%d8%a7%d8%a8%d8%b3%d8%aa%d8%a7%d9%86%d9%87/",
+      "name": "کود کشاورزی کشت تابستانه",
+      "slug": "%da%a9%d9%88%d8%af-%da%a9%d8%b4%d8%a7%d9%88%d8%b1%d8%b2%db%8c-%da%a9%d8%b4%d8%aa-%d8%aa%d8%a7%d8%a8%d8%b3%d8%aa%d8%a7%d9%86%d9%87",
+      "taxonomy": "product_tag",
+      "meta": [],
+      "acf": [],
+      "_links": {
+        "self": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag/142",
+            "targetHints": {
+              "allow": [
+                "GET"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/taxonomies/product_tag"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product?product_tag=142"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 143,
+      "count": 1,
+      "description": "",
+      "link": "https://ekadmall.com/product-tag/%da%a9%d9%88%d8%af-%da%a9%d8%b4%d8%a7%d9%88%d8%b1%d8%b2%db%8c-%da%a9%d8%b4%d8%aa-%d8%b2%d9%85%d8%b3%d8%aa%d8%a7%d9%86/",
+      "name": "کود کشاورزی کشت زمستان",
+      "slug": "%da%a9%d9%88%d8%af-%da%a9%d8%b4%d8%a7%d9%88%d8%b1%d8%b2%db%8c-%da%a9%d8%b4%d8%aa-%d8%b2%d9%85%d8%b3%d8%aa%d8%a7%d9%86",
+      "taxonomy": "product_tag",
+      "meta": [],
+      "acf": [],
+      "_links": {
+        "self": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag/143",
+            "targetHints": {
+              "allow": [
+                "GET"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/taxonomies/product_tag"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product?product_tag=143"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 1679,
+      "count": 21,
+      "description": "<ul>\r\n \t<li><strong>قیمت کود گرانوله 25 کیلویی</strong></li>\r\n \t<li><strong>قیمت کود کامل آلی گرانوله ۵۰ کیلویی</strong></li>\r\n \t<li><strong>زمان مصرف کود کامل گرانوله</strong></li>\r\n \t<li><strong>کود کامل گرانوله خارجی</strong></li>\r\n \t<li><strong>کود کامل گرانوله</strong></li>\r\n</ul>",
+      "link": "https://ekadmall.com/product-tag/%da%a9%d9%88%d8%af-%da%af%d8%b1%d8%a7%d9%86%d9%88%d9%84/",
+      "name": "کود گرانول",
+      "slug": "%da%a9%d9%88%d8%af-%da%af%d8%b1%d8%a7%d9%86%d9%88%d9%84",
+      "taxonomy": "product_tag",
+      "meta": [],
+      "acf": [],
+      "_links": {
+        "self": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag/1679",
+            "targetHints": {
+              "allow": [
+                "GET"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/taxonomies/product_tag"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product?product_tag=1679"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 216,
+      "count": 53,
+      "description": "",
+      "link": "https://ekadmall.com/product-tag/%da%a9%d9%88%d8%af-%d9%85%d8%a7%db%8c%d8%b9/",
+      "name": "کود مایع",
+      "slug": "%da%a9%d9%88%d8%af-%d9%85%d8%a7%db%8c%d8%b9",
+      "taxonomy": "product_tag",
+      "meta": [],
+      "acf": [],
+      "_links": {
+        "self": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag/216",
+            "targetHints": {
+              "allow": [
+                "GET"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/taxonomies/product_tag"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product?product_tag=216"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 1707,
+      "count": 18,
+      "description": "کود محرک رشد یا بیواستیمولانت از ترکیب اسیدهای آمینه ال-پرولین و ال-تریپتوفان، عصاره جلبک‌های دریایی (نظیر آسکوفیلوم نودوسوم) و تنظیم‌کننده‌های فیزیولوژیک ساخته شده است. این کودها فرآیندهای تقسیم و تمایز سلولی را فعال نموده و با بازیابی فعالیت آنزیمی، رشدی شتابان و مستمر را در بافت‌ها رقم می‌زنند.",
+      "link": "https://ekadmall.com/product-tag/%da%a9%d9%88%d8%af-%d9%85%d8%ad%d8%b1%da%a9-%d8%b1%d8%b4%d8%af/",
+      "name": "کود محرک رشد",
+      "slug": "%da%a9%d9%88%d8%af-%d9%85%d8%ad%d8%b1%da%a9-%d8%b1%d8%b4%d8%af",
+      "taxonomy": "product_tag",
+      "meta": [],
+      "acf": [],
+      "_links": {
+        "self": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag/1707",
+            "targetHints": {
+              "allow": [
+                "GET"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/taxonomies/product_tag"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product?product_tag=1707"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 1705,
+      "count": 10,
+      "description": "کود محلول پاشی حاوی موادی با درجه حلالیت صد در صدی و فاقد کلر و ناخالصی است که قابلیت جذب سریع از طریق کوتیکول و روزنه‌های برگ را دارا می‌باشد. در شرایطی که جذب ریشه‌ای به دلیل خشکی، سرما یا قلیایی بودن خاک مختل است، این کودها بهترین راهکار جبران سریع کمبودها و تغذیه برگی گیاهان به شمار می‌آیند.",
+      "link": "https://ekadmall.com/product-tag/%da%a9%d9%88%d8%af-%d9%85%d8%ad%d9%84%d9%88%d9%84-%d9%be%d8%a7%d8%b4%db%8c/",
+      "name": "کود محلول پاشی",
+      "slug": "%da%a9%d9%88%d8%af-%d9%85%d8%ad%d9%84%d9%88%d9%84-%d9%be%d8%a7%d8%b4%db%8c",
+      "taxonomy": "product_tag",
+      "meta": [],
+      "acf": [],
+      "_links": {
+        "self": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag/1705",
+            "targetHints": {
+              "allow": [
+                "GET"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/taxonomies/product_tag"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product?product_tag=1705"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 1709,
+      "count": 17,
+      "description": "کود محلول در آب به کودهایی اتلاق می‌گردد که دارای خلوص آزمایشگاهی بسیار بالا و فاقد ذرات نامحلول، سدیم و کلر اضافی هستند. این محصولات برای انواع روش‌های کودآبیاری نوین نظیر آبیاری قطره‌ای، سنترپیوت و بارانی بهینه شده‌اند و مانع رسوب‌گذاری و انسداد لوله‌ها و قطره‌چکان‌ها می‌گردند.",
+      "link": "https://ekadmall.com/product-tag/%da%a9%d9%88%d8%af-%d9%85%d8%ad%d9%84%d9%88%d9%84-%d8%af%d8%b1-%d8%a2%d8%a8/",
+      "name": "کود محلول در آب",
+      "slug": "%da%a9%d9%88%d8%af-%d9%85%d8%ad%d9%84%d9%88%d9%84-%d8%af%d8%b1-%d8%a2%d8%a8",
+      "taxonomy": "product_tag",
+      "meta": [],
+      "acf": [],
+      "_links": {
+        "self": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag/1709",
+            "targetHints": {
+              "allow": [
+                "GET"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/taxonomies/product_tag"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product?product_tag=1709"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 205,
+      "count": 6,
+      "description": "",
+      "link": "https://ekadmall.com/product-tag/%da%a9%d9%88%d8%af-%d9%85%d8%ae%d8%b5%d9%88%d8%b5-%d8%a8%d8%a7%d8%ba-%d9%88-%d9%88%db%8c%d9%84%d8%a7/",
+      "name": "کود مخصوص باغ و ویلا",
+      "slug": "%da%a9%d9%88%d8%af-%d9%85%d8%ae%d8%b5%d9%88%d8%b5-%d8%a8%d8%a7%d8%ba-%d9%88-%d9%88%db%8c%d9%84%d8%a7",
+      "taxonomy": "product_tag",
+      "meta": [],
+      "acf": [],
+      "_links": {
+        "self": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag/205",
+            "targetHints": {
+              "allow": [
+                "GET"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/taxonomies/product_tag"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product?product_tag=205"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    },
+    {
+      "id": 133,
+      "count": 6,
+      "description": "",
+      "link": "https://ekadmall.com/product-tag/%da%a9%d9%88%d8%af-%d9%86%db%8c%d8%aa%d8%b1%d9%88%da%98%d9%86-%d8%a8%d8%a7%d9%84%d8%a7/",
+      "name": "کود نیتروژن بالا",
+      "slug": "%da%a9%d9%88%d8%af-%d9%86%db%8c%d8%aa%d8%b1%d9%88%da%98%d9%86-%d8%a8%d8%a7%d9%84%d8%a7",
+      "taxonomy": "product_tag",
+      "meta": [],
+      "acf": [],
+      "_links": {
+        "self": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag/133",
+            "targetHints": {
+              "allow": [
+                "GET"
+              ]
+            }
+          }
+        ],
+        "collection": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product_tag"
+          }
+        ],
+        "about": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/taxonomies/product_tag"
+          }
+        ],
+        "wp:post_type": [
+          {
+            "href": "https://ekadmall.com/wp-json/wp/v2/product?product_tag=133"
+          }
+        ],
+        "curies": [
+          {
+            "name": "wp",
+            "href": "https://api.w.org/{rel}",
+            "templated": true
+          }
+        ]
+      }
+    }
+  ]
+}

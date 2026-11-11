@@ -1,0 +1,138 @@
+{
+  "captured_at": "2026-11-11T09:55:26.000Z",
+  "source": "https://ekadmall.com/wp-json/wp/v2/",
+  "item": {
+    "id": 1812,
+    "date": "2026-05-08T00:11:53",
+    "date_gmt": "2026-05-07T20:41:53",
+    "guid": {
+      "rendered": "https://ekadmall.com/?post_type=product&#038;p=1812"
+    },
+    "modified": "2026-11-08T10:55:35",
+    "modified_gmt": "2026-11-08T07:25:35",
+    "slug": "%da%a9%d9%88%d8%af-%d8%a2%d9%85%db%8c%d9%86%d9%88-%d8%a7%d8%b3%db%8c%d8%af-40-%d8%a7%d8%af%d9%88%d8%a8-%d9%be%d8%b1%d9%88",
+    "status": "publish",
+    "type": "product",
+    "link": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%d8%a2%d9%85%db%8c%d9%86%d9%88-%d8%a7%d8%b3%db%8c%d8%af-40-%d8%a7%d8%af%d9%88%d8%a8-%d9%be%d8%b1%d9%88/",
+    "title": {
+      "rendered": "کود آمینو اسید 40% ادوب پرو"
+    },
+    "content": {
+      "rendered": "<p>کود آمینواسید 40% ADOB PRO یک محرک رشد و تقویت کننده فوق العاده قدرتمند است که با تامین مستقیم بلوک های ساختمانی پروتئین (آمینواسیدها) در گیاه، نقش حیاتی در عبور گیاه از شرایط تنش زا ایفا می کند. این محصول با فراهم کردن آمینواسیدهای ضروری، نیاز گیاه به مصرف انرژی زیاد برای سنتز آنها از طریق نیتروژن را کاهش داده و باعث می شود گیاه بتواند انرژی خود را صرف رشد، گلدهی و تشکیل میوه کند. استفاده از این کود در زمان های حساس مانند وقوع تنش های محیطی (سرما، گرما، خشکی یا شوری) و همچنین در مراحل انتقال نشاء و پیش از گلدهی، نه تنها باعث بهبود عملکرد و افزایش کیفیت محصول می شود، بلکه با افزایش قابلیت جذب سایر عناصر و تقویت سیستم ایمنی گیاه، از آسیب های فیزیولوژیک جلوگیری کرده و پایداری عملکرد را در شرایط سخت تضمین می کند.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<ul>\n<li>بهبود فرایند گرده افشانی و تشکیل میوه</li>\n<li>پیشگیری از ریزش زودهنگام گل و میوه</li>\n<li>تسهیل جذب و انتقال مواد غذایی در گیاه</li>\n<li>افزایش مقاومت گیاه در برابر شوری و خشکی</li>\n<li>کاهش تنش های سرمایی و گرمایی</li>\n<li>افزایش سایز و بهبود یکنواختی عطر و طعم محصولات</li>\n</ul>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 1826,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_daextam_enable_autolinks": "1"
+    },
+    "product_brand": [
+      1647
+    ],
+    "product_cat": [
+      1646
+    ],
+    "product_tag": [
+      202,
+      196,
+      216,
+      1707
+    ],
+    "class_list": [
+      "post-1812",
+      "product",
+      "type-product",
+      "status-publish",
+      "has-post-thumbnail",
+      "product_brand-adob-pro",
+      "product_cat-amino-acid",
+      "product_tag-202",
+      "product_tag-196",
+      "product_tag-216",
+      "product_tag-1707",
+      "",
+      "instock",
+      "shipping-taxable",
+      "purchasable",
+      "product-type-simple"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product/1812",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/types/product"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/comments?post=1812"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/media/1826"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/media?parent=1812"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "product_brand",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_brand?post=1812"
+        },
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_cat?post=1812"
+        },
+        {
+          "taxonomy": "product_tag",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_tag?post=1812"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+}

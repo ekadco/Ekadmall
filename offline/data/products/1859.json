@@ -1,0 +1,138 @@
+{
+  "captured_at": "2026-11-11T09:55:26.000Z",
+  "source": "https://ekadmall.com/wp-json/wp/v2/",
+  "item": {
+    "id": 1859,
+    "date": "2026-05-14T12:57:02",
+    "date_gmt": "2026-05-14T09:27:02",
+    "guid": {
+      "rendered": "https://ekadmall.com/?post_type=product&#038;p=1859"
+    },
+    "modified": "2026-11-04T14:08:03",
+    "modified_gmt": "2026-11-04T10:38:03",
+    "slug": "%da%a9%d9%88%d8%af-%d8%ac%d9%84%d8%a8%da%a9-%d8%af%d8%b1%db%8c%d8%a7%db%8c%db%8c-%d8%ba%d9%86%db%8c-%d8%b4%d8%af%d9%87-%d9%87%d8%a7%d9%86%d8%a7-%d9%85%d8%a7%d8%b1%db%8c%d8%b3%d9%88%d9%84",
+    "status": "publish",
+    "type": "product",
+    "link": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%d8%ac%d9%84%d8%a8%da%a9-%d8%af%d8%b1%db%8c%d8%a7%db%8c%db%8c-%d8%ba%d9%86%db%8c-%d8%b4%d8%af%d9%87-%d9%87%d8%a7%d9%86%d8%a7-%d9%85%d8%a7%d8%b1%db%8c%d8%b3%d9%88%d9%84/",
+    "title": {
+      "rendered": "کود جلبک دریایی غنی شده هانا (ماریسول)"
+    },
+    "content": {
+      "rendered": "<div class=\"elementor-element elementor-element-976eb89 e-flex e-con-boxed e-con e-parent e-lazyloaded\" data-id=\"976eb89\" data-element_type=\"container\" data-e-type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n<div class=\"e-con-inner\">\n<div class=\"elementor-element elementor-element-a4a157f e-con-full e-flex e-con e-child\" data-id=\"a4a157f\" data-element_type=\"container\" data-e-type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n<div class=\"elementor-element elementor-element-576410e elementor-widget elementor-widget-woocommerce-product-short-description\" data-id=\"576410e\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"woocommerce-product-short-description.default\">\n<div class=\"woocommerce-product-details__short-description\">\n<p>عصاره جلبک دریایی ماریسول یک محرک زیستی حاوی عناصر نیتروژن، فسفر و پتاسیم به همراه عصاره جلبک دریایی و اسید آمینه می باشد که به تحریک رشد گیاه، افزایش تحمل در برابر تنش‌های محیطی و بهبود عملکرد و کیفیت محصول کمک می‌کند</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<ul>\n<li>تحریک رشد گیاه</li>\n<li>افزایش تحمل در برابر تنش های محیطی</li>\n<li>بهبود عملکرد و کیفیت محصول</li>\n</ul>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 1942,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_daextam_enable_autolinks": "1"
+    },
+    "product_brand": [
+      1652
+    ],
+    "product_cat": [
+      1668
+    ],
+    "product_tag": [
+      200,
+      196,
+      216,
+      1707
+    ],
+    "class_list": [
+      "post-1859",
+      "product",
+      "type-product",
+      "status-publish",
+      "has-post-thumbnail",
+      "product_brand-hana",
+      "product_cat-seaweed-fertilizer",
+      "product_tag-200",
+      "product_tag-196",
+      "product_tag-216",
+      "product_tag-1707",
+      "first",
+      "instock",
+      "shipping-taxable",
+      "purchasable",
+      "product-type-simple"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product/1859",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/types/product"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/comments?post=1859"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/media/1942"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/media?parent=1859"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "product_brand",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_brand?post=1859"
+        },
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_cat?post=1859"
+        },
+        {
+          "taxonomy": "product_tag",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_tag?post=1859"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+}

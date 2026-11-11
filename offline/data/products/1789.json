@@ -1,0 +1,142 @@
+{
+  "captured_at": "2026-11-11T09:55:26.000Z",
+  "source": "https://ekadmall.com/wp-json/wp/v2/",
+  "item": {
+    "id": 1789,
+    "date": "2026-05-05T13:40:02",
+    "date_gmt": "2026-05-05T10:10:02",
+    "guid": {
+      "rendered": "https://ekadmall.com/?post_type=product&#038;p=1789"
+    },
+    "modified": "2026-11-10T13:14:43",
+    "modified_gmt": "2026-11-10T09:44:43",
+    "slug": "%da%a9%d9%88%d8%af-%d9%85%d8%a7%db%8c%d8%b9-%d8%a7%d9%86%d9%81%d9%88%d8%b1%db%8c%da%a9-%d8%a7%d8%b3%db%8c%d8%af-%d8%b3%db%8c%d8%aa%d9%88%d8%b3%db%8c%d9%81",
+    "status": "publish",
+    "type": "product",
+    "link": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%d9%85%d8%a7%db%8c%d8%b9-%d8%a7%d9%86%d9%81%d9%88%d8%b1%db%8c%da%a9-%d8%a7%d8%b3%db%8c%d8%af-%d8%b3%db%8c%d8%aa%d9%88%d8%b3%db%8c%d9%81/",
+    "title": {
+      "rendered": "کود مایع انفوریک اسید سیتوسیف"
+    },
+    "content": {
+      "rendered": "<p dir=\"rtl\" lang=\"fa\">در دنیای کشاورزی مدرن، استفاده از کودهای با کیفیت و موثر نقش کلیدی در افزایش محصول و بهبود سلامت گیاهان دارد. یکی از مواد شیمیایی پرکاربرد و اثربخش در این حوزه، <strong>انفوریک اسید سیتوسیف</strong> است که به عنوان یک کود کشاورزی پیشرفته و منحصر به فرد، توانسته است نیازهای کشاورزان و باغداران را برآورده کند.</p>\n<h2 dir=\"rtl\" lang=\"fa\"><strong>کاربرد و فواید انفوریک اسید سیتوسیف در کشاورزی:</strong></h2>\n<ul dir=\"rtl\" lang=\"fa\">\n<li><strong>بهبود جذب مواد مغذی:</strong> این اسید باعث افزایش قابلیت گیاهان در جذب عناصر مهم مانند نیتروژن، فسفر و پتاسیم می‌شود.</li>\n<li><strong>تنظیم pH خاک:</strong> کمک به اصلاح و متعادل‌سازی اسیدیته خاک، که به رشد سالم ریشه و گیاه کمک می‌کند.</li>\n<li><strong>افزایش مقاومت گیاهان:</strong> با تقویت سیستم ایمنی و کاهش استرس، گیاهان مقاوم‌تر در برابر آفات و بیماری‌ها می‌شوند.</li>\n<li><strong>تحرک و پاشش سریع:</strong> به دلیل ساختار شیمیایی خاص، این کود به راحتی در خاک و سیستم ریشه پخش می‌شود و اثرگذاری سریع دارد.</li>\n</ul>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<ul>\n<li dir=\"rtl\" lang=\"fa\">تأمین عناصر ضروری رشد و افزایش سبزینه و قدرت تولید در گیاهان.</li>\n<li dir=\"rtl\" lang=\"fa\">ایجاد محیط مناسب برای جذب بهتر مواد غذایی و فعال‌سازی میکروارگانیسم‌های مفید خاک.</li>\n<li dir=\"rtl\" lang=\"fa\">افزایش تامین فسفر و ریزمغذی‌هایی که در شرایط قلیایی غیرقابل جذب هستند.</li>\n<li dir=\"rtl\" lang=\"fa\">مناسب برای مناطق با منابع آبی شور، جلوگیری از تجمع نمک در ناحیه ریشه.</li>\n<li dir=\"rtl\" lang=\"fa\">موثر در پیشگیری از بیماری‌های قارچی و باکتریایی در سیب‌زمینی، چغندر، هویج، تربچه و سایر محصولات مشابه.</li>\n<li dir=\"rtl\" lang=\"fa\">کاربرد مؤثر در کاهش خسارت آفات انگلی گیاه‌خوار و حفظ سلامت مزرعه.</li>\n<li dir=\"rtl\" lang=\"fa\">افزایش وزن، یکنواختی و رنگ محصولات با بهبود تغذیه و جذب عناصر.</li>\n<li dir=\"rtl\" lang=\"fa\">رسوب‌زدایی از قطره‌چکان‌ها و لوله‌ها، تضمین‌کننده جریان یکنواخت آب و مواد غذایی.</li>\n<li dir=\"rtl\" lang=\"fa\">سازگار با سیستم‌های قطره‌ای، بارانی، تحت فشار و خاکی.</li>\n</ul>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 1805,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_daextam_enable_autolinks": "1"
+    },
+    "product_brand": [
+      85
+    ],
+    "product_cat": [
+      1674
+    ],
+    "product_tag": [
+      139,
+      206,
+      202,
+      204,
+      216,
+      205
+    ],
+    "class_list": [
+      "post-1789",
+      "product",
+      "type-product",
+      "status-publish",
+      "has-post-thumbnail",
+      "product_brand-see-to-safe",
+      "product_cat-n-phuric-acid",
+      "product_tag-139",
+      "product_tag-206",
+      "product_tag-202",
+      "product_tag-204",
+      "product_tag-216",
+      "product_tag-205",
+      "",
+      "instock",
+      "shipping-taxable",
+      "purchasable",
+      "product-type-simple"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product/1789",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/types/product"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/comments?post=1789"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/media/1805"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/media?parent=1789"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "product_brand",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_brand?post=1789"
+        },
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_cat?post=1789"
+        },
+        {
+          "taxonomy": "product_tag",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_tag?post=1789"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+}

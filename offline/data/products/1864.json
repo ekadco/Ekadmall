@@ -1,0 +1,140 @@
+{
+  "captured_at": "2026-11-11T09:55:26.000Z",
+  "source": "https://ekadmall.com/wp-json/wp/v2/",
+  "item": {
+    "id": 1864,
+    "date": "2026-05-14T13:13:44",
+    "date_gmt": "2026-05-14T09:43:44",
+    "guid": {
+      "rendered": "https://ekadmall.com/?post_type=product&#038;p=1864"
+    },
+    "modified": "2026-10-05T17:06:36",
+    "modified_gmt": "2026-10-05T13:36:36",
+    "slug": "%da%a9%d9%88%d8%af-%d8%a2%d9%85%db%8c%d9%86%d9%88-%d8%a7%d8%b3%db%8c%d8%af-80-%d9%87%d8%a7%d9%86%d8%a7-%d8%a8%d8%a7%db%8c%d9%88%d9%84%d9%88%da%a9%d8%b3",
+    "status": "publish",
+    "type": "product",
+    "link": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%d8%a2%d9%85%db%8c%d9%86%d9%88-%d8%a7%d8%b3%db%8c%d8%af-80-%d9%87%d8%a7%d9%86%d8%a7-%d8%a8%d8%a7%db%8c%d9%88%d9%84%d9%88%da%a9%d8%b3/",
+    "title": {
+      "rendered": "کود آمینو اسید 80% هانا (بایولوکس)"
+    },
+    "content": {
+      "rendered": "<div class=\"elementor-element elementor-element-976eb89 e-flex e-con-boxed e-con e-parent e-lazyloaded\" data-id=\"976eb89\" data-element_type=\"container\" data-e-type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n<div class=\"e-con-inner\">\n<div class=\"elementor-element elementor-element-a4a157f e-con-full e-flex e-con e-child\" data-id=\"a4a157f\" data-element_type=\"container\" data-e-type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n<div class=\"elementor-element elementor-element-576410e elementor-widget elementor-widget-woocommerce-product-short-description\" data-id=\"576410e\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"woocommerce-product-short-description.default\">\n<div class=\"woocommerce-product-details__short-description\">\n<p>سبب بهبود سنتز پروتئین، جذب عناصر مغذی توسط گیاه، بهبود کیفیت میوه، بهبود گلدهی و میوه دهی و بازیابی سریعتر سلامت گیاه در برابر تنش های محیطی</p>\n<p>آمینو اسید بایولوکس حاوی اسیدهای آمینه آزاد می باشد که می تواند سبب بهبود سنتز پروتئین، جذب عناصر مغذی توسط گیاه، بهبود کیفیت میوه، بهبود گلدهی و میوه دهی و بازیابی سریعتر سلامت گیاه در برابر تنش های محیطی می شود.</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div class=\"elementor-element elementor-element-f0e0841 e-flex e-con-boxed e-con e-parent e-lazyloaded\" data-id=\"f0e0841\" data-element_type=\"container\" data-e-type=\"container\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\">\n<div class=\"e-con-inner\">\n<div class=\"elementor-element elementor-element-0d785ad elementor-widget elementor-widget-woocommerce-product-data-tabs\" data-id=\"0d785ad\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"woocommerce-product-data-tabs.default\">\n<div class=\"woocommerce-tabs wc-tabs-wrapper\"></div>\n</div>\n</div>\n</div>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<ul>\n<li>اسید آمینه 80%</li>\n<li>محرک رشد طبیعی</li>\n<li>آنتی استرس</li>\n<li>افزایش کیفیت محصول</li>\n</ul>\n",
+      "protected": false
+    },
+    "author": 1,
+    "featured_media": 1948,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_daextam_enable_autolinks": "1"
+    },
+    "product_brand": [
+      1652
+    ],
+    "product_cat": [
+      1646
+    ],
+    "product_tag": [
+      200,
+      202,
+      196,
+      216,
+      1707
+    ],
+    "class_list": [
+      "post-1864",
+      "product",
+      "type-product",
+      "status-publish",
+      "has-post-thumbnail",
+      "product_brand-hana",
+      "product_cat-amino-acid",
+      "product_tag-200",
+      "product_tag-202",
+      "product_tag-196",
+      "product_tag-216",
+      "product_tag-1707",
+      "",
+      "instock",
+      "shipping-taxable",
+      "product-type-variable",
+      "has-default-attributes"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product/1864",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/types/product"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/users/1"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/comments?post=1864"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/media/1948"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/media?parent=1864"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "product_brand",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_brand?post=1864"
+        },
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_cat?post=1864"
+        },
+        {
+          "taxonomy": "product_tag",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_tag?post=1864"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+}

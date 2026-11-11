@@ -1,5 +1,6 @@
 import { mkdir, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
+import { splitSnapshot } from './split-snapshot.mjs';
 
 const base = 'https://ekadmall.com/wp-json/wp/v2/';
 const dir = 'offline';
@@ -100,4 +101,5 @@ if (encyclopedia) {
   const encyclopediaHtml = `<!doctype html><html lang="fa" dir="rtl"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>دانشنامه کشاورز</title><style>body{font:16px Tahoma,sans-serif;line-height:1.9;margin:2rem auto;padding:0 1rem;max-width:1000px;background:#f7f8f4;color:#1b2b20}input{font:inherit;width:100%;box-sizing:border-box;padding:.7rem}details{background:white;padding:1rem;margin:.7rem 0;border-radius:8px}summary{font-weight:bold;cursor:pointer;color:#155535}a{color:#176537}</style></head><body><h1>دانشنامه کشاورز</h1><p><a href="index.html">بازگشت به دانشنامه آفلاین</a></p><p id="date"></p><label for="q">جست‌وجو در پرسش و پاسخ‌ها</label><input id="q" type="search" placeholder="برای نمونه: خاک یا آبیاری"><p id="count"></p><main id="items"></main><script>${linkHelper}const data=${data};const doc=new DOMParser().parseFromString(data.content,'text/html');const entries=[...doc.querySelectorAll('.accordion-item.schema-faq-section')].map(item=>({question:item.querySelector('.accordion-header')?.textContent.trim().replace(/^\\d+\\s*/,''),answer:item.querySelector('.accordion-body')?.innerHTML||''})).filter(item=>item.question);function render(){const q=document.querySelector('#q').value.trim().toLocaleLowerCase('fa');const rows=entries.filter(item=>{let d=new DOMParser().parseFromString(item.answer,'text/html');return (item.question+' '+d.body.textContent).toLocaleLowerCase('fa').includes(q)});document.querySelector('#count').textContent=rows.length+' پرسش و پاسخ';const out=document.querySelector('#items');out.replaceChildren();for(const item of rows){const details=document.createElement('details'),summary=document.createElement('summary'),answer=document.createElement('div'),d=new DOMParser().parseFromString(item.answer,'text/html');summary.textContent=item.question;cleanLinks(d);answer.append(...d.body.childNodes);details.append(summary,answer);out.append(details)}}document.querySelector('#q').oninput=render;document.querySelector('#date').textContent='نسخه دریافت‌شده در '+data.captured_at;render();</script></body></html>`;
   await writeFile(join(dir, 'encyclopedia.html'), encyclopediaHtml, 'utf8');
 }
+await splitSnapshot(snapshot);
 console.log(JSON.stringify(snapshot.counts));

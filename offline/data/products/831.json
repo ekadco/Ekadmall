@@ -1,0 +1,141 @@
+{
+  "captured_at": "2026-11-11T09:55:26.000Z",
+  "source": "https://ekadmall.com/wp-json/wp/v2/",
+  "item": {
+    "id": 831,
+    "date": "2025-12-17T18:24:50",
+    "date_gmt": "2025-12-17T14:54:50",
+    "guid": {
+      "rendered": "https://ekadmall.com/?post_type=product&#038;p=831"
+    },
+    "modified": "2026-11-09T12:49:25",
+    "modified_gmt": "2026-11-09T09:19:25",
+    "slug": "%da%a9%d9%88%d8%af-%d9%be%d8%aa%d8%a7%d8%b3%db%8c%d9%85-%d9%85%d8%a7%db%8c%d8%b9-40-potash-%da%98%db%8c%da%af%d8%a7%d8%b3",
+    "status": "publish",
+    "type": "product",
+    "link": "https://ekadmall.com/product/%da%a9%d9%88%d8%af-%d9%be%d8%aa%d8%a7%d8%b3%db%8c%d9%85-%d9%85%d8%a7%db%8c%d8%b9-40-potash-%da%98%db%8c%da%af%d8%a7%d8%b3/",
+    "title": {
+      "rendered": "کود پتاسیم مایع 40 (Potash) ژیگاس"
+    },
+    "content": {
+      "rendered": "<p>کود پتاسیم مایع گیگاس حاوی عناصر  پتاسیم ، منیزیم ، مواد آلی و ریز مغذی ها به فرم کلات (EDTA) با فرمولاسیون ویژه می باشد. این محصول امکان جذب پنج برابری نسبت به سایر منابع پتاسیم مایع مانند نیترات ها، هیدروکسیدها، تیوسولفات ها یا کربنات ها  را دارد . دارای pH تقریباً خنثی است و سوزاننده یا خورنده نیست و در نتیجه هنگام استفاده استرس بر روی گیاه ایجاد نمی کند. این محصول ترکیبی از یک نمک معدنی و یک اسید آلی است که به سرعت جذب گیاه می شود و سطح پتاسیم را افزایش می دهد و انرژی مورد نیاز را در طول دوره های رشد سریع، رشد میوه و اندازه گیری، زمانی که نیاز به پتاسیم بیشتر است، تامین می کند.</p>\n<p><strong>خرید مطمئن از ایکادمال:</strong></p>\n<p dir=\"rtl\" lang=\"fa\" style=\"text-align: right;\"><strong>کود پتاسیم مایع ۴۰ (Potash) ژیگاس</strong> را با اصالت صددرصدی، بسته‌بندی استاندارد و ضمانت کیفیت از <strong>فروشگاه کشاورزی ایکادمال</strong> تهیه کنید. در صورت نیاز به راهنمایی در مورد تقویم تغذیه‌ای و ترکیب دقیق با سایر مکمل‌ها برای افزایش باردهی، کارشناسان فنی ایکادمال همراه شما هستند.</p>\n",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<ul>\n<li>حاوی پتاسیم، ماده آلی، منیزیم و ریزمغذی های کلاته</li>\n<li>تامین پتاسیم و رفع سریع کمبود پتاسیم در گیاه</li>\n<li>دارای pH خنثی و کمترین شوری در بین همه منابع پتاسیم</li>\n<li>جذب سریع از طریق برگ و ریشه</li>\n<li>افزایش گلدهی و به حداکثر رساندن گل و میوه</li>\n<li>کمک به هم رسی و یکنواختی میوه ها</li>\n<li>بهبود طعم، رنگ و بازارپسندی محصولات</li>\n<li>تسریع در رسیدگی میوه</li>\n<li>بهبود سیستم ایمنی گیاه و افزایش مقاومت در برابر تنش های محیطی</li>\n<li>افزایش ماندگاری میوه با تقویت دیواره سلولی</li>\n<li>افزایش عملکرد و تحریک جذب منگنز و آهن</li>\n</ul>\n",
+      "protected": false
+    },
+    "author": 3,
+    "featured_media": 984,
+    "comment_status": "open",
+    "ping_status": "closed",
+    "template": "",
+    "meta": {
+      "_acf_changed": false,
+      "_daextam_enable_autolinks": "1"
+    },
+    "product_brand": [
+      81
+    ],
+    "product_cat": [
+      67
+    ],
+    "product_tag": [
+      135,
+      202,
+      1690,
+      1710,
+      216
+    ],
+    "class_list": [
+      "post-831",
+      "product",
+      "type-product",
+      "status-publish",
+      "has-post-thumbnail",
+      "product_brand-gigas",
+      "product_cat-potassium-fertilizers",
+      "product_tag-135",
+      "product_tag-202",
+      "product_tag-1690",
+      "product_tag-1710",
+      "product_tag-216",
+      "",
+      "instock",
+      "shipping-taxable",
+      "purchasable",
+      "product-type-variable",
+      "has-default-attributes"
+    ],
+    "acf": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product/831",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/product"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/types/product"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/users/3"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/comments?post=831"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/media/984"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "https://ekadmall.com/wp-json/wp/v2/media?parent=831"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "product_brand",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_brand?post=831"
+        },
+        {
+          "taxonomy": "product_cat",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_cat?post=831"
+        },
+        {
+          "taxonomy": "product_tag",
+          "embeddable": true,
+          "href": "https://ekadmall.com/wp-json/wp/v2/product_tag?post=831"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+}
