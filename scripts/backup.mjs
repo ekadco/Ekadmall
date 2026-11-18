@@ -3,6 +3,7 @@ import { join } from 'node:path';
 import { splitSnapshot } from './split-snapshot.mjs';
 import { improve } from './improve-html.mjs';
 import { buildDirectoryPages } from './build-directories.mjs';
+import { buildHome } from './build-home.mjs';
 
 const base = 'https://ekadmall.com/wp-json/wp/v2/';
 const dir = 'offline';
@@ -104,5 +105,6 @@ if (encyclopedia) {
   await writeFile(join(dir, 'encyclopedia.html'), improve('encyclopedia.html', encyclopediaHtml), 'utf8');
 }
 await buildDirectoryPages(snapshot);
+await buildHome(snapshot);
 await splitSnapshot(snapshot);
 console.log(JSON.stringify(snapshot.counts));
